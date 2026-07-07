@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update:
@@ -40,4 +41,8 @@ jobs:
           else
             git commit -m "chore: daily news + insights refresh"
             git push
+            # GITHUB_TOKEN pushes don't trigger the Pages workflow; dispatch it explicitly
+            gh workflow run deploy-pages.yml
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}
