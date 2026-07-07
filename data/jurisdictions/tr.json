@@ -1,0 +1,50 @@
+{
+  "code": "tr",
+  "name": "Turkey (Türkiye)",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Turkey's Law on the Protection of Personal Data No. 6698 (KVKK, 2016) was modelled on the pre-GDPR EU Directive. Major 2024 amendments aligned key areas with the GDPR: new lawful bases for sensitive data, and a reformed cross-border transfer regime (adequacy decisions, standard contracts filed with the Authority, BCRs). The Personal Data Protection Authority (KVKK) enforces actively, including against foreign companies.",
+  "regulator": {
+    "name": "Personal Data Protection Authority (KVKK)",
+    "url": "https://www.kvkk.gov.tr/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law on the Protection of Personal Data No. 6698",
+      "type": "act",
+      "status": "in_force",
+      "date": "2016-04-07",
+      "official_text_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6698.pdf",
+      "issuing_authority": "Grand National Assembly of Turkey",
+      "summary": "Comprehensive law: processing conditions, sensitive-data rules, VERBIS controller registry, breach notification (72 hours per Board decision), and administrative fines. Amended March 2024 to modernise sensitive-data processing and cross-border transfers."
+    },
+    {
+      "title": "Regulation on the Procedures and Principles Regarding the Transfer of Personal Data Abroad",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2024-07-10",
+      "official_text_url": "https://www.kvkk.gov.tr/Icerik/7883/Yurt-Disina-Kisisel-Veri-Aktarilmasi",
+      "issuing_authority": "Personal Data Protection Authority",
+      "summary": "Implements the amended Art. 9 transfer regime: adequacy decisions, appropriate safeguards including standard contracts (to be filed with KVKK within 5 business days) and binding corporate rules, plus incidental-transfer derogations."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-09-01",
+      "title": "Grace period for legacy transfer mechanism ends",
+      "summary": "The explicit-consent basis for routine cross-border transfers expired, requiring controllers to move to standard contracts, BCRs or other Art. 9 mechanisms.",
+      "source_url": "https://www.kvkk.gov.tr/"
+    },
+    {
+      "date": "2024-03-12",
+      "title": "KVKK amendments enacted in judicial reform package",
+      "summary": "Law No. 7499 amended KVKK Arts. 6 and 9, adding GDPR-style conditions for sensitive data and a tiered cross-border transfer regime effective 1 June 2024.",
+      "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6698.pdf"
+    }
+  ],
+  "penalties": "Administrative fines (2025 revalued amounts) up to roughly TRY 13-15 million for the most serious violations (e.g. VERBIS and data-security breaches), adjusted annually; criminal sanctions under the Penal Code for unlawful recording/disclosure.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "Post-2024: adequacy decisions by the Board; absent adequacy, appropriate safeguards (standard contract filed with KVKK, BCRs, written undertakings with Board approval); limited derogations for incidental transfers.",
+  "last_reviewed": "2026-07-07"
+}

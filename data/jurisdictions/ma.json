@@ -1,0 +1,50 @@
+{
+  "code": "ma",
+  "name": "Morocco",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Morocco's Law No. 09-08 on the protection of individuals with regard to the processing of personal data (2009) follows the pre-GDPR French/EU model: declaration and authorisation filings with the CNDP, purpose limitation, consent requirements and transfer authorisations. Morocco ratified Convention 108+ and a modernising reform bill aligning the law with GDPR standards has been in preparation for several years.",
+  "regulator": {
+    "name": "Commission Nationale de contrôle de la protection des Données à caractère Personnel (CNDP)",
+    "url": "https://www.cndp.ma/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law No. 09-08 on Protection of Individuals with regard to Processing of Personal Data",
+      "type": "act",
+      "status": "in_force",
+      "date": "2009-02-18",
+      "official_text_url": "https://www.cndp.ma/loi-09-08/",
+      "issuing_authority": "Parliament of Morocco",
+      "summary": "Directive-95/46-style law: prior declaration or authorisation of processing with the CNDP, consent and proportionality requirements, sensitive-data authorisations, data subject rights and criminal penalties."
+    },
+    {
+      "title": "Decree No. 2-09-165 implementing Law 09-08",
+      "type": "decree",
+      "status": "in_force",
+      "date": "2009-05-21",
+      "official_text_url": "https://www.cndp.ma/decret-n-2-09-165/",
+      "issuing_authority": "Prime Minister of Morocco",
+      "summary": "Implementing decree establishing CNDP procedures, declaration/authorisation formats and transfer-authorisation processes."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-05-15",
+      "title": "GDPR-alignment reform bill in preparation",
+      "summary": "The government and CNDP continued work on a draft law replacing 09-08 with a GDPR-style accountability regime, alongside Morocco's Convention 108+ commitments and EU-adequacy ambitions.",
+      "source_url": "https://www.cndp.ma/"
+    },
+    {
+      "date": "2024-03-20",
+      "title": "CNDP campaigns on biometric and CCTV compliance",
+      "summary": "The CNDP issued deliberations and guidance on facial recognition, CCTV and digital identity processing, requiring prior authorisations.",
+      "source_url": "https://www.cndp.ma/"
+    }
+  ],
+  "penalties": "Criminal penalties: fines up to MAD 300,000 and imprisonment up to 2 years for offences such as processing without declaration/authorisation or unlawful transfers.",
+  "dpo_required": false,
+  "breach_notification": false,
+  "cross_border": "Transfers to states without adequate protection require CNDP authorisation; adequacy recognised for states ensuring sufficient protection (CNDP list).",
+  "last_reviewed": "2026-07-07"
+}

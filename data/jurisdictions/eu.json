@@ -1,0 +1,68 @@
+{
+  "code": "eu",
+  "name": "European Union",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "The EU's General Data Protection Regulation (GDPR) is the global reference standard for data protection, directly applicable across all 27 member states since May 2018 and enforced by national supervisory authorities coordinated through the European Data Protection Board (EDPB). It is flanked by the ePrivacy Directive and a growing digital acquis (DSA, DMA, Data Act, AI Act) that intersects with personal data. A GDPR 'omnibus' simplification package for SMEs was proposed in 2025.",
+  "regulator": {
+    "name": "European Data Protection Board (EDPB) — coordinating national supervisory authorities",
+    "url": "https://www.edpb.europa.eu/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2018-05-25",
+      "official_text_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "issuing_authority": "European Parliament and Council of the EU",
+      "summary": "Comprehensive regulation: six lawful bases, special category data rules, data subject rights, controller/processor accountability, DPIAs, DPOs, 72-hour breach notification, Chapter V transfer rules, and fines up to EUR 20 million or 4% of worldwide turnover."
+    },
+    {
+      "title": "Directive 2002/58/EC — ePrivacy Directive (as amended)",
+      "type": "directive",
+      "status": "in_force",
+      "date": "2002-07-31",
+      "official_text_url": "https://eur-lex.europa.eu/eli/dir/2002/58/oj",
+      "issuing_authority": "European Parliament and Council of the EU",
+      "summary": "Sector rules for electronic communications: confidentiality, cookies/terminal-equipment access (consent), and direct marketing. The long-stalled ePrivacy Regulation proposal was formally withdrawn in 2025."
+    },
+    {
+      "title": "Commission Implementing Decision (EU) 2021/914 — Standard Contractual Clauses",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2021-06-27",
+      "official_text_url": "https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj",
+      "issuing_authority": "European Commission",
+      "summary": "Modular SCCs for transfers to third countries under Art. 46 GDPR, requiring transfer impact assessments post-Schrems II."
+    },
+    {
+      "title": "Commission Adequacy Decision — EU-US Data Privacy Framework",
+      "type": "order",
+      "status": "in_force",
+      "date": "2023-07-10",
+      "official_text_url": "https://eur-lex.europa.eu/eli/dec_impl/2023/1795/oj",
+      "issuing_authority": "European Commission",
+      "summary": "Adequacy decision permitting transfers to US organisations certified under the Data Privacy Framework; subject to periodic review and ongoing legal challenge."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-11-19",
+      "title": "Commission proposes Digital Omnibus including GDPR amendments",
+      "summary": "The European Commission's Digital Omnibus package proposed targeted GDPR simplifications (records exemptions, breach-reporting streamlining, clarified AI/legitimate-interest provisions), drawing significant scrutiny from privacy advocates and the EDPB.",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/digital-omnibus"
+    },
+    {
+      "date": "2025-09-04",
+      "title": "CJEU ruling refines pseudonymisation and personal-data scope",
+      "summary": "The Court of Justice (EDPS v SRB) clarified when pseudonymised data ceases to be personal data in the hands of a recipient without means of re-identification.",
+      "source_url": "https://curia.europa.eu/"
+    }
+  ],
+  "penalties": "Up to EUR 20 million or 4% of total worldwide annual turnover (whichever higher) for the most serious infringements; EUR 10M/2% tier for others.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Chapter V: transfers via adequacy decisions, appropriate safeguards (SCCs, BCRs, codes/certification) with transfer impact assessments, or Art. 49 derogations. EU-US DPF adequacy in force since July 2023.",
+  "last_reviewed": "2026-07-07"
+}

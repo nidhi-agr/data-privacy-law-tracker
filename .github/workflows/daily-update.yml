@@ -1,0 +1,43 @@
+name: Daily data update
+
+on:
+  schedule:
+    - cron: "20 2 * * *"   # 02:20 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python tools/fetch_news.py
+
+      - name: Build insights
+        run: python tools/build_insights.py
+
+      - name: Validate data
+        run: python tools/validate_data.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json data/insights.json data/jurisdictions/index.json
+          if git diff --cached --quiet; then
+            echo "No data changes today."
+          else
+            git commit -m "chore: daily news + insights refresh"
+            git push
+          fi

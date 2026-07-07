@@ -1,0 +1,59 @@
+{
+  "code": "ke",
+  "name": "Kenya",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Kenya's Data Protection Act, 2019 is a GDPR-modelled comprehensive law overseen by the Office of the Data Protection Commissioner (ODPC), operational since 2021 with three sets of 2021 regulations (registration, complaints, general). The ODPC is one of Africa's most active authorities, issuing regular penalty notices against schools, digital lenders, hospitals and employers for unlawful processing and CCTV/photo misuse.",
+  "regulator": {
+    "name": "Office of the Data Protection Commissioner (ODPC)",
+    "url": "https://www.odpc.go.ke/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Data Protection Act, 2019 (No. 24 of 2019)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2019-11-25",
+      "official_text_url": "https://new.kenyalaw.org/akn/ke/act/2019/24/eng@2022-12-31",
+      "issuing_authority": "Parliament of Kenya",
+      "summary": "Comprehensive law: registration of controllers/processors, lawful bases, sensitive-data rules, data subject rights, DPIAs, 72-hour breach notification, transfer restrictions, and penalties up to KES 5 million or 1% of annual turnover."
+    },
+    {
+      "title": "Data Protection (General) Regulations, 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2022-02-25",
+      "official_text_url": "https://www.odpc.go.ke/data-protection-laws-kenya/",
+      "issuing_authority": "Cabinet Secretary, ICT",
+      "summary": "Operational detail on data subject rights, consent, DPOs, DPIAs, direct marketing, localisation triggers for strategic-interest processing and transfer safeguards."
+    },
+    {
+      "title": "Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2022-02-25",
+      "official_text_url": "https://www.odpc.go.ke/data-protection-laws-kenya/",
+      "issuing_authority": "Cabinet Secretary, ICT",
+      "summary": "Mandatory registration regime with thresholds and sector triggers; certificates renewable every 24 months."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-04-10",
+      "title": "ODPC sustains enforcement tempo",
+      "summary": "The ODPC continued issuing penalty notices and enforcement orders (digital lenders, schools, media use of children's images), cementing its position among Africa's most active DPAs.",
+      "source_url": "https://www.odpc.go.ke/"
+    },
+    {
+      "date": "2023-09-26",
+      "title": "Landmark KES 9.4M in penalties issued in one day",
+      "summary": "The ODPC fined Mulla Pride (digital lender), a school and a restaurant a combined KES 9.375 million for unlawful processing — Kenya's most cited enforcement moment.",
+      "source_url": "https://www.odpc.go.ke/"
+    }
+  ],
+  "penalties": "Administrative fines up to KES 5 million or, for undertakings, up to 1% of annual turnover of the preceding year (whichever lower cap applies); offences carry fines up to KES 3 million and/or 10 years' imprisonment.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "Transfers require proof of appropriate safeguards or adequacy, necessity grounds, or consent; processing of strategic-interest data may trigger Kenya server/localisation requirements.",
+  "last_reviewed": "2026-07-07"
+}

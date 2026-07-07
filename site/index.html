@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Data Privacy Law Tracker — APAC &amp; EMEA</title>
+  <meta name="description" content="Interactive tracker of data privacy and protection laws across 30 APAC and EMEA jurisdictions: laws, rules, regulators, official texts, news and insights." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;text y='.9em' font-size='90'&gt;🔐&lt;/text&gt;&lt;/svg&gt;" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Data Privacy Law Tracker
+      <span class="sub">APAC &amp; EMEA · 30 jurisdictions</span>
+    </div>
+    <nav class="tabs" id="nav">
+      <a href="#/map" data-route="map">Map</a>
+      <a href="#/news" data-route="news">Newsfeed</a>
+      <a href="#/insights" data-route="insights">Insights</a>
+      <a href="#/library" data-route="library">Legal Texts</a>
+    </nav>
+    <div class="spacer"></div>
+    <div class="searchbox">
+      <input id="search" type="search" placeholder="Search jurisdictions &amp; laws…" autocomplete="off" />
+      <div class="search-results" id="searchResults"></div>
+    </div>
+    <button id="themeToggle" title="Toggle light/dark">◐</button>
+  </header>
+
+  <main id="view" aria-live="polite">
+    <div class="card">Loading…</div>
+  </main>
+
+  <footer>
+    Independent reference tracker; not legal advice. Every legal instrument links to its official government or regulator source.
+    Data refreshed daily via automated feeds and reviewed periodically. <span id="genStamp"></span>
+  </footer>
+
+  <div class="viz-tooltip" id="tooltip"></div>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

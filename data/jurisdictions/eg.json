@@ -1,0 +1,41 @@
+{
+  "code": "eg",
+  "name": "Egypt",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Egypt's Personal Data Protection Law (Law No. 151 of 2020) is a comprehensive GDPR-influenced statute, in force since October 2020. However, its Executive Regulations and the Personal Data Protection Centre — the licensing and enforcement body the law requires — have been delayed for years, so practical enforcement remains limited. The law notably requires licences/permits for processing sensitive data and for cross-border transfers.",
+  "regulator": {
+    "name": "Personal Data Protection Centre (establishment pending; oversight via Ministry of Communications and Information Technology)",
+    "url": "https://mcit.gov.eg/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law No. 151 of 2020 on the Protection of Personal Data",
+      "type": "act",
+      "status": "in_force",
+      "date": "2020-10-15",
+      "official_text_url": "https://mcit.gov.eg/en/Legislation",
+      "issuing_authority": "House of Representatives / President of Egypt",
+      "summary": "Comprehensive law: consent-based processing, controller/processor licensing regime, DPO requirement, breach notification (72 hours to the Centre), sensitive-data permits, cross-border transfer permits, and criminal penalties up to EGP 5 million."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-03-01",
+      "title": "Executive Regulations remain pending",
+      "summary": "More than four years after the law's entry into force, the Executive Regulations and the Personal Data Protection Centre had still not been issued/established, deferring licensing and enforcement mechanics.",
+      "source_url": "https://mcit.gov.eg/"
+    },
+    {
+      "date": "2020-10-15",
+      "title": "PDPL enters into force",
+      "summary": "Law 151/2020 took effect with a compliance window tied to the (still-pending) Executive Regulations.",
+      "source_url": "https://mcit.gov.eg/en/Legislation"
+    }
+  ],
+  "penalties": "Fines from EGP 100,000 up to EGP 5 million and imprisonment for offences including unlawful sensitive-data processing and cross-border transfer without permit.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers require destination protection no less than the law's and a licence/permit from the Centre — an unusually strict permit-based model (mechanics await Executive Regulations).",
+  "last_reviewed": "2026-07-07"
+}

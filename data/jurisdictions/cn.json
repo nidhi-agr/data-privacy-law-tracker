@@ -1,0 +1,68 @@
+{
+  "code": "cn",
+  "name": "China",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "China regulates personal data through a triad: the Personal Information Protection Law (PIPL, 2021), the Data Security Law (2021) and the Cybersecurity Law (2017), supplemented by the Network Data Security Management Regulations (2025) and CAC measures on cross-border transfers. The regime combines GDPR-style individual rights with strong data localisation and national security review requirements.",
+  "regulator": {
+    "name": "Cyberspace Administration of China (CAC)",
+    "url": "https://www.cac.gov.cn/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Information Protection Law (PIPL)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2021-11-01",
+      "official_text_url": "http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html",
+      "issuing_authority": "Standing Committee of the National People's Congress",
+      "summary": "China's comprehensive personal information law: lawful bases (consent-centric), sensitive personal information rules, individual rights, personal information protection impact assessments, and fines up to RMB 50 million or 5% of prior-year turnover."
+    },
+    {
+      "title": "Data Security Law",
+      "type": "act",
+      "status": "in_force",
+      "date": "2021-09-01",
+      "official_text_url": "http://www.npc.gov.cn/npc/c2/c30834/202106/t20210610_311888.html",
+      "issuing_authority": "Standing Committee of the National People's Congress",
+      "summary": "Governs data processing activities by classification and grading, with heightened obligations for 'important data' and 'national core data', plus export controls and security review."
+    },
+    {
+      "title": "Network Data Security Management Regulations",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2025-01-01",
+      "official_text_url": "https://www.gov.cn/zhengce/content/202409/content_6977766.htm",
+      "issuing_authority": "State Council",
+      "summary": "State Council regulations consolidating network data obligations under the CSL, DSL and PIPL, including platform obligations, important data rules and cross-border data provisions."
+    },
+    {
+      "title": "Measures on Standard Contract for Outbound Transfer of Personal Information",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2023-06-01",
+      "official_text_url": "https://www.cac.gov.cn/2023-02/24/c_1678884830036813.htm",
+      "issuing_authority": "Cyberspace Administration of China",
+      "summary": "Provides the CAC standard contract route for cross-border personal information transfers below the security-assessment thresholds, with filing requirements."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-03-22",
+      "title": "CAC eases cross-border data transfer rules",
+      "summary": "The Provisions on Promoting and Regulating Cross-Border Data Flows raised thresholds and created exemptions (e.g. contract necessity, HR data) from security assessment, standard contract and certification requirements.",
+      "source_url": "https://www.cac.gov.cn/2024-03/22/c_1712776611775634.htm"
+    },
+    {
+      "date": "2025-01-01",
+      "title": "Network Data Security Management Regulations take effect",
+      "summary": "The State Council's consolidated network data regulations came into force, clarifying obligations for large platforms and important-data processors.",
+      "source_url": "https://www.gov.cn/zhengce/content/202409/content_6977766.htm"
+    }
+  ],
+  "penalties": "Up to RMB 50 million or 5% of previous year's turnover for serious PIPL violations; business suspension and personal liability for responsible individuals.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Three routes: CAC security assessment (mandatory above thresholds/important data), CAC standard contract filing, or certification. 2024 provisions added exemptions. Critical information infrastructure operators must localise.",
+  "last_reviewed": "2026-07-07"
+}

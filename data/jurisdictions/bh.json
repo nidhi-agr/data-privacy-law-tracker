@@ -1,0 +1,50 @@
+{
+  "code": "bh",
+  "name": "Bahrain",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Bahrain's Personal Data Protection Law (Law No. 30 of 2018, 'PDPL') took effect in August 2019, one of the Gulf's earliest comprehensive laws, notable for criminal penalties and its application to processing by entities outside Bahrain using means in the Kingdom. The Ministry of Justice currently exercises the Personal Data Protection Authority's functions and has issued implementing resolutions on transfers, DPO accreditation and data subject rights.",
+  "regulator": {
+    "name": "Personal Data Protection Authority (functions exercised by the Ministry of Justice, Islamic Affairs and Waqf)",
+    "url": "https://www.pdp.gov.bh/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law No. 30 of 2018 with respect to Personal Data Protection",
+      "type": "act",
+      "status": "in_force",
+      "date": "2019-08-01",
+      "official_text_url": "https://www.legalaffairs.gov.bh/LegislationSearchDetails.aspx?id=68972",
+      "issuing_authority": "King of Bahrain / National Assembly",
+      "summary": "Comprehensive law: consent-or-necessity processing conditions, sensitive-data rules, data subject rights, notification/authorisation requirements for certain processing, transfer restrictions, and criminal penalties up to BHD 20,000 and/or 1 year imprisonment."
+    },
+    {
+      "title": "Ministerial Resolutions of 2022 implementing the PDPL",
+      "type": "order",
+      "status": "in_force",
+      "date": "2022-03-17",
+      "official_text_url": "https://www.pdp.gov.bh/en/rules-regulations/",
+      "issuing_authority": "Minister of Justice",
+      "summary": "Ten resolutions covering permitted transfer destinations (adequacy list), transfer permits, DPO (Data Protection Guardian) accreditation, complaint procedures, and security measure standards."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2022-03-17",
+      "title": "Implementing resolutions issued",
+      "summary": "The Ministry of Justice issued the long-awaited package of ten implementing resolutions, operationalising transfers, DPO accreditation and enforcement procedures.",
+      "source_url": "https://www.pdp.gov.bh/"
+    },
+    {
+      "date": "2024-06-10",
+      "title": "PDPA supervision activity increases",
+      "summary": "The Authority stepped up guidance and complaint handling, reminding controllers of registration and transfer-permit obligations.",
+      "source_url": "https://www.pdp.gov.bh/"
+    }
+  ],
+  "penalties": "Criminal penalties: imprisonment up to 1 year and/or fines BHD 1,000-20,000 for offences including unlawful sensitive-data processing and transfers; administrative fines up to BHD 20,000 per violation.",
+  "dpo_required": false,
+  "breach_notification": false,
+  "cross_border": "Transfers permitted to jurisdictions on the Authority's adequacy list; otherwise require Authority permit or a statutory exception (consent, contract necessity, etc.).",
+  "last_reviewed": "2026-07-07"
+}

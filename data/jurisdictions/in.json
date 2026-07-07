@@ -1,0 +1,59 @@
+{
+  "code": "in",
+  "name": "India",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "India's Digital Personal Data Protection Act, 2023 (DPDP Act) is the country's first comprehensive personal data protection law, replacing the limited SPDI Rules regime under the IT Act. The DPDP Rules, 2025 were notified in November 2025, operationalising the Act in phases, and the Data Protection Board of India has been constituted as the adjudicating body.",
+  "regulator": {
+    "name": "Data Protection Board of India",
+    "url": "https://www.meity.gov.in/data-protection-framework"
+  },
+  "legal_instruments": [
+    {
+      "title": "Digital Personal Data Protection Act, 2023",
+      "type": "act",
+      "status": "partially_in_force",
+      "date": "2023-08-11",
+      "official_text_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+      "issuing_authority": "Parliament of India",
+      "summary": "Comprehensive law governing processing of digital personal data. Consent-centric regime with obligations on Data Fiduciaries, rights for Data Principals, special obligations for Significant Data Fiduciaries, and penalties up to INR 250 crore per breach."
+    },
+    {
+      "title": "Digital Personal Data Protection Rules, 2025",
+      "type": "rules",
+      "status": "partially_in_force",
+      "date": "2025-11-13",
+      "official_text_url": "https://www.meity.gov.in/data-protection-framework",
+      "issuing_authority": "Ministry of Electronics and Information Technology (MeitY)",
+      "summary": "Implementing rules for the DPDP Act covering notice standards, consent managers, security safeguards, breach notification to the Board and affected individuals, children's data verification, and phased commencement timelines."
+    },
+    {
+      "title": "Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+      "type": "rules",
+      "status": "in_force",
+      "date": "2011-04-11",
+      "official_text_url": "https://www.meity.gov.in/content/information-technology-reasonable-security-practices-and-procedures-and-sensitive-personal",
+      "issuing_authority": "Ministry of Electronics and Information Technology (MeitY)",
+      "summary": "Legacy SPDI Rules under Section 43A of the IT Act, 2000 governing sensitive personal data. Remain relevant until the DPDP Act is fully commenced, at which point Section 43A stands omitted."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-11-13",
+      "title": "DPDP Rules, 2025 notified",
+      "summary": "MeitY notified the final Digital Personal Data Protection Rules, 2025, setting phased compliance timelines (most substantive obligations apply 12-18 months from notification) and operational detail on consent managers, breach reporting and children's data.",
+      "source_url": "https://www.meity.gov.in/data-protection-framework"
+    },
+    {
+      "date": "2025-01-03",
+      "title": "Draft DPDP Rules released for public consultation",
+      "summary": "MeitY published draft DPDP Rules for stakeholder comment, the first concrete step toward operationalising the 2023 Act.",
+      "source_url": "https://www.meity.gov.in/data-protection-framework"
+    }
+  ],
+  "penalties": "Up to INR 250 crore (~USD 30M) per instance for failure to take reasonable security safeguards; other breaches attract penalties up to INR 200 crore.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers permitted to all countries except those on a government-notified negative list (blacklist approach). Sectoral rules (e.g. RBI payment data localisation) continue to apply.",
+  "last_reviewed": "2026-07-07"
+}

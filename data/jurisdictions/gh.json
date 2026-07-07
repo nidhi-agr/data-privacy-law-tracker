@@ -1,0 +1,41 @@
+{
+  "code": "gh",
+  "name": "Ghana",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Ghana's Data Protection Act, 2012 (Act 843) established one of sub-Saharan Africa's earliest comprehensive regimes and the Data Protection Commission (DPC), which registers data controllers and enforces the Act's privacy principles. Ghana has ratified the AU Malabo Convention. Enforcement has historically focused on registration compliance, with periodic amnesties and renewed registration drives.",
+  "regulator": {
+    "name": "Data Protection Commission (DPC)",
+    "url": "https://www.dataprotection.org.gh/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Data Protection Act, 2012 (Act 843)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2012-10-16",
+      "official_text_url": "https://www.dataprotection.org.gh/media/attachments/2021/09/23/data-protection-act-2012-act-843.pdf",
+      "issuing_authority": "Parliament of Ghana",
+      "summary": "Comprehensive law: privacy principles (accountability, lawfulness, specification of purpose), mandatory registration of data controllers, data subject rights, special personal data rules, security safeguards and criminal penalties for unlawful disclosure."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-10-01",
+      "title": "DPC intensifies registration enforcement",
+      "summary": "The Commission ran renewed compliance and registration campaigns, warning unregistered controllers of prosecution and publishing compliant-institution lists.",
+      "source_url": "https://www.dataprotection.org.gh/"
+    },
+    {
+      "date": "2023-06-15",
+      "title": "Review of Act 843 under discussion",
+      "summary": "Stakeholder consultations continued on modernising Act 843 (breach notification, administrative fines, cross-border rules) to reflect post-GDPR international norms.",
+      "source_url": "https://www.dataprotection.org.gh/"
+    }
+  ],
+  "penalties": "Offences punishable by fines (penalty units) and/or imprisonment up to 2 years (e.g. processing without registration); no turnover-based administrative fine regime.",
+  "dpo_required": true,
+  "breach_notification": false,
+  "cross_border": "No dedicated transfer chapter; accountability principle applies — controllers must ensure processing (including abroad) complies with the Act. Foreign controllers using equipment in Ghana must register.",
+  "last_reviewed": "2026-07-07"
+}

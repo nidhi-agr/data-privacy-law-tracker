@@ -1,0 +1,59 @@
+{
+  "code": "ng",
+  "name": "Nigeria",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Nigeria's Data Protection Act, 2023 (NDPA) replaced the NDPR-era framework with a full statute and an independent Nigeria Data Protection Commission (NDPC). The NDPC has been an active young regulator — issuing the General Application and Implementation Directive (GAID) 2025, registering data controllers of major importance, and pursuing headline enforcement against banks, fintechs and social platforms.",
+  "regulator": {
+    "name": "Nigeria Data Protection Commission (NDPC)",
+    "url": "https://ndpc.gov.ng/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Nigeria Data Protection Act, 2023",
+      "type": "act",
+      "status": "in_force",
+      "date": "2023-06-12",
+      "official_text_url": "https://ndpc.gov.ng/resources/",
+      "issuing_authority": "National Assembly / President of Nigeria",
+      "summary": "Comprehensive law: lawful bases, sensitive-data rules, data subject rights, DPO requirement for controllers of major importance, 72-hour breach notification, cross-border transfer conditions, and penalties up to the higher of NGN 10 million or 2% of annual gross revenue for major controllers."
+    },
+    {
+      "title": "General Application and Implementation Directive (GAID), 2025",
+      "type": "order",
+      "status": "in_force",
+      "date": "2025-09-19",
+      "official_text_url": "https://ndpc.gov.ng/resources/",
+      "issuing_authority": "Nigeria Data Protection Commission",
+      "summary": "Replaces the NDPR 2019 implementation framework: detailed compliance mechanics including registration of controllers of major importance, annual audit filings (CADP), DPO certification and fees, effective from September 2025."
+    },
+    {
+      "title": "Nigeria Data Protection Regulation (NDPR), 2019",
+      "type": "regulation",
+      "status": "repealed",
+      "date": "2019-01-25",
+      "official_text_url": "https://ndpc.gov.ng/resources/",
+      "issuing_authority": "NITDA",
+      "summary": "Pre-statute regulation that seeded Nigeria's compliance ecosystem (audit filings, DPCOs); superseded by the NDPA and the GAID 2025."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-09-19",
+      "title": "GAID 2025 takes effect",
+      "summary": "The NDPC's General Application and Implementation Directive became operative, formalising registration tiers, audit-filing deadlines and DPO credentialing under the NDPA.",
+      "source_url": "https://ndpc.gov.ng/"
+    },
+    {
+      "date": "2025-02-20",
+      "title": "NDPC enforcement drive continues",
+      "summary": "The Commission announced investigations and remediation orders across banking, fintech, gaming and social media sectors, including multi-million-naira penalties.",
+      "source_url": "https://ndpc.gov.ng/"
+    }
+  ],
+  "penalties": "Controllers of major importance: up to the higher of NGN 10 million or 2% of annual gross revenue of the preceding year; others: higher of NGN 2 million or 2% of annual gross revenue.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers require adequacy of the recipient jurisdiction (NDPC-assessed) or appropriate safeguards (contracts, BCRs, codes), or consent/other derogations under the NDPA.",
+  "last_reviewed": "2026-07-07"
+}

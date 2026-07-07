@@ -1,0 +1,59 @@
+{
+  "code": "vn",
+  "name": "Vietnam",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Vietnam moved rapidly from Decree 13/2023 (its first consolidated personal data protection decree) to a full Law on Personal Data Protection passed in June 2025 and effective 1 January 2026. The regime is consent-heavy, restricts data trading outright, and layers onto the Cybersecurity Law's localisation requirements. The Ministry of Public Security (A05) is the enforcement authority.",
+  "regulator": {
+    "name": "Ministry of Public Security — Department of Cybersecurity (A05)",
+    "url": "https://www.mps.gov.vn/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law on Personal Data Protection (2025)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2026-01-01",
+      "official_text_url": "https://vanban.chinhphu.vn/",
+      "issuing_authority": "National Assembly of Vietnam",
+      "summary": "Vietnam's first personal data protection law (passed 26 June 2025, effective 1 Jan 2026): consent-centric processing, prohibition on buying/selling personal data, impact assessment dossiers, cross-border transfer assessments, and fines up to 5% of prior-year revenue for certain violations such as unlawful data trading."
+    },
+    {
+      "title": "Decree No. 13/2023/ND-CP on Personal Data Protection",
+      "type": "decree",
+      "status": "in_force",
+      "date": "2023-07-01",
+      "official_text_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=207759",
+      "issuing_authority": "Government of Vietnam",
+      "summary": "First comprehensive PDP instrument: basic and sensitive data categories, consent requirements, data subject rights, DPIA and cross-border transfer impact assessment dossiers filed with A05. Remains the operative detail pending the 2025 Law's implementing decrees."
+    },
+    {
+      "title": "Law on Cybersecurity (2018) and Decree 53/2022/ND-CP",
+      "type": "act",
+      "status": "in_force",
+      "date": "2019-01-01",
+      "official_text_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=204124",
+      "issuing_authority": "National Assembly of Vietnam",
+      "summary": "Requires certain domestic and foreign service providers to store specified user data in Vietnam and, for foreign providers meeting conditions, to establish a local presence."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2026-01-01",
+      "title": "Law on Personal Data Protection takes effect",
+      "summary": "Vietnam's PDP Law came into force, elevating Decree 13's framework to statute with revenue-based fines and an explicit ban on personal data trading.",
+      "source_url": "https://vanban.chinhphu.vn/"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "National Assembly passes the PDP Law",
+      "summary": "The National Assembly approved the Law on Personal Data Protection with near-unanimous support, setting a 1 January 2026 effective date.",
+      "source_url": "https://quochoi.vn/"
+    }
+  ],
+  "penalties": "Under the 2025 Law: fines up to 5% of previous year's revenue for violations such as unlawful cross-border transfer or data trading; administrative sanctions detail to follow in implementing decrees.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Cross-border transfer of Vietnamese citizens' data requires a transfer impact assessment dossier filed with the Ministry of Public Security, subject to inspection; localisation obligations under the Cybersecurity Law apply to specified services.",
+  "last_reviewed": "2026-07-07"
+}

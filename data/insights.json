@@ -1,0 +1,395 @@
+{
+  "generated_at": "2026-07-07T15:45:06+00:00",
+  "total_jurisdictions": 30,
+  "status_by_region": {
+    "EMEA": {
+      "comprehensive_law_in_force": 16
+    },
+    "APAC": {
+      "comprehensive_law_in_force": 14
+    }
+  },
+  "status_totals": {
+    "comprehensive_law_in_force": 30
+  },
+  "instrument_types": {
+    "act": 39,
+    "regulation": 24,
+    "order": 3,
+    "directive": 1,
+    "guideline": 1,
+    "rules": 5,
+    "decree": 3,
+    "circular": 1
+  },
+  "adoption_timeline": [
+    {
+      "jurisdiction": "Australia",
+      "code": "au",
+      "region": "APAC",
+      "year": 1988,
+      "title": "Privacy Act 1988"
+    },
+    {
+      "jurisdiction": "Hong Kong SAR",
+      "code": "hk",
+      "region": "APAC",
+      "year": 1996,
+      "title": "Personal Data (Privacy) Ordinance (Cap. 486)"
+    },
+    {
+      "jurisdiction": "Russia",
+      "code": "ru",
+      "region": "EMEA",
+      "year": 2007,
+      "title": "Federal Law No. 152-FZ on Personal Data"
+    },
+    {
+      "jurisdiction": "Morocco",
+      "code": "ma",
+      "region": "EMEA",
+      "year": 2009,
+      "title": "Law No. 09-08 on Protection of Individuals with regard to Processing of Personal Data"
+    },
+    {
+      "jurisdiction": "Ghana",
+      "code": "gh",
+      "region": "EMEA",
+      "year": 2012,
+      "title": "Data Protection Act, 2012 (Act 843)"
+    },
+    {
+      "jurisdiction": "Philippines",
+      "code": "ph",
+      "region": "APAC",
+      "year": 2012,
+      "title": "Data Privacy Act of 2012 (Republic Act No. 10173)"
+    },
+    {
+      "jurisdiction": "Taiwan",
+      "code": "tw",
+      "region": "APAC",
+      "year": 2012,
+      "title": "Personal Data Protection Act"
+    },
+    {
+      "jurisdiction": "Malaysia",
+      "code": "my",
+      "region": "APAC",
+      "year": 2013,
+      "title": "Personal Data Protection Act 2010 (Act 709)"
+    },
+    {
+      "jurisdiction": "Singapore",
+      "code": "sg",
+      "region": "APAC",
+      "year": 2014,
+      "title": "Personal Data Protection Act 2012"
+    },
+    {
+      "jurisdiction": "Turkey (Türkiye)",
+      "code": "tr",
+      "region": "EMEA",
+      "year": 2016,
+      "title": "Law on the Protection of Personal Data No. 6698"
+    },
+    {
+      "jurisdiction": "Qatar",
+      "code": "qa",
+      "region": "EMEA",
+      "year": 2017,
+      "title": "Law No. 13 of 2016 on Personal Data Privacy Protection (PDPPL)"
+    },
+    {
+      "jurisdiction": "United Kingdom",
+      "code": "uk",
+      "region": "EMEA",
+      "year": 2018,
+      "title": "Data Protection Act 2018"
+    },
+    {
+      "jurisdiction": "Bahrain",
+      "code": "bh",
+      "region": "EMEA",
+      "year": 2019,
+      "title": "Law No. 30 of 2018 with respect to Personal Data Protection"
+    },
+    {
+      "jurisdiction": "Kenya",
+      "code": "ke",
+      "region": "EMEA",
+      "year": 2019,
+      "title": "Data Protection Act, 2019 (No. 24 of 2019)"
+    },
+    {
+      "jurisdiction": "Vietnam",
+      "code": "vn",
+      "region": "APAC",
+      "year": 2019,
+      "title": "Law on Cybersecurity (2018) and Decree 53/2022/ND-CP"
+    },
+    {
+      "jurisdiction": "United Arab Emirates",
+      "code": "ae",
+      "region": "EMEA",
+      "year": 2020,
+      "title": "DIFC Law No. 5 of 2020 — Data Protection Law"
+    },
+    {
+      "jurisdiction": "Egypt",
+      "code": "eg",
+      "region": "EMEA",
+      "year": 2020,
+      "title": "Law No. 151 of 2020 on the Protection of Personal Data"
+    },
+    {
+      "jurisdiction": "South Korea",
+      "code": "kr",
+      "region": "APAC",
+      "year": 2020,
+      "title": "Act on Promotion of Information and Communications Network Utilization and Information Protection (Network Act)"
+    },
+    {
+      "jurisdiction": "New Zealand",
+      "code": "nz",
+      "region": "APAC",
+      "year": 2020,
+      "title": "Privacy Act 2020"
+    },
+    {
+      "jurisdiction": "China",
+      "code": "cn",
+      "region": "APAC",
+      "year": 2021,
+      "title": "Personal Information Protection Law (PIPL)"
+    },
+    {
+      "jurisdiction": "South Africa",
+      "code": "za",
+      "region": "EMEA",
+      "year": 2021,
+      "title": "Protection of Personal Information Act, 2013 (Act No. 4 of 2013)"
+    },
+    {
+      "jurisdiction": "Indonesia",
+      "code": "id",
+      "region": "APAC",
+      "year": 2022,
+      "title": "Law No. 27 of 2022 on Personal Data Protection (PDP Law)"
+    },
+    {
+      "jurisdiction": "Japan",
+      "code": "jp",
+      "region": "APAC",
+      "year": 2022,
+      "title": "Act on the Protection of Personal Information (APPI), Act No. 57 of 2003"
+    },
+    {
+      "jurisdiction": "Thailand",
+      "code": "th",
+      "region": "APAC",
+      "year": 2022,
+      "title": "Personal Data Protection Act B.E. 2562 (2019)"
+    },
+    {
+      "jurisdiction": "Switzerland",
+      "code": "ch",
+      "region": "EMEA",
+      "year": 2023,
+      "title": "Federal Act on Data Protection (FADP, revised)"
+    },
+    {
+      "jurisdiction": "India",
+      "code": "in",
+      "region": "APAC",
+      "year": 2023,
+      "title": "Digital Personal Data Protection Act, 2023"
+    },
+    {
+      "jurisdiction": "Nigeria",
+      "code": "ng",
+      "region": "EMEA",
+      "year": 2023,
+      "title": "Nigeria Data Protection Act, 2023"
+    },
+    {
+      "jurisdiction": "Saudi Arabia",
+      "code": "sa",
+      "region": "EMEA",
+      "year": 2023,
+      "title": "Personal Data Protection Law (Royal Decree M/19 of 1443H, as amended by M/148)"
+    },
+    {
+      "jurisdiction": "Israel",
+      "code": "il",
+      "region": "EMEA",
+      "year": 2025,
+      "title": "Protection of Privacy Law, 5741-1981 (as amended through Amendment No. 13)"
+    }
+  ],
+  "obligations": {
+    "dpo_required": 20,
+    "breach_notification": 26
+  },
+  "news_activity_by_jurisdiction": {
+    "eu": 22,
+    "nz": 7,
+    "sa": 3,
+    "qa": 7,
+    "za": 6,
+    "gh": 1,
+    "hk": 5,
+    "in": 8,
+    "sg": 2,
+    "my": 4,
+    "cn": 4,
+    "kr": 8,
+    "au": 8,
+    "ae": 2,
+    "ke": 8,
+    "ph": 7,
+    "bh": 2,
+    "id": 1,
+    "uk": 8,
+    "ng": 8,
+    "tw": 1,
+    "vn": 1
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "title": "Law on Personal Data Protection takes effect",
+      "summary": "Vietnam's PDP Law came into force, elevating Decree 13's framework to statute with revenue-based fines and an explicit ban on personal data trading.",
+      "source_url": "https://vanban.chinhphu.vn/",
+      "jurisdiction": "Vietnam",
+      "code": "vn",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-11-19",
+      "title": "Commission proposes Digital Omnibus including GDPR amendments",
+      "summary": "The European Commission's Digital Omnibus package proposed targeted GDPR simplifications (records exemptions, breach-reporting streamlining, clarified AI/legitimate-interest provisions), drawing significant scrutiny from privacy advocates and the EDPB.",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/digital-omnibus",
+      "jurisdiction": "European Union",
+      "code": "eu",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-11-13",
+      "title": "DPDP Rules, 2025 notified",
+      "summary": "MeitY notified the final Digital Personal Data Protection Rules, 2025, setting phased compliance timelines (most substantive obligations apply 12-18 months from notification) and operational detail on consent managers, breach reporting and children's data.",
+      "source_url": "https://www.meity.gov.in/data-protection-framework",
+      "jurisdiction": "India",
+      "code": "in",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-09-19",
+      "title": "GAID 2025 takes effect",
+      "summary": "The NDPC's General Application and Implementation Directive became operative, formalising registration tiers, audit-filing deadlines and DPO credentialing under the NDPA.",
+      "source_url": "https://ndpc.gov.ng/",
+      "jurisdiction": "Nigeria",
+      "code": "ng",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-09-04",
+      "title": "CJEU ruling refines pseudonymisation and personal-data scope",
+      "summary": "The Court of Justice (EDPS v SRB) clarified when pseudonymised data ceases to be personal data in the hands of a recipient without means of re-identification.",
+      "source_url": "https://curia.europa.eu/",
+      "jurisdiction": "European Union",
+      "code": "eu",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-08-14",
+      "title": "Amendment No. 13 takes effect",
+      "summary": "The most significant reform since 1996 became operative: GDPR-style definitions, PPA administrative fines (potentially reaching millions of shekels for large databases), expanded investigative powers and DPO mandates.",
+      "source_url": "https://www.gov.il/en/departments/the_privacy_protection_authority",
+      "jurisdiction": "Israel",
+      "code": "il",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-08-01",
+      "title": "Personal Data Protection Commission established",
+      "summary": "Taiwan's independent PDPC formally commenced operations as the dedicated data protection authority, consolidating enforcement previously spread across sector ministries.",
+      "source_url": "https://www.pdpc.gov.tw/",
+      "jurisdiction": "Taiwan",
+      "code": "tw",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-07-22",
+      "title": "European Commission renews UK adequacy decisions",
+      "summary": "The Commission adopted renewed UK adequacy decisions (to December 2031) after assessing the Data (Use and Access) Act, preserving free EU-UK data flows.",
+      "source_url": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en",
+      "jurisdiction": "United Kingdom",
+      "code": "uk",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "National Assembly passes the PDP Law",
+      "summary": "The National Assembly approved the Law on Personal Data Protection with near-unanimous support, setting a 1 January 2026 effective date.",
+      "source_url": "https://quochoi.vn/",
+      "jurisdiction": "Vietnam",
+      "code": "vn",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "Data (Use and Access) Act 2025 receives Royal Assent",
+      "summary": "DUAA became law after extended parliamentary ping-pong over AI/copyright amendments, with staged commencement through 2025-26.",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2025/18",
+      "jurisdiction": "United Kingdom",
+      "code": "uk",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Statutory tort for serious invasions of privacy commences",
+      "summary": "The new cause of action allowing individuals to sue for serious invasions of privacy (intrusion or misuse of information) took effect under the 2024 amendment.",
+      "source_url": "https://www.oaic.gov.au/",
+      "jurisdiction": "Australia",
+      "code": "au",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "Breach notification and DPO obligations commence",
+      "summary": "The final phase of the 2024 Amendment Act took effect, requiring notification of significant breaches to the Commissioner (within 72 hours) and affected individuals, and DPO appointment above processing thresholds.",
+      "source_url": "https://www.pdp.gov.my/",
+      "jurisdiction": "Malaysia",
+      "code": "my",
+      "region": "APAC"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "SDAIA expands PDPL guidance suite",
+      "summary": "SDAIA continued releasing guidance (DPO, DPIA, consent, disclosure cases) and signalled the first adequacy/whitelist assessments for cross-border transfers.",
+      "source_url": "https://sdaia.gov.sa/en/",
+      "jurisdiction": "Saudi Arabia",
+      "code": "sa",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Turnover-based leak fines take effect",
+      "summary": "The new administrative penalty scale for personal data breaches became effective, dramatically raising financial exposure for operators suffering repeat leaks.",
+      "source_url": "http://publication.pravo.gov.ru/document/0001202411300036",
+      "jurisdiction": "Russia",
+      "code": "ru",
+      "region": "EMEA"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "DPA amendment bills advance in Congress",
+      "summary": "Proposals to raise penalties, strengthen NPC enforcement powers and align the DPA with newer international norms continued through committee in the 19th/20th Congress.",
+      "source_url": "https://privacy.gov.ph/",
+      "jurisdiction": "Philippines",
+      "code": "ph",
+      "region": "APAC"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": "jp",
+  "name": "Japan",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Japan's Act on the Protection of Personal Information (APPI) is one of Asia's oldest comprehensive privacy laws, significantly amended in 2020 (effective 2022) to add breach notification, expanded rights and extraterritorial reach. Japan holds a mutual adequacy arrangement with the EU. A further amendment round is under deliberation following the Personal Information Protection Commission's triennial review.",
+  "regulator": {
+    "name": "Personal Information Protection Commission (PPC)",
+    "url": "https://www.ppc.go.jp/en/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Act on the Protection of Personal Information (APPI), Act No. 57 of 2003",
+      "type": "act",
+      "status": "in_force",
+      "date": "2022-04-01",
+      "official_text_url": "https://www.ppc.go.jp/en/legal/",
+      "issuing_authority": "National Diet of Japan",
+      "summary": "Comprehensive law covering business operators handling personal information: purpose limitation, consent for sensitive data and third-party provision, individual rights, mandatory breach notification, and pseudonymised/anonymised data categories. Amended text effective April 2022."
+    },
+    {
+      "title": "Enforcement Rules for the Act on the Protection of Personal Information",
+      "type": "rules",
+      "status": "in_force",
+      "date": "2022-04-01",
+      "official_text_url": "https://www.ppc.go.jp/en/legal/",
+      "issuing_authority": "Personal Information Protection Commission",
+      "summary": "PPC rules detailing breach reporting thresholds and timelines, cross-border transfer information requirements, and record-keeping obligations."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-03-05",
+      "title": "PPC advances triennial review amendment proposals",
+      "summary": "The PPC published interim proposals for the next APPI amendment, including administrative fines (surcharges), collective redress mechanisms, and relaxed consent rules for AI/statistical uses.",
+      "source_url": "https://www.ppc.go.jp/en/"
+    },
+    {
+      "date": "2024-06-27",
+      "title": "PPC interim summary of triennial APPI review",
+      "summary": "The PPC released its interim summary of issues for the every-three-years review, signalling stronger enforcement tools and children's data protections.",
+      "source_url": "https://www.ppc.go.jp/en/"
+    }
+  ],
+  "penalties": "Criminal penalties up to JPY 100 million for corporate violations of PPC orders or database theft; administrative surcharge regime under consideration in the current amendment round.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "Transfers require consent, an adequacy-listed destination (EU/UK), or the recipient implementing equivalent standards (with information duties to the data subject). Japan-EU mutual adequacy in place since 2019.",
+  "last_reviewed": "2026-07-07"
+}

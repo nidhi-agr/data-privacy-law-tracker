@@ -1,0 +1,50 @@
+{
+  "code": "tw",
+  "name": "Taiwan",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Taiwan's Personal Data Protection Act (PDPA) applies to both public and private sectors. A 2023 amendment raised security-breach fines and mandated creation of an independent supervisory authority; the Personal Data Protection Commission (PDPC) was formally established in 2025, replacing fragmented ministry-by-ministry enforcement. Further amendment work is ongoing.",
+  "regulator": {
+    "name": "Personal Data Protection Commission (Taiwan)",
+    "url": "https://www.pdpc.gov.tw/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data Protection Act",
+      "type": "act",
+      "status": "in_force",
+      "date": "2012-10-01",
+      "official_text_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021",
+      "issuing_authority": "Legislative Yuan",
+      "summary": "Comprehensive law on collection, processing and use of personal data with notification duties, consent requirements, sensitive-data restrictions, and civil, administrative and criminal liability. 2023 amendment increased fines for security failures to NTD 15 million."
+    },
+    {
+      "title": "Enforcement Rules of the Personal Data Protection Act",
+      "type": "rules",
+      "status": "in_force",
+      "date": "2016-03-15",
+      "official_text_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050022",
+      "issuing_authority": "Ministry of Justice",
+      "summary": "Implementing rules defining key terms (e.g. appropriate security measures), specifying notification methods and data-subject request handling."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-08-01",
+      "title": "Personal Data Protection Commission established",
+      "summary": "Taiwan's independent PDPC formally commenced operations as the dedicated data protection authority, consolidating enforcement previously spread across sector ministries.",
+      "source_url": "https://www.pdpc.gov.tw/"
+    },
+    {
+      "date": "2023-05-31",
+      "title": "PDPA amendment raises fines and mandates independent DPA",
+      "summary": "Amendment increased penalties for inadequate security measures (up to NTD 15 million for serious violations) and required establishment of an independent supervisory authority.",
+      "source_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021"
+    }
+  ],
+  "penalties": "Administrative fines generally up to NTD 15 million for serious security-measure violations (2023 amendment); criminal liability up to 5 years' imprisonment for unlawful use with intent to profit.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "Transfers may be restricted by the competent authority where national interests are affected, an international treaty requires it, the receiving country lacks sound protection, or the transfer circumvents the Act.",
+  "last_reviewed": "2026-07-07"
+}

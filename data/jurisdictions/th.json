@@ -1,0 +1,59 @@
+{
+  "code": "th",
+  "name": "Thailand",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Thailand's Personal Data Protection Act B.E. 2562 (2019, 'PDPA') is a GDPR-modelled comprehensive law fully in force since June 2022 after pandemic-era deferrals. The Personal Data Protection Committee (PDPC) has issued a steady stream of sub-regulations on security measures, breach notification, DPOs and cross-border transfers, and began issuing administrative fines in 2024.",
+  "regulator": {
+    "name": "Personal Data Protection Committee (PDPC Thailand)",
+    "url": "https://www.pdpc.or.th/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data Protection Act B.E. 2562 (2019)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2022-06-01",
+      "official_text_url": "https://www.pdpc.or.th/wp-content/uploads/2022/09/Thailand-Personal-Data-Protection-Act-2019.pdf",
+      "issuing_authority": "National Legislative Assembly of Thailand",
+      "summary": "Comprehensive law with GDPR-style lawful bases, sensitive-data rules, data subject rights, controller/processor duties, DPO requirements, 72-hour breach notification and administrative fines up to THB 5 million."
+    },
+    {
+      "title": "PDPC Notification on Criteria for Cross-Border Transfer of Personal Data (2023)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2024-03-24",
+      "official_text_url": "https://www.pdpc.or.th/laws/",
+      "issuing_authority": "Personal Data Protection Committee",
+      "summary": "Sub-regulations under ss.28-29 PDPA establishing adequacy criteria, binding corporate rules and standard contractual clause mechanisms (ASEAN MCC and EU SCC-compatible) for overseas transfers."
+    },
+    {
+      "title": "PDPC Notification on Personal Data Breach Notification (2022)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2022-12-15",
+      "official_text_url": "https://www.pdpc.or.th/laws/",
+      "issuing_authority": "Personal Data Protection Committee",
+      "summary": "Prescribes 72-hour notification to the PDPC of breaches with risk to rights and freedoms, and communication to data subjects where high risk."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-08-21",
+      "title": "First major PDPA administrative fine issued",
+      "summary": "The PDPC expert committee fined a large e-commerce operator THB 7 million (across violations) for failing to appoint a DPO, inadequate security and failure to notify a breach — Thailand's first headline enforcement.",
+      "source_url": "https://www.pdpc.or.th/"
+    },
+    {
+      "date": "2025-01-15",
+      "title": "PDPC steps up proactive inspections",
+      "summary": "The PDPC announced expanded audit and inspection programs targeting data brokers and organisations with repeated breach reports.",
+      "source_url": "https://www.pdpc.or.th/"
+    }
+  ],
+  "penalties": "Administrative fines up to THB 5 million per violation; criminal penalties (up to 1 year imprisonment / THB 1 million) for unlawful disclosure of sensitive data; punitive damages up to 2x actual damages in civil claims.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers require adequate destination protection or safeguards (BCRs, standard contractual clauses, certification) or a statutory exception (consent, contract necessity, etc.) under ss.28-29 and 2023 PDPC notifications.",
+  "last_reviewed": "2026-07-07"
+}

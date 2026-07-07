@@ -1,0 +1,50 @@
+{
+  "code": "nz",
+  "name": "New Zealand",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "New Zealand's Privacy Act 2020 replaced the 1993 Act, adding mandatory breach notification, compliance notices, extraterritorial application and cross-border disclosure safeguards under 13 Information Privacy Principles (IPPs). New Zealand holds EU adequacy. The Privacy Amendment Act 2025 added IPP 3A requiring notification when personal information is collected indirectly.",
+  "regulator": {
+    "name": "Office of the Privacy Commissioner",
+    "url": "https://www.privacy.org.nz/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Privacy Act 2020",
+      "type": "act",
+      "status": "in_force",
+      "date": "2020-12-01",
+      "official_text_url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html",
+      "issuing_authority": "New Zealand Parliament",
+      "summary": "Principles-based law (13 IPPs) covering agencies public and private, with notifiable privacy breach regime, Commissioner compliance notices, access directions, and IPP 12 rules for overseas disclosure."
+    },
+    {
+      "title": "Privacy Amendment Act 2025",
+      "type": "act",
+      "status": "in_force",
+      "date": "2025-05-01",
+      "official_text_url": "https://www.legislation.govt.nz/act/public/2025/0007/latest/whole.html",
+      "issuing_authority": "New Zealand Parliament",
+      "summary": "Adds IPP 3A: agencies collecting personal information from sources other than the individual must take reasonable steps to notify the individual (effective 1 May 2026)."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-03-27",
+      "title": "Privacy Amendment Act 2025 receives Royal Assent",
+      "summary": "Parliament enacted the indirect-collection notification requirement (IPP 3A), applying to information collected from 1 May 2026.",
+      "source_url": "https://www.legislation.govt.nz/act/public/2025/0007/latest/whole.html"
+    },
+    {
+      "date": "2024-09-25",
+      "title": "Biometrics Code consultation",
+      "summary": "The Privacy Commissioner consulted on a Biometric Processing Privacy Code regulating facial recognition and other biometric uses.",
+      "source_url": "https://www.privacy.org.nz/publications/statements-media-releases/"
+    }
+  ],
+  "penalties": "Modest criminal fines (up to NZD 10,000 for offences such as non-compliance with access directions); no general administrative fine regime. Human Rights Review Tribunal damages available.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "IPP 12: disclosure overseas only if the recipient is subject to comparable safeguards (law, binding scheme, contract) or the individual authorises the disclosure after being informed.",
+  "last_reviewed": "2026-07-07"
+}

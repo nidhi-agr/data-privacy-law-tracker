@@ -1,0 +1,59 @@
+{
+  "code": "sa",
+  "name": "Saudi Arabia",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Saudi Arabia's Personal Data Protection Law (PDPL), issued by Royal Decree M/19 of 2021 and substantially amended in 2023, has applied since September 2023 with enforcement following a one-year compliance grace period ending September 2024. SDAIA supervises the regime and has issued extensive implementing rules, transfer regulations and a national data governance platform for registrations and DPO notifications.",
+  "regulator": {
+    "name": "Saudi Data & Artificial Intelligence Authority (SDAIA)",
+    "url": "https://sdaia.gov.sa/en/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data Protection Law (Royal Decree M/19 of 1443H, as amended by M/148)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2023-09-14",
+      "official_text_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b7cfae89-828e-4994-b167-adaa00e37188/1",
+      "issuing_authority": "Royal Decree / Council of Ministers",
+      "summary": "Comprehensive law: lawful bases including a 2023-added legitimate-interest basis (non-sensitive data), data subject rights, controller registration obligations, breach notification to SDAIA (72 hours), and criminal penalties for sensitive-data disclosure violations."
+    },
+    {
+      "title": "Implementing Regulation of the Personal Data Protection Law",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2023-09-14",
+      "official_text_url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+      "issuing_authority": "SDAIA",
+      "summary": "Detailed rules on consent, rights procedures, DPO appointment criteria, DPIAs, security controls and breach notification content; updated September 2024."
+    },
+    {
+      "title": "Regulation on Personal Data Transfer Outside the Kingdom",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2024-09-01",
+      "official_text_url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+      "issuing_authority": "SDAIA",
+      "summary": "Amended transfer regulation: transfers permitted under adequacy assessments, or safeguards (SCCs, BCRs, certification) with risk assessments for certain cases; removed the earlier strict-localisation default."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-09-14",
+      "title": "PDPL enforcement begins after grace period",
+      "summary": "The one-year compliance window closed, making the PDPL fully enforceable; SDAIA simultaneously issued updated implementing and transfer regulations and opened the National Data Governance Platform registration.",
+      "source_url": "https://sdaia.gov.sa/en/"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "SDAIA expands PDPL guidance suite",
+      "summary": "SDAIA continued releasing guidance (DPO, DPIA, consent, disclosure cases) and signalled the first adequacy/whitelist assessments for cross-border transfers.",
+      "source_url": "https://sdaia.gov.sa/en/"
+    }
+  ],
+  "penalties": "Warnings and fines up to SAR 5 million per violation (doubling for repeats) via SDAIA committee; criminal penalty up to 2 years' imprisonment and/or SAR 3 million for unlawful disclosure of sensitive data.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers allowed to jurisdictions with adequate protection (SDAIA assessments) or with appropriate safeguards (SCCs, BCRs, certification) plus risk assessment; specific statutory purposes required.",
+  "last_reviewed": "2026-07-07"
+}

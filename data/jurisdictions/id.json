@@ -1,0 +1,50 @@
+{
+  "code": "id",
+  "name": "Indonesia",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Indonesia's Personal Data Protection Law (Law No. 27 of 2022, 'PDP Law') is a GDPR-inspired comprehensive statute whose two-year transition period ended in October 2024, making it fully applicable. Implementing regulations and the dedicated supervisory institution mandated by the law have lagged; oversight currently sits with the Ministry of Communication and Digital Affairs (Komdigi).",
+  "regulator": {
+    "name": "Ministry of Communication and Digital Affairs (Komdigi) — pending dedicated PDP institution",
+    "url": "https://www.komdigi.go.id/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law No. 27 of 2022 on Personal Data Protection (PDP Law)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2022-10-17",
+      "official_text_url": "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022",
+      "issuing_authority": "House of Representatives (DPR) / President of Indonesia",
+      "summary": "Comprehensive GDPR-style law: lawful bases, general and specific (sensitive) data categories, data subject rights, DPO requirement for certain controllers, 3x24-hour breach notification, and administrative fines up to 2% of annual revenue plus criminal sanctions."
+    },
+    {
+      "title": "Government Regulation No. 71 of 2019 on Electronic Systems and Transactions (GR 71)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2019-10-10",
+      "official_text_url": "https://peraturan.bpk.go.id/Details/122030/pp-no-71-tahun-2019",
+      "issuing_authority": "President of Indonesia",
+      "summary": "Pre-PDP framework for electronic system operators, including registration, data handling and localisation rules for public-sector systems; continues to apply alongside the PDP Law."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-10-17",
+      "title": "PDP Law transition period ends — law fully applicable",
+      "summary": "The two-year grace period expired, making all controller/processor obligations enforceable, though the implementing regulation and the supervisory institution remained pending.",
+      "source_url": "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
+    },
+    {
+      "date": "2025-02-10",
+      "title": "Draft implementing regulation (RPP PDP) progresses",
+      "summary": "The government continued finalising the PDP Law's implementing government regulation and the design of the data protection authority under presidential oversight.",
+      "source_url": "https://www.komdigi.go.id/"
+    }
+  ],
+  "penalties": "Administrative fines up to 2% of annual revenue/receipts, plus corrective orders and publication of violations; criminal penalties up to 6 years' imprisonment and IDR 6 billion for unlawful disclosure or falsification.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers permitted if the destination has equal-or-higher protection, adequate binding safeguards exist, or the data subject consents.",
+  "last_reviewed": "2026-07-07"
+}

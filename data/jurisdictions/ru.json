@@ -1,0 +1,50 @@
+{
+  "code": "ru",
+  "name": "Russia",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Russia's Federal Law No. 152-FZ on Personal Data (2006) is a comprehensive but state-centric regime enforced by Roskomnadzor, notable for its citizen-data localisation rule (databases of Russian citizens' data must be primarily stored in Russia) and notification-based cross-border transfer controls tightened in 2022-2023. 2024 amendments introduced turnover-based fines for data leaks effective 30 May 2025.",
+  "regulator": {
+    "name": "Roskomnadzor (Federal Service for Supervision of Communications, IT and Mass Media)",
+    "url": "https://rkn.gov.ru/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Federal Law No. 152-FZ on Personal Data",
+      "type": "act",
+      "status": "in_force",
+      "date": "2007-01-26",
+      "official_text_url": "http://pravo.gov.ru/proxy/ips/?docbody&nd=102108261",
+      "issuing_authority": "State Duma / President of the Russian Federation",
+      "summary": "Comprehensive law: consent-centric processing, operator notification to Roskomnadzor, localisation of Russian citizens' data (Art. 18(5)), cross-border transfer notification/approval regime, breach reporting to Roskomnadzor (24/72 hours), and biometric data restrictions."
+    },
+    {
+      "title": "Federal Law No. 420-FZ (2024) — turnover-based fines for personal data leaks",
+      "type": "act",
+      "status": "in_force",
+      "date": "2025-05-30",
+      "official_text_url": "http://publication.pravo.gov.ru/document/0001202411300036",
+      "issuing_authority": "State Duma / President of the Russian Federation",
+      "summary": "Amends the Code of Administrative Offences: fines for large-scale leaks up to RUB 15 million (first offence) and 1-3% of annual turnover (min RUB 20 million, max RUB 500 million) for repeats; criminal liability for trafficking in personal data introduced in parallel."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-05-30",
+      "title": "Turnover-based leak fines take effect",
+      "summary": "The new administrative penalty scale for personal data breaches became effective, dramatically raising financial exposure for operators suffering repeat leaks.",
+      "source_url": "http://publication.pravo.gov.ru/document/0001202411300036"
+    },
+    {
+      "date": "2023-03-01",
+      "title": "Cross-border transfer notification regime tightens",
+      "summary": "Amendments requiring prior notification (and for non-adequate countries, Roskomnadzor assessment with power to prohibit) for cross-border transfers became fully operative.",
+      "source_url": "https://rkn.gov.ru/"
+    }
+  ],
+  "penalties": "From 30 May 2025: leak fines up to RUB 15M (first) and 1-3% of turnover (RUB 20M-500M) for repeat large leaks; localisation violations up to RUB 18M; criminal penalties for unlawful data trafficking.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Prior notification to Roskomnadzor required; transfers to non-Convention-108/non-adequate countries subject to assessment and possible prohibition. Primary databases of Russian citizens' data must be located in Russia.",
+  "last_reviewed": "2026-07-07"
+}

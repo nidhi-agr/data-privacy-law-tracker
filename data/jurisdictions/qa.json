@@ -1,0 +1,50 @@
+{
+  "code": "qa",
+  "name": "Qatar",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Qatar was the first GCC state with a standalone data protection law — Law No. 13 of 2016 on Personal Data Privacy Protection — enforced by the National Cyber Governance and Assurance Affairs (NCSA/NPC framework) with guidelines issued in 2020-2021. The Qatar Financial Centre (QFC) operates its own GDPR-aligned Data Protection Regulations 2021 with a dedicated Data Protection Office.",
+  "regulator": {
+    "name": "National Cyber Security Agency (NCSA) — Compliance and Data Protection; QFC Data Protection Office (QFC)",
+    "url": "https://www.ncsa.gov.qa/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Law No. 13 of 2016 on Personal Data Privacy Protection (PDPPL)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2017-06-01",
+      "official_text_url": "https://www.almeezan.qa/LawPage.aspx?id=7121&language=en",
+      "issuing_authority": "Emir of Qatar",
+      "summary": "Consent-based framework with transparency and security obligations, special protections ('data of special nature' including children's and health data requiring permits), breach notification, and fines up to QAR 5 million."
+    },
+    {
+      "title": "QFC Data Protection Regulations 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2022-01-01",
+      "official_text_url": "https://qfcra-en.thomsonreuters.com/rulebook/data-protection-regulations-2021",
+      "issuing_authority": "Qatar Financial Centre Authority",
+      "summary": "GDPR-aligned regime for QFC-registered entities: lawful bases, DPIAs, breach notification (72 hours), adequacy-based transfer rules and fines up to USD 1.5 million."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-11-05",
+      "title": "NCSA consolidates data protection oversight",
+      "summary": "Data protection supervision continued under the National Cyber Security Agency's compliance arm, with updated PDPPL guidance for controllers and processors.",
+      "source_url": "https://www.ncsa.gov.qa/"
+    },
+    {
+      "date": "2023-03-15",
+      "title": "QFC DPO issues first enforcement guidance cycle",
+      "summary": "The QFC Data Protection Office matured its supervision under the 2021 Regulations, including breach-reporting expectations for financial firms.",
+      "source_url": "https://www.qfc.qa/"
+    }
+  ],
+  "penalties": "PDPPL: fines up to QAR 5 million for violations such as processing special-nature data without a permit or failing breach notification. QFC: fines up to USD 1.5 million.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "PDPPL requires protections to travel with the data (no formal adequacy list at state level). QFC regime uses adequacy list plus safeguards for transfers out of the QFC.",
+  "last_reviewed": "2026-07-07"
+}

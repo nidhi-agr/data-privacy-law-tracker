@@ -1,0 +1,59 @@
+{
+  "code": "au",
+  "name": "Australia",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Australia's Privacy Act 1988 and its 13 Australian Privacy Principles (APPs) govern federal agencies and most private organisations. The Privacy and Other Legislation Amendment Act 2024 delivered 'tranche 1' reforms — a statutory tort for serious invasions of privacy, doxxing offences, children's online privacy code, and tiered civil penalties — with a broader 'tranche 2' (fair-and-reasonable test, small business exemption removal) still pending.",
+  "regulator": {
+    "name": "Office of the Australian Information Commissioner (OAIC)",
+    "url": "https://www.oaic.gov.au/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Privacy Act 1988",
+      "type": "act",
+      "status": "in_force",
+      "date": "1988-12-14",
+      "official_text_url": "https://www.legislation.gov.au/C2004A03712/latest/text",
+      "issuing_authority": "Parliament of Australia",
+      "summary": "Principal privacy statute containing the 13 APPs, the Notifiable Data Breaches scheme (2018), credit reporting rules, and civil penalties up to the greater of AUD 50 million, 3x benefit, or 30% of adjusted turnover for serious interferences."
+    },
+    {
+      "title": "Privacy and Other Legislation Amendment Act 2024",
+      "type": "act",
+      "status": "in_force",
+      "date": "2024-12-10",
+      "official_text_url": "https://www.legislation.gov.au/C2024A00128/latest/text",
+      "issuing_authority": "Parliament of Australia",
+      "summary": "Tranche-1 reform: statutory tort for serious invasions of privacy (from June 2025), criminal doxxing offences, Children's Online Privacy Code mandate, automated-decision transparency (2-year transition), and new mid-tier civil penalties."
+    },
+    {
+      "title": "Notifiable Data Breaches scheme (Privacy Act Part IIIC)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2018-02-22",
+      "official_text_url": "https://www.oaic.gov.au/privacy/notifiable-data-breaches",
+      "issuing_authority": "Parliament of Australia / OAIC",
+      "summary": "Mandatory notification to OAIC and affected individuals of eligible data breaches likely to result in serious harm, as soon as practicable after assessment."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-06-10",
+      "title": "Statutory tort for serious invasions of privacy commences",
+      "summary": "The new cause of action allowing individuals to sue for serious invasions of privacy (intrusion or misuse of information) took effect under the 2024 amendment.",
+      "source_url": "https://www.oaic.gov.au/"
+    },
+    {
+      "date": "2024-11-29",
+      "title": "Parliament passes tranche-1 Privacy Act reforms",
+      "summary": "The Privacy and Other Legislation Amendment Act 2024 passed, alongside the Online Safety Amendment establishing a minimum age (16) for social media accounts.",
+      "source_url": "https://www.legislation.gov.au/C2024A00128"
+    }
+  ],
+  "penalties": "Serious interference with privacy: greater of AUD 50 million, 3x the benefit obtained, or 30% of adjusted turnover during the breach period. New mid-tier (AUD 3.3M) and low-tier infringement penalties added in 2024.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "APP 8 accountability model: the discloser remains liable for overseas recipients' handling unless an exception applies (e.g. substantially similar regime with enforcement mechanisms, or informed consent).",
+  "last_reviewed": "2026-07-07"
+}

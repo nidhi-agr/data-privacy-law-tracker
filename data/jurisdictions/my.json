@@ -1,0 +1,59 @@
+{
+  "code": "my",
+  "name": "Malaysia",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Malaysia's Personal Data Protection Act 2010 (PDPA) covers personal data processed in commercial transactions. The Personal Data Protection (Amendment) Act 2024 — in force in phases during 2025 — added mandatory breach notification, DPO appointment, processor obligations, a right to data portability, and replaced the transfer whitelist with an adequacy/safeguards model. The Commissioner has issued supporting guidelines.",
+  "regulator": {
+    "name": "Personal Data Protection Commissioner (JPDP)",
+    "url": "https://www.pdp.gov.my/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data Protection Act 2010 (Act 709)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2013-11-15",
+      "official_text_url": "https://lom.agc.gov.my/act-detail.php?act=709",
+      "issuing_authority": "Parliament of Malaysia",
+      "summary": "Seven data protection principles applying to personal data in commercial transactions, registration requirements for certain sectors, sensitive-data consent rules and criminal-style penalties."
+    },
+    {
+      "title": "Personal Data Protection (Amendment) Act 2024",
+      "type": "act",
+      "status": "in_force",
+      "date": "2025-06-01",
+      "official_text_url": "https://lom.agc.gov.my/act-view.php?type=amendment&no=A1727",
+      "issuing_authority": "Parliament of Malaysia",
+      "summary": "Phased in during 2025: mandatory breach notification, DPO appointment, direct obligations on processors, biometric data classed as sensitive, data portability right, higher penalties (up to RM 1 million), and reformed cross-border transfer test."
+    },
+    {
+      "title": "Personal Data Protection Regulations 2013",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2013-11-15",
+      "official_text_url": "https://www.pdp.gov.my/jpdpv2/laws-of-malaysia/personal-data-protection-regulations/",
+      "issuing_authority": "Minister of Communications",
+      "summary": "Implementing regulations on registration of data users, security standards, retention and data integrity."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-06-01",
+      "title": "Breach notification and DPO obligations commence",
+      "summary": "The final phase of the 2024 Amendment Act took effect, requiring notification of significant breaches to the Commissioner (within 72 hours) and affected individuals, and DPO appointment above processing thresholds.",
+      "source_url": "https://www.pdp.gov.my/"
+    },
+    {
+      "date": "2025-02-25",
+      "title": "Commissioner issues breach notification and DPO guidelines",
+      "summary": "JPDP published guidelines operationalising the amendment's breach notification and DPO requirements ahead of commencement.",
+      "source_url": "https://www.pdp.gov.my/"
+    }
+  ],
+  "penalties": "Up to RM 1 million and/or imprisonment up to 3 years for breach of core principles (post-amendment); breach-notification failure up to RM 250,000.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Post-2024 amendment: transfers permitted to jurisdictions with substantially similar law or adequate protection; otherwise rely on consent, contract necessity or other statutory conditions. The old ministerial whitelist mechanism was abolished.",
+  "last_reviewed": "2026-07-07"
+}

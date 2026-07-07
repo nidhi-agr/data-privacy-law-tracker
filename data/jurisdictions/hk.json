@@ -1,0 +1,59 @@
+{
+  "code": "hk",
+  "name": "Hong Kong SAR",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Hong Kong's Personal Data (Privacy) Ordinance (PDPO, Cap. 486) dates from 1996 and is built on six Data Protection Principles. A 2021 amendment criminalised doxxing and gave the PCPD strong takedown powers. Broader reform (mandatory breach notification, direct fines) has been under discussion for years; the cross-border transfer provision (s.33) has never been brought into force.",
+  "regulator": {
+    "name": "Office of the Privacy Commissioner for Personal Data (PCPD)",
+    "url": "https://www.pcpd.org.hk/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data (Privacy) Ordinance (Cap. 486)",
+      "type": "act",
+      "status": "in_force",
+      "date": "1996-12-20",
+      "official_text_url": "https://www.elegislation.gov.hk/hk/cap486",
+      "issuing_authority": "Legislative Council of Hong Kong",
+      "summary": "Principles-based law covering collection, accuracy, retention, use, security and access. Direct marketing rules carry criminal penalties; 2021 amendment added anti-doxxing offences and PCPD cessation-notice powers."
+    },
+    {
+      "title": "Personal Data (Privacy) (Amendment) Ordinance 2021",
+      "type": "act",
+      "status": "in_force",
+      "date": "2021-10-08",
+      "official_text_url": "https://www.elegislation.gov.hk/hk/2021/25",
+      "issuing_authority": "Legislative Council of Hong Kong",
+      "summary": "Anti-doxxing amendment: criminalises disclosure of personal data without consent with intent or recklessness as to harm, and empowers the Commissioner to investigate, prosecute and issue cessation notices including to overseas platforms."
+    },
+    {
+      "title": "Guidance on Recommended Model Contractual Clauses for Cross-border Transfer of Personal Data",
+      "type": "guideline",
+      "status": "in_force",
+      "date": "2022-05-12",
+      "official_text_url": "https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_model_contractual_clauses.pdf",
+      "issuing_authority": "PCPD",
+      "summary": "Recommended (voluntary) model clauses for cross-border transfers, given that PDPO s.33 restricting transfers has never commenced."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-03-20",
+      "title": "Government reiterates PDPO review plans",
+      "summary": "Officials confirmed continued study of PDPO amendments including mandatory breach notification and administrative fines, but no bill has been introduced.",
+      "source_url": "https://www.pcpd.org.hk/english/news_events/media_statements/media_statements.html"
+    },
+    {
+      "date": "2024-06-11",
+      "title": "PCPD publishes AI personal data protection framework",
+      "summary": "The PCPD released a Model Personal Data Protection Framework for organisations procuring and using AI systems.",
+      "source_url": "https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf"
+    }
+  ],
+  "penalties": "No general administrative fines; contravention of an enforcement notice is an offence (up to HKD 50,000 first conviction, higher for repeats). Direct marketing and doxxing offences carry fines up to HKD 1 million and imprisonment.",
+  "dpo_required": false,
+  "breach_notification": false,
+  "cross_border": "PDPO s.33 (transfer restriction) enacted but never in force; transfers governed by general DPPs. PCPD recommends model contractual clauses voluntarily.",
+  "last_reviewed": "2026-07-07"
+}

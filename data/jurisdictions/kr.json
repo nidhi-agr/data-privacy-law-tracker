@@ -1,0 +1,59 @@
+{
+  "code": "kr",
+  "name": "South Korea",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "South Korea's Personal Information Protection Act (PIPA) is among the strictest privacy laws globally, substantially overhauled by the 2023 amendment which consolidated online/offline rules, introduced turnover-based fines, strengthened cross-border transfer mechanisms and added automated-decision rights. Korea holds an EU adequacy decision (2021).",
+  "regulator": {
+    "name": "Personal Information Protection Commission (PIPC)",
+    "url": "https://www.pipc.go.kr/eng/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Information Protection Act (PIPA)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2023-09-15",
+      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=personal+information+protection+act",
+      "issuing_authority": "National Assembly of the Republic of Korea",
+      "summary": "Comprehensive law with strong consent requirements, sensitive/unique identifier rules, mandatory CPO designation, breach notification, automated-decision rights (2023 amendment), and penalties up to 3% of related turnover."
+    },
+    {
+      "title": "Enforcement Decree of the Personal Information Protection Act",
+      "type": "decree",
+      "status": "in_force",
+      "date": "2023-09-15",
+      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=enforcement+decree+of+the+personal+information+protection+act",
+      "issuing_authority": "President of the Republic of Korea (Presidential Decree)",
+      "summary": "Implementing decree detailing consent methods, CPO qualification requirements, breach reporting (72 hours), overseas transfer requirements and safety measures."
+    },
+    {
+      "title": "Act on Promotion of Information and Communications Network Utilization and Information Protection (Network Act)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2020-08-05",
+      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=act+on+promotion+of+information+and+communications+network+utilization",
+      "issuing_authority": "National Assembly of the Republic of Korea",
+      "summary": "Formerly the primary online privacy law; its data provisions were merged into PIPA in 2020, leaving network security and spam rules."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-01-15",
+      "title": "PIPC publishes 2025 enforcement priorities",
+      "summary": "The PIPC announced annual inspection priorities including AI training data practices, children's services and large-platform overseas transfers.",
+      "source_url": "https://www.pipc.go.kr/eng/"
+    },
+    {
+      "date": "2024-03-15",
+      "title": "Automated decision-making rights take effect",
+      "summary": "PIPA provisions granting data subjects rights to explanation and to contest fully automated decisions became enforceable, with PIPC guidance issued.",
+      "source_url": "https://www.pipc.go.kr/eng/"
+    }
+  ],
+  "penalties": "Administrative fines up to 3% of total turnover related to the violation (2023 amendment); criminal sanctions including imprisonment for unlawful provision of personal data.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Overseas transfer requires consent or one of the 2023-amendment alternatives: contract disclosure for outsourcing/storage, certification, or PIPC-recognised adequacy of the destination. PIPC may order transfer suspension.",
+  "last_reviewed": "2026-07-07"
+}

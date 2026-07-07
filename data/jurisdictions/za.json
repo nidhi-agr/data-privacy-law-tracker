@@ -1,0 +1,50 @@
+{
+  "code": "za",
+  "name": "South Africa",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "South Africa's Protection of Personal Information Act, 2013 (POPIA) has been fully effective since 1 July 2021, enforced by the Information Regulator. Built on eight processing conditions, it covers both natural and juristic persons' information — an unusual feature. The Regulator has issued enforcement notices against major institutions (including the Department of Justice and WhatsApp) and operates mandatory breach (security compromise) notification.",
+  "regulator": {
+    "name": "Information Regulator (South Africa)",
+    "url": "https://inforegulator.org.za/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Protection of Personal Information Act, 2013 (Act No. 4 of 2013)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2021-07-01",
+      "official_text_url": "https://www.gov.za/documents/protection-personal-information-act",
+      "issuing_authority": "Parliament of South Africa",
+      "summary": "Comprehensive law: eight conditions for lawful processing, special personal information rules, mandatory Information Officer registration, security compromise notification, direct marketing consent rules, transfer restrictions (s.72), fines up to ZAR 10 million and criminal liability."
+    },
+    {
+      "title": "POPIA Regulations, 2018",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2021-07-01",
+      "official_text_url": "https://inforegulator.org.za/popia/",
+      "issuing_authority": "Information Regulator",
+      "summary": "Forms and procedures for objections, access requests, Information Officer duties, direct marketing consent and prior-authorisation applications."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-09-02",
+      "title": "Information Regulator issues enforcement notice to WhatsApp",
+      "summary": "The Regulator ordered WhatsApp to align its South African privacy policy and processing practices with POPIA, asserting parity with its European terms.",
+      "source_url": "https://inforegulator.org.za/"
+    },
+    {
+      "date": "2025-02-14",
+      "title": "Regulator expands security-compromise enforcement",
+      "summary": "Following thousands of breach notifications annually, the Regulator increased assessments and fines, including infringement notices for delayed notification.",
+      "source_url": "https://inforegulator.org.za/"
+    }
+  ],
+  "penalties": "Administrative fines up to ZAR 10 million; offences (e.g. obstructing the Regulator, account-number breaches) punishable by fines and imprisonment up to 10 years.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Section 72: transfers allowed where the recipient is subject to law/binding rules/contract providing substantially similar protection, or with consent, contract necessity or data-subject benefit grounds.",
+  "last_reviewed": "2026-07-07"
+}

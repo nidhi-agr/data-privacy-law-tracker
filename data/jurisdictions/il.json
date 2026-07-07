@@ -1,0 +1,59 @@
+{
+  "code": "il",
+  "name": "Israel",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Israel's Protection of Privacy Law, 5741-1981 — one of the world's older privacy statutes — was dramatically modernised by Amendment No. 13, which took effect on 14 August 2025. The amendment redefines core terms toward GDPR concepts, slashes database-registration duties while adding notification duties, mandates privacy protection officers for large processors, and arms the Privacy Protection Authority with substantial administrative fines. Israel retains EU adequacy (reaffirmed 2024).",
+  "regulator": {
+    "name": "Privacy Protection Authority (PPA)",
+    "url": "https://www.gov.il/en/departments/the_privacy_protection_authority"
+  },
+  "legal_instruments": [
+    {
+      "title": "Protection of Privacy Law, 5741-1981 (as amended through Amendment No. 13)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2025-08-14",
+      "official_text_url": "https://www.gov.il/en/departments/legalInfo/legislation_privacy_protection",
+      "issuing_authority": "Knesset",
+      "summary": "Comprehensive law covering databases of personal data: modernised definitions (personal data, sensitive data, processing), reduced registration but new PPA notification duties, DPO requirements for major data holders, and a new administrative enforcement regime with significant fines."
+    },
+    {
+      "title": "Protection of Privacy Regulations (Data Security), 5777-2017",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2018-05-08",
+      "official_text_url": "https://www.gov.il/en/departments/legalInfo/data_security_regulation",
+      "issuing_authority": "Minister of Justice",
+      "summary": "Tiered data-security requirements by database sensitivity, including mandatory breach notification to the PPA for severe incidents and periodic risk assessments."
+    },
+    {
+      "title": "Privacy Protection (Transfer of Data to Databases Abroad) Regulations, 5761-2001",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2001-06-01",
+      "official_text_url": "https://www.gov.il/en/departments/the_privacy_protection_authority",
+      "issuing_authority": "Minister of Justice",
+      "summary": "Conditions for transfers abroad: destination law comparable to Israeli law (EEA effectively adequate), consent, contractual safeguards or other listed grounds."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-08-14",
+      "title": "Amendment No. 13 takes effect",
+      "summary": "The most significant reform since 1996 became operative: GDPR-style definitions, PPA administrative fines (potentially reaching millions of shekels for large databases), expanded investigative powers and DPO mandates.",
+      "source_url": "https://www.gov.il/en/departments/the_privacy_protection_authority"
+    },
+    {
+      "date": "2024-01-15",
+      "title": "EU reaffirms Israel's adequacy status",
+      "summary": "The European Commission's review of the 2011 adequacy decision concluded Israel continues to provide adequate protection, noting the reform trajectory.",
+      "source_url": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en"
+    }
+  ],
+  "penalties": "Post-Amendment 13: administrative fines scaled to violation type and database size (for large-scale sensitive databases, fines can reach NIS millions); criminal offences and statutory damages without proof of harm (up to ~NIS 50,000) in civil suits also available.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "2001 Transfer Regulations: transfer permitted where destination ensures comparable protection (EEA listed), or with consent, contractual undertakings, or other enumerated grounds.",
+  "last_reviewed": "2026-07-07"
+}

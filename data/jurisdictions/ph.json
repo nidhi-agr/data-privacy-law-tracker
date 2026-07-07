@@ -1,0 +1,59 @@
+{
+  "code": "ph",
+  "name": "Philippines",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "The Philippines' Data Privacy Act of 2012 (RA 10173) is a comprehensive law aligned with international standards, enforced by an active National Privacy Commission (NPC). The 2022 Implementing Rules refresh and a run of NPC circulars (breach management, consent, administrative fines, CCTV, digital lending) keep the regime current; amendments to raise penalties are periodically proposed in Congress.",
+  "regulator": {
+    "name": "National Privacy Commission (NPC)",
+    "url": "https://privacy.gov.ph/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Data Privacy Act of 2012 (Republic Act No. 10173)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2012-09-08",
+      "official_text_url": "https://www.officialgazette.gov.ph/2012/08/15/republic-act-no-10173/",
+      "issuing_authority": "Congress of the Philippines",
+      "summary": "Comprehensive law establishing processing criteria, sensitive personal information rules, data subject rights, registration and DPO requirements, breach notification, and criminal penalties including imprisonment."
+    },
+    {
+      "title": "Implementing Rules and Regulations of the Data Privacy Act",
+      "type": "rules",
+      "status": "in_force",
+      "date": "2016-09-09",
+      "official_text_url": "https://privacy.gov.ph/implementing-rules-regulations-data-privacy-act-2012/",
+      "issuing_authority": "National Privacy Commission",
+      "summary": "IRR detailing lawful processing, security measures, breach notification (72 hours to NPC and data subjects), outsourcing and accountability requirements."
+    },
+    {
+      "title": "NPC Circular 2022-01 — Guidelines on Administrative Fines",
+      "type": "circular",
+      "status": "in_force",
+      "date": "2022-08-11",
+      "official_text_url": "https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-CIRCULAR-NO.-2022-01-GUIDELINES-ON-ADMINISTRATIVE-FINES-dated-08-AUGUST-2022-w-SGD.pdf",
+      "issuing_authority": "National Privacy Commission",
+      "summary": "Empowers the NPC to impose fines of 0.25%-3% of annual gross income for grave infractions and 0.25%-2% for major infractions, capped at PHP 5 million per infraction."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-03-25",
+      "title": "NPC Circular on Consent (2023-04) enforcement begins",
+      "summary": "NPC guidance tightening validity requirements for consent-based processing took full effect, pushing controllers toward other lawful bases where appropriate.",
+      "source_url": "https://privacy.gov.ph/"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "DPA amendment bills advance in Congress",
+      "summary": "Proposals to raise penalties, strengthen NPC enforcement powers and align the DPA with newer international norms continued through committee in the 19th/20th Congress.",
+      "source_url": "https://privacy.gov.ph/"
+    }
+  ],
+  "penalties": "Criminal: 1-6 years imprisonment plus fines up to PHP 5 million depending on the offence. Administrative: NPC fines up to 3% of annual gross income per infraction (capped PHP 5 million).",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Accountability model: the controller remains responsible for data transferred abroad and must use contractual or other reasonable means to ensure comparable protection.",
+  "last_reviewed": "2026-07-07"
+}

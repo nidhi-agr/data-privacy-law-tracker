@@ -1,0 +1,50 @@
+{
+  "code": "ch",
+  "name": "Switzerland",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "Switzerland's revised Federal Act on Data Protection (revFADP) took effect on 1 September 2023, modernising the 1992 law to GDPR-comparable standards — privacy by design, processing records, breach notification, DPIAs — while keeping distinctive features such as criminal (not administrative) fines on responsible individuals. Switzerland holds EU adequacy and operates its own Swiss-US Data Privacy Framework since September 2024.",
+  "regulator": {
+    "name": "Federal Data Protection and Information Commissioner (FDPIC)",
+    "url": "https://www.edoeb.admin.ch/en"
+  },
+  "legal_instruments": [
+    {
+      "title": "Federal Act on Data Protection (FADP, revised)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2023-09-01",
+      "official_text_url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en",
+      "issuing_authority": "Swiss Federal Assembly",
+      "summary": "Comprehensive law aligned with GDPR concepts: transparency duties, records of processing, DPIAs, breach notification to the FDPIC 'as soon as possible', genetic/biometric data as sensitive, and criminal fines up to CHF 250,000 on private individuals responsible for violations."
+    },
+    {
+      "title": "Ordinance on Data Protection (DPO)",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2023-09-01",
+      "official_text_url": "https://www.fedlex.admin.ch/eli/cc/2022/568/en",
+      "issuing_authority": "Swiss Federal Council",
+      "summary": "Implementing ordinance: minimum security requirements, modalities of information and access rights, breach-report content, and the annexed list of countries with adequate protection."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-09-15",
+      "title": "Swiss-US Data Privacy Framework operational",
+      "summary": "The Federal Council recognised the Swiss-US DPF, allowing transfers to certified US companies without additional safeguards from 15 September 2024.",
+      "source_url": "https://www.edoeb.admin.ch/en"
+    },
+    {
+      "date": "2025-01-31",
+      "title": "EU renews Swiss adequacy",
+      "summary": "The European Commission's review of pre-GDPR adequacy decisions confirmed Switzerland continues to ensure adequate protection following the revFADP.",
+      "source_url": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en"
+    }
+  ],
+  "penalties": "Criminal fines up to CHF 250,000 imposed on responsible private individuals (not companies) for intentional violations of information, disclosure or minimum-security duties; company may be fined up to CHF 50,000 where attributing conduct is disproportionate.",
+  "dpo_required": false,
+  "breach_notification": true,
+  "cross_border": "Transfers permitted to countries on the Federal Council's adequacy list; otherwise safeguards (SCCs adapted to Swiss law, BCRs) or derogations. Swiss-US DPF covers certified US recipients.",
+  "last_reviewed": "2026-07-07"
+}

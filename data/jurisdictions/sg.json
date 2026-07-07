@@ -1,0 +1,59 @@
+{
+  "code": "sg",
+  "name": "Singapore",
+  "region": "APAC",
+  "status": "comprehensive_law_in_force",
+  "overview": "Singapore's Personal Data Protection Act 2012 (PDPA) governs private-sector processing of personal data, built around consent with broad 'deemed consent' and legitimate-interests exceptions added in the 2020 amendments, which also introduced mandatory breach notification and data portability provisions. The PDPC is an active enforcer and a leading voice on AI governance in Asia.",
+  "regulator": {
+    "name": "Personal Data Protection Commission (PDPC)",
+    "url": "https://www.pdpc.gov.sg/"
+  },
+  "legal_instruments": [
+    {
+      "title": "Personal Data Protection Act 2012",
+      "type": "act",
+      "status": "in_force",
+      "date": "2014-07-02",
+      "official_text_url": "https://sso.agc.gov.sg/Act/PDPA2012",
+      "issuing_authority": "Parliament of Singapore",
+      "summary": "Baseline private-sector data protection law: consent (including deemed consent), purpose limitation, protection, retention and transfer limitation obligations, Do Not Call registry, and mandatory breach notification (since Feb 2021). Fines up to 10% of Singapore turnover."
+    },
+    {
+      "title": "Personal Data Protection Regulations 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2021-02-01",
+      "official_text_url": "https://sso.agc.gov.sg/SL/PDPA2012-S63-2021",
+      "issuing_authority": "Minister for Communications and Information",
+      "summary": "Implementing regulations covering overseas transfer conditions (comparable protection via contract, BCRs, certification), access/correction procedures and prescribed breach notification detail."
+    },
+    {
+      "title": "Personal Data Protection (Notification of Data Breaches) Regulations 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2021-02-01",
+      "official_text_url": "https://sso.agc.gov.sg/SL/PDPA2012-S64-2021",
+      "issuing_authority": "Minister for Communications and Information",
+      "summary": "Prescribes notifiable breach thresholds: significant harm categories or breaches affecting 500 or more individuals; notify PDPC within 3 calendar days of assessment."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2024-03-01",
+      "title": "PDPC issues advisory guidelines on AI recommendation systems",
+      "summary": "Guidelines clarify how the PDPA's consent and notification obligations apply to personal data used in AI systems that make recommendations or decisions.",
+      "source_url": "https://www.pdpc.gov.sg/guidelines-and-consultation"
+    },
+    {
+      "date": "2024-10-15",
+      "title": "Health Information Bill consultation advances sectoral data-sharing rules",
+      "summary": "Singapore progressed sector-specific health information legislation to complement the PDPA for national health records sharing.",
+      "source_url": "https://www.moh.gov.sg/"
+    }
+  ],
+  "penalties": "Up to 10% of annual turnover in Singapore (for organisations with local turnover above SGD 10 million) or SGD 1 million, whichever is higher.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Transfers allowed where the recipient is bound to a comparable standard of protection (contractual clauses, binding corporate rules, APEC CBPR certification, or specified adequacy).",
+  "last_reviewed": "2026-07-07"
+}

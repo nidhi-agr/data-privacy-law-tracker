@@ -1,0 +1,59 @@
+{
+  "code": "ae",
+  "name": "United Arab Emirates",
+  "region": "EMEA",
+  "status": "comprehensive_law_in_force",
+  "overview": "The UAE's federal Personal Data Protection Law (Federal Decree-Law No. 45 of 2021) is a GDPR-influenced framework, though its Executive Regulations and the operationalisation of the UAE Data Office have been long delayed, limiting practical enforcement. The financial free zones run mature standalone regimes: DIFC Data Protection Law No. 5 of 2020 and ADGM Data Protection Regulations 2021, both actively enforced with adequacy-style transfer lists.",
+  "regulator": {
+    "name": "UAE Data Office (federal); DIFC and ADGM Commissioners of Data Protection in the free zones",
+    "url": "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws"
+  },
+  "legal_instruments": [
+    {
+      "title": "Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data (PDPL)",
+      "type": "act",
+      "status": "in_force",
+      "date": "2022-01-02",
+      "official_text_url": "https://uaelegislation.gov.ae/en/legislations/1972",
+      "issuing_authority": "President of the UAE (Federal Decree-Law)",
+      "summary": "Federal law with GDPR-style concepts: consent-centric lawful bases, data subject rights, controller/processor duties, breach notification to the Data Office, and cross-border transfer conditions. Practical enforcement awaits Executive Regulations; penalties to be set by Cabinet decision."
+    },
+    {
+      "title": "DIFC Law No. 5 of 2020 — Data Protection Law",
+      "type": "act",
+      "status": "in_force",
+      "date": "2020-07-01",
+      "official_text_url": "https://www.difc.com/business/laws-and-regulations/legal-database/difc-laws/data-protection-law-difc-law-no-5-2020",
+      "issuing_authority": "Dubai International Financial Centre",
+      "summary": "GDPR-aligned free-zone law with lawful bases, DPO requirements for high-risk processing, breach notification, adequacy list for exports, and fines (general cap USD 100,000 for listed contraventions, unlimited for serious breaches via court). Amended 2022-2025 including private right of action and digital-ID provisions."
+    },
+    {
+      "title": "ADGM Data Protection Regulations 2021",
+      "type": "regulation",
+      "status": "in_force",
+      "date": "2021-02-14",
+      "official_text_url": "https://www.adgm.com/legal-framework/rules-and-regulations",
+      "issuing_authority": "Abu Dhabi Global Market",
+      "summary": "GDPR-aligned regulations for ADGM establishments: lawful bases, records, DPIAs, breach notification (72 hours), transfer safeguards and fines up to USD 28 million for the most serious contraventions."
+    }
+  ],
+  "developments": [
+    {
+      "date": "2025-04-15",
+      "title": "Federal PDPL Executive Regulations still pending",
+      "summary": "The long-awaited Executive Regulations to the federal PDPL remained unissued, leaving the federal regime largely dormant in practice while free-zone regimes continue active enforcement.",
+      "source_url": "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws"
+    },
+    {
+      "date": "2025-01-14",
+      "title": "DIFC updates Data Protection Regulations",
+      "summary": "DIFC continued iterating its regime with amendments addressing digital identity, AI-related processing and clarified breach-reporting expectations.",
+      "source_url": "https://www.difc.com/"
+    }
+  ],
+  "penalties": "Federal PDPL: administrative penalties to be prescribed by Cabinet decision (pending). DIFC: fines up to USD 100,000 per listed contravention plus court-imposed amounts. ADGM: up to USD 28 million for serious violations.",
+  "dpo_required": true,
+  "breach_notification": true,
+  "cross_border": "Federal PDPL: transfers to jurisdictions with adequate protection or under contracts/consent (detail awaits Executive Regulations). DIFC/ADGM maintain adequacy lists (including EU, UK) plus SCC-style safeguards.",
+  "last_reviewed": "2026-07-07"
+}
