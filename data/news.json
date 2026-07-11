@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-07-10T06:16:56+00:00",
+  "generated_at": "2026-07-11T05:24:03+00:00",
   "window_days": 30,
   "items": [
+    {
+      "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
+      "url": "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
+      "date": "2026-07-10",
+      "source": "RSS - Actualités CNIL",
+      "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&nbsp;nouveau téléservice santé et recherche de la CNIL.",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
+    {
+      "title": "IDfy wins privacy challenge as India operationalizes DPDP Act",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXlncWJsa1lSRlA1UkFPeUJjQTlqa1F5ZEoyNkFiLXFkTU0zczhfeG5kV1ppU2l1S2RwdmFGUC1qVWNBUEVFU1VjN19QNUF6S0JKeEtGcFVBbFFtdllVUUNBT2JJY2huSEpxNzIydlNjcl9lUHF6aUhlbzJBalB6LUIwcUg1NzBSb1FYNjNRYkJMMURjODB1bng1Y0twZlVaNFE?oc=5",
+      "date": "2026-07-10",
+      "source": "Biometric Update",
+      "summary": "IDfy wins privacy challenge as India operationalizes DPDP Act  Biometric Update",
+      "jurisdiction": "in",
+      "region": "APAC"
+    },
+    {
+      "title": "India's data privacy deadline nears: Are Indian companies ready?",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRW9iZ0MxNFFGRnVsX1drYkdMVHRpWEh2WEVCNFd5MlhxTVBaRE0yQ2o2Zm4wM25wZWFvNHFzMHBBbE41WWlrZlRYcEZJTGF4WW1Ya2NqSk9teHhTd01HU1NKQzRNR2YtR0hhbTV0WExDQVdwWmJZN0hyQUItUmRhOFJRQ2RDTDl0N05UaDdHX1lndkREb3dxREtnNkZhbTZWTWpMNGVwTkpfZTRWWXdTTF9GMTFWWEVESXdqd25QUHl6QW1GUXJTa1phTk9oejZxdWIyd9IB1AFBVV95cUxNRW9iZ0MxNFFGRnVsX1drYkdMVHRpWEh2WEVCNFd5MlhxTVBaRE0yQ2o2Zm4wM25wZWFvNHFzMHBBbE41WWlrZlRYcEZJTGF4WW1Ya2NqSk9teHhTd01HU1NKQzRNR2YtR0hhbTV0WExDQVdwWmJZN0hyQUItUmRhOFJRQ2RDTDl0N05UaDdHX1lndkREb3dxREtnNkZhbTZWTWpMNGVwTkpfZTRWWXdTTF9GMTFWWEVESXdqd25QUHl6QW1GUXJTa1phTk9oejZxdWIydw?oc=5",
+      "date": "2026-07-10",
+      "source": "Business Standard",
+      "summary": "India's data privacy deadline nears: Are Indian companies ready?  Business Standard",
+      "jurisdiction": "in",
+      "region": "APAC"
+    },
     {
       "title": "Office of the Privacy Commissioner for Personal Data, Hong Kong, China wins at GovMedia Conference & Awards 2026",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRTFaTXV3amZtOGJyelZNWlcwb01qbmF4Tk02NXVCQzRYZTUxLUUzeE9COElYTlpObXB3R3l5YWtZVzZ3YUhQMWZ1RmotUlJmRkpkVXdsaTVQbnNyaGwwMWtWa0I3YzAyM0FyTnJEZTBQSVlJZEF4V1ZTWWZ3ZWVuOE5EaFBQaDVlc3RvX3cyamdaMnRWZkhwZzRwQndpMjR6djBieXNPeTdhVUtQZnoyZ2ttZVJKdmFPM2NCOEs2NFVKLXZ5dTF3WkZLMm9mZXZtRUZ4MGluSlpYSERsVWc?oc=5",
@@ -10,6 +37,24 @@
       "summary": "Office of the Privacy Commissioner for Personal Data, Hong Kong, China wins at GovMedia Conference & Awards 2026  GovMedia",
       "jurisdiction": "hk",
       "region": "APAC"
+    },
+    {
+      "title": "The Dynamics of Digital Privacy Enforcement in Public Dashca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckgtdVZiZFBDeENWdWYwX2xwenN1Y3RWV096ZFR2NFBQSkZFZ1JjX0QzNzRvU0VFeEVNUGhGeFVuMnhGazh5ejJJRXpTeHRfay1rMGVPVllaN2xVdDdxS0paRWk0eFRWaE1qY2ZxLWdxWjI1a05zR3JBbFVsWmloaGlLem1PSTM5azNacUMxc1lFTnBqd1g1RFdRZ1hkZDQ?oc=5",
+      "date": "2026-07-10",
+      "source": "Lavender Hotel",
+      "summary": "The Dynamics of Digital Privacy Enforcement in Public Dashca  Lavender Hotel",
+      "jurisdiction": "hk",
+      "region": "APAC"
+    },
+    {
+      "title": "Qatar Airways and Hamad International Airport launch Fast Pass biometric facial recognition",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWdiSmxmRE42amJRejBJZW41S3FOUzRNVnBjMWxZQlBQcFlqRjlTb0pydzd1bHJXeTVydTBUbEptNkRxMjBETTZ4dmZ4NWZJY0UtQjNUWEVJQktCenlyaldBdFVuMzdDZVJnQVYxUnZFd21yLVczQms3cURZUVNKLWs0ckJoRGV3bm5ndmt6bWRxdm9EUGpTWThDNkxWTVo2em9BQV9fNWMyc1RHUHZheDRYM0tWU05aMWZwVGdiUndtMW5XRmVQcHRrdnh3UQ?oc=5",
+      "date": "2026-07-10",
+      "source": "FTN news",
+      "summary": "Qatar Airways and Hamad International Airport launch Fast Pass biometric facial recognition  FTN news",
+      "jurisdiction": "qa",
+      "region": "EMEA"
     },
     {
       "title": "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
@@ -30,20 +75,20 @@
       "region": "EMEA"
     },
     {
+      "title": "South Korea Issues First Blockchain Data Protection Guidelines Following Bithumb Case",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHFlZHNlZjZtR2xyTTdacW5XZFhYZmlHbGcxcm5rdFUwUVpsdGYzRDRhQ09tZlRKTlVWX29qaDhra29SMDR4THZ6NTVuX3JrWFZ6OUZDenpwdU5OMGR2UkFVVGtxWTJXeXlCX2xHWDVDN09RdTJ4ZXNzZjktck9KeFNHenN3X3hEbGplUG1kRHk?oc=5",
+      "date": "2026-07-09",
+      "source": "CryptoRank",
+      "summary": "South Korea Issues First Blockchain Data Protection Guidelines Following Bithumb Case  CryptoRank",
+      "jurisdiction": "kr",
+      "region": "APAC"
+    },
+    {
       "title": "The privacy obligation lawyers didn’t see coming",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSjVZOGtWTzhHMERJZjluNF94T1BiTHlzRElTT2gyYzRPVVdxNG1tb2ptQ2trOUJ5bUlqb191Nl83NkdRWVlEd3RUV0otaGwxa3Z1TXVMQWRzTXhwWm5UeUlwc1JKdEc2cnc4Yml2cHFsSkdzLWpCcGEwdTJ3ZEREdFlB?oc=5",
       "date": "2026-07-09",
       "source": "Law Society Journal",
       "summary": "The privacy obligation lawyers didn’t see coming  Law Society Journal",
-      "jurisdiction": "au",
-      "region": "APAC"
-    },
-    {
-      "title": "Pixelated privacy: Key obligations for organisations using tracking technologies",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjZQWUtfcjIxLXUzYXdPWUxwTmd2empBRUZ2Nlh4amJhdTNfX3JSLXNPRldkbk5uNVhHeTlfb1JXaGRTampzZENSNGFBY1VBcjF6V2lPRGs5NlJxeDJsQ2ZzTkFuYi1XVTlHN3lNSmUxdkFnaS1XUmQ4aVh2NWFHc0gwbW9WRDBnWGhSekprLUF2aHZkQ2VLQzI5VngwSVdpM1lLRkQ1NmdYU1ZqZmg5Ry1vWUlocnc?oc=5",
-      "date": "2026-07-09",
-      "source": "Maddocks",
-      "summary": "Pixelated privacy: Key obligations for organisations using tracking technologies  Maddocks",
       "jurisdiction": "au",
       "region": "APAC"
     },
@@ -75,15 +120,6 @@
       "region": "EMEA"
     },
     {
-      "title": "Data protection becomes growth sector in Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjA5ZkFvdGpOTU5ZUjVFWlRicnlJWW42Z05uQThBYXVGMEJnUTlEcnBPaDJXT3hIV1BqRk1fek1fN0xrYWdFQjVacjJXWHIyWGlzT05ucVJkbEtCWlJYOUUwQ1JpRUNZLTRGLW1rN3Fmd3doaFczSGdnMUgwQko1OVR4ZEJoWmRNZ2FFOE5OVUFMeEMxZ240V0xB?oc=5",
-      "date": "2026-07-09",
-      "source": "ITWeb Africa",
-      "summary": "Data protection becomes growth sector in Nigeria  ITWeb Africa",
-      "jurisdiction": "ng",
-      "region": "EMEA"
-    },
-    {
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
       "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
       "date": "2026-07-08",
@@ -111,15 +147,6 @@
       "region": "APAC"
     },
     {
-      "title": "Veeam Partners with Data Security Council of India to Build Resilience and Talent Ahead of Data Protection Deadline",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ3JGRjViNXFoTnpteWRqeTh6YzduVUtzQVdwSWZvSFE5UE91UnVkMzNfN1E0VmE0WnJnN1NiTDk3NXV1d2hnUE0yZnBiZ0pRT1ZmbEtDd2RkY29QaXliUm85VllkeWtPbXRldXlVdXp2MGZKaXp6Z1U0amEtRmJzNmROMU11dVVEVHd4dFVNOUVacWNBcGNrSVZOb0NHOVE3M1pDdGpUanprTW1fSDhHLWREWG9NdzcxLUJOd2FPQ0JCSlVQT3ZZTHVjSzJoM05YendHZ2lBY1p1eENwUWk2bl9mdHdKY28?oc=5",
-      "date": "2026-07-08",
-      "source": "CXOToday.com",
-      "summary": "Veeam Partners with Data Security Council of India to Build Resilience and Talent Ahead of Data Protection Deadline  CXOToday.com",
-      "jurisdiction": "in",
-      "region": "APAC"
-    },
-    {
       "title": "Singapore AI Guidance: Governance, Data Protection, and Legal Responsibility",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkp4c2VRR3VPMElSem9IT0E0ZGs2QmNhSlNJV0p6WjI3VVBiMWRUa0t1TGVMSEYxNnRJQWxzUDVmaFY1QzF0elk1MEFIM1BUR0d5LWlLM3dMV1NoRVhOLUtaTFFMdExjTFBzT1JQQ0k0bWFxWjVONmduRDJEOU13Rk00YU5HaElMa2ZfQkNGTjJiN1AzQVpTcHFNdGduejJzZ2hDaVRSRQ?oc=5",
       "date": "2026-07-08",
@@ -127,6 +154,15 @@
       "summary": "Singapore AI Guidance: Governance, Data Protection, and Legal Responsibility  Latham & Watkins LLP",
       "jurisdiction": "sg",
       "region": "APAC"
+    },
+    {
+      "title": "Home Office's glitchy eVisa rollout lands UK privacy regulator in campaigners' crosshairs",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTA5NGNkN2Y1NWtteUNBeXkwNzVHV0tJWWZtSC1nUGhmX1dHZG96eEJSXzBvM3ZtRnlVZzFzWlVCMmV0cGVGWEVBamRqZTZKbmhXTG1DcDRYWWNpUDZnVWMxY2VLdjhJRDQtRlltZW52dTU5ZzVLLTNaVndUUGlEQnhFMzdkaUttRS1pWUdFU2dzS29mcFQ3UUlCNzdOSTJVUWhGSFpBTzB4YmZlVXNaYkFCSHpKYmlmSnY2UWdTX3haaTkzZFFialptOUcyaVhtSExjN3ZWSndCUVE?oc=5",
+      "date": "2026-07-08",
+      "source": "The Register",
+      "summary": "Home Office's glitchy eVisa rollout lands UK privacy regulator in campaigners' crosshairs  The Register",
+      "jurisdiction": "uk",
+      "region": "EMEA"
     },
     {
       "title": "Hamad International Airport expands biometric travel",
@@ -174,20 +210,20 @@
       "region": "EMEA"
     },
     {
-      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
-      "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
-      "date": "2026-07-07",
-      "source": "RSS - Actualités CNIL",
-      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
-      "jurisdiction": "eu",
-      "region": "EMEA"
-    },
-    {
       "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
       "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
       "date": "2026-07-07",
       "source": "RSS - Actualités CNIL",
       "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
+    {
+      "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+      "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+      "date": "2026-07-07",
+      "source": "RSS - Actualités CNIL",
+      "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
       "jurisdiction": "eu",
       "region": "EMEA"
     },
@@ -198,15 +234,6 @@
       "source": "Express Computer",
       "summary": "Veeam partners with DSCI to strengthen cyber resilience and DPDP readiness in India  Express Computer",
       "jurisdiction": "in",
-      "region": "APAC"
-    },
-    {
-      "title": "Data protection forecast: what's on the horizon for in-house teams? (Q3 2026)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEIySDktLVdEeUJkMXNwTXhkM0pINm5iSUV2OS1YeW9GQU42ZG1rUG96RjV3OERQa3ZzLWRMcWlVVExwRXFjU1JKWkFUUjcxaHRaUlJnY0NOVGphSUhMajFVVHk4UElrb0NUQkRUUTQwWGJpMVU4XzY5SVEtOWd5TnJxZF9jMEwyMlN5UUVHRXVfcjNGeUFmODNZbUpFZ1cxYUlLSQ?oc=5",
-      "date": "2026-07-07",
-      "source": "Lexology",
-      "summary": "Data protection forecast: what's on the horizon for in-house teams? (Q3 2026)  Lexology",
-      "jurisdiction": "nz",
       "region": "APAC"
     },
     {
@@ -228,30 +255,12 @@
       "region": "EMEA"
     },
     {
-      "title": "Qatar's Hamad International Airport launches Fast Pass biometric service for paperless passenger travel",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3dwSXNRZDMxazdpQng3TEJlcVNVQVdkQlhQa0lLa3FpTTdaV1h5WlNwaXRnbUlSc3lLQ0lwTDlUbjZ0R3JTaFJhTTFBSG5xNWFtWVFsclFMNmRfdUJSTjBQUGtWWldiTk51c0pGNV9oemxfMzFnRndlMV9YSnNseURjd2xEbjBWU0ppQVpPODd4TTE5NWFJcmx0dnVWMEhTd041NnBNUkw1WENUY3VlUmI1c0huMHBBRGlCbFo3c1RMT3kzRlJPM1EzQk11aW1haEZEVQ?oc=5",
-      "date": "2026-07-07",
-      "source": "Economy Middle East",
-      "summary": "Qatar's Hamad International Airport launches Fast Pass biometric service for paperless passenger travel  Economy Middle East",
-      "jurisdiction": "qa",
-      "region": "EMEA"
-    },
-    {
       "title": "Data breaches surge despite five years of privacy law enforcement",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM01ET212UGlqTmx3OGJlcXdwSEhESjJiT0wtT3FVUF9PX29YeDR4YmNObWJ5RmlwM0FCeG80QzlvSnlYcVk0R2phWVZ3OU1BVTV1Y0VPV0F2SkNRNW96dGx6WlVBci1TN1Nha1BCYjRjc3B0a3cyZnJUNXRpVnlfVHo3QXVjTUtLMjA4Mk12NzJXRnM?oc=5",
       "date": "2026-07-07",
       "source": "novanews.co.za",
       "summary": "Data breaches surge despite five years of privacy law enforcement  novanews.co.za",
       "jurisdiction": "za",
-      "region": "EMEA"
-    },
-    {
-      "title": "African Nations Reject US Pathogen Data Sharing Deals Amid Privacy Concerns",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONU5uMWUyWGVEUUo0eWRSZXdWaFd6WC10YTRwWU5KLWNVVk1lS3Y2NllWb0V3ay1jM19Qb3REdnYxNjIzUUVuVnMyNkdFZndHRXFQdzRWOTNuWUFpb3dDaW5wbDZMNjc1VlZzUnpRNFpwcjJmLVZHZ0Z6QjdJLXVkSHBLYU44dWRicllJdHNpZHVOeGtkUlRZTFBiaVdibHB2QWhoZg?oc=5",
-      "date": "2026-07-07",
-      "source": "SSBCrack",
-      "summary": "African Nations Reject US Pathogen Data Sharing Deals Amid Privacy Concerns  SSBCrack",
-      "jurisdiction": "gh",
       "region": "EMEA"
     },
     {
@@ -269,7 +278,7 @@
       "date": "2026-07-06",
       "source": "Youth Ki Awaaz",
       "summary": "Navigating India’s DPDP Act And Japan’s APPI In The Shared AI Frontier  Youth Ki Awaaz",
-      "jurisdiction": "in",
+      "jurisdiction": "jp",
       "region": "APAC"
     },
     {
@@ -280,15 +289,6 @@
       "summary": "Hong Kong Launches AI Sandbox to Support Data Protection in Schools  OpenGov Asia",
       "jurisdiction": "hk",
       "region": "APAC"
-    },
-    {
-      "title": "HIA and Qatar Airways launch Fast Pass biometric travel service",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLUsyMFc0NEFMMHYtRUo2VGNKUTVDYjY3Qm80eWl6Nkc5WlJkRGZYY0xuRllNMXVoa2FqNm5zRHNzTHhvbjVOLUJBOEFZQ2JtSkkta1IzS2VYYXc3U1RUMVJhR2xYMi1XTlZUalJVWkpUTzhWcm1IUDlzTThKMUJPWWhUVV9Ddnc5enA3eA?oc=5",
-      "date": "2026-07-06",
-      "source": "Doha News | Qatar",
-      "summary": "HIA and Qatar Airways launch Fast Pass biometric travel service  Doha News | Qatar",
-      "jurisdiction": "qa",
-      "region": "EMEA"
     },
     {
       "title": "South Africa Data Breaches Cost 1.81% of GDP - Avoidable Economic Losses",
@@ -318,15 +318,6 @@
       "region": "APAC"
     },
     {
-      "title": "Hong Kong Privacy Commissioner for Personal Data Completes its 2026 AI Compliance Checks: Findings, Trends and the Rise of Agentic AI",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWkFYWHZKaUhaZ0l2Z0RqNGJnM2RBT2czM0d6ZEpzendjUDUwejlNU25RMExBMmtyR09hOVpnSm5xRG5zRE95X0w4a3NQSktQRmx3a1MzNFhVOGFhUDg2VlhydnpoMi1SZkxIenJXcUxWOVRMb1oyMGJ4Z1RIU0dEUm14WHA4UUVyVjl4U3ZvQ1JiMVQzaUw3NTRqU01mT3BFQzFVaFdDNWFvaEhqQ1Mtd1MzaTg2bWlPQ2RmSDFrMFYzT0hhOEROdnBGUVp0SEs2TFUxY2dXUFgwcFBQbjRhUXlza0tPc0ctRURfWDR1ZU5OVEtjSktKUUtZd0Z2eGNSQVFpOTZRM2l0TmluUURIUlZKRkRKX3R2RC1R?oc=5",
-      "date": "2026-07-03",
-      "source": "Mayer Brown",
-      "summary": "Hong Kong Privacy Commissioner for Personal Data Completes its 2026 AI Compliance Checks: Findings, Trends and the Rise of Agentic AI  Mayer Brown",
-      "jurisdiction": "hk",
-      "region": "APAC"
-    },
-    {
       "title": "Privacy commissioner calls for tougher penalties for not keeping patient data safe",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQck1xMTdMemp0Y1FiUHJVMDNKbFliYjVHQ1RfNzZlUU1hT2VPZXU4ZTlTYjdLbFpOUGU1ZnJWYmdoaHhENC1qa1R6c1RJNWdrYzZOQlc3Um1oMU5mYVFOMXF4NkpBR283TjU4bV9Ea2Vfc1dSazJJd2llVVAyOUNqTlJoQXZwWGxwajdYYURTNDhLNWhOQWV0UDhXQTI3OUlCajZOWUZXOEQtT0ZHYmRnZDZ0bERpNWFXSDJV?oc=5",
       "date": "2026-07-03",
@@ -345,20 +336,20 @@
       "region": "APAC"
     },
     {
+      "title": "Protecting your visitors' personal data: New rules are coming for security complexes.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzBRY1hiTW5RbTN1OWNCcUJRQ2tOUS12QmVDdWFNSTlpYWQzdVlrRWZrMU9oNDMxMmhKa3RPMHZ2V2M1elVLb29oN2lES2RVb29YcnN6UnA4OFl5U1hvSFRodlVlUndJaTY1UEpUQmNpdDhrMFNiUExwVkw0MmhKX2ZzSEs5dDUtQTg4ZFlBZjdTWGFQeWRFbGllcWFRcXZPSG1uTnZ4aDN6Uy00UXYwd2IxdWg0bFNvZkIxel8yckJ4Rlg5cGc?oc=5",
+      "date": "2026-07-03",
+      "source": "Polity.org.za",
+      "summary": "Protecting your visitors' personal data: New rules are coming for security complexes.  Polity.org.za",
+      "jurisdiction": "za",
+      "region": "EMEA"
+    },
+    {
       "title": "Ordre du jour de la séance plénière du 2 juillet 2026",
       "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
       "date": "2026-07-02",
       "source": "RSS - Actualités CNIL",
       "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "jurisdiction": "eu",
-      "region": "EMEA"
-    },
-    {
-      "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
-      "url": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
-      "date": "2026-07-02",
-      "source": "RSS - Actualités CNIL",
-      "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
       "jurisdiction": "eu",
       "region": "EMEA"
     },
@@ -453,15 +444,6 @@
       "region": "EMEA"
     },
     {
-      "title": "TransUnion Data Breach: What Happened and How to Protect Yourself",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BWGtVOVNoVGdXMGQ1UHh6WGdscFJmU3JubmtuQjlkOF84NnlraGpuZXZfYTBaOW1WWGhYd01tVjluMXNGNVMwY3c4X2xhN01PYU5PV25vNGtydGQyc0t2ak44dHg4YmxocWc?oc=5",
-      "date": "2026-07-01",
-      "source": "Security.org",
-      "summary": "TransUnion Data Breach: What Happened and How to Protect Yourself  Security.org",
-      "jurisdiction": "za",
-      "region": "EMEA"
-    },
-    {
       "title": "Indian startups must comply with DPDP Act no exemptions",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEppSTZIeEVfVHZSUUNDR3hQN2dDeExzUmdxWXRCSDVNcV80c2h1b3JmMl9ab0pqU2pNTU1qZUdub3hfYndNbENoVEVRUExaUDAyb0VoTHlTV3VCSUFNckFSSGxqOGc5eExQQXkzM2JpRFp1Z0ZYUTdTU2pqTUdRZTd4YnNGekk0dFEzaXFrM3VYWHhMZFlDZnJYazFCbVhmU0tkel93?oc=5",
       "date": "2026-06-30",
@@ -471,12 +453,12 @@
       "region": "EMEA"
     },
     {
-      "title": "Privacy Driven Lumo 2.0 Chatbot Challenges ChatGPT With Zero Access Encrypted Image Generation",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjc2US1lY3p3V1dEQlVnRVdSR0JfbjlmbEtGTjE0My1XNmtVMnI0ejd3S0NGQkV3LUtNcTFOUTlPeVlobVYza1BjSVZzUS1oem03QjFQcDBYVnoxVlFGWFZSWkQ5WURBeGczWFcyRHVCbS1lWWtaVDZGX3c3ZDRyM29EQTZjOUk?oc=5",
+      "title": "New NIMC Act Promises Data Privacy, Yet It Sidelines Nigeria’s Data Protection Regulator",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTURrLVYwQVREMHcwbWwweXQtMFZxUGVvZ3dVaDl6dWFwOVJrcW9wYUItVlJQVDRHTEg3c1ZkS2pJS0cyU29ZQlZCVGNPUjQ4bnVWdEkxaDZTV0dLc2ZMbUJLanRLRDlMVmRYbXNMMXYwampJWWlTNnRKRHUwRmdSanRUemNGUnMxLTE0a09nN3lLLVJRRjVCNVNVdGFzWnNWanY2V2FOZWtuSnFUbFZF?oc=5",
       "date": "2026-06-30",
-      "source": "streamlinefeed.co.ke",
-      "summary": "Privacy Driven Lumo 2.0 Chatbot Challenges ChatGPT With Zero Access Encrypted Image Generation  streamlinefeed.co.ke",
-      "jurisdiction": "ke",
+      "source": "FIJ NG",
+      "summary": "New NIMC Act Promises Data Privacy, Yet It Sidelines Nigeria’s Data Protection Regulator  FIJ NG",
+      "jurisdiction": "ng",
       "region": "EMEA"
     },
     {
@@ -525,6 +507,15 @@
       "region": "EMEA"
     },
     {
+      "title": "Privacy crackdown lands on health-site adtech as OAIC rulings against Monash IVF, Medmate widen risk for pixels, retargeting and matching; Meta and TikTok highlighted",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDFGbmI4QWM4UF9JcXJ4TXVqODdlYU9xd1VQOEJtQy1SMndtdU5PejVGOFp6aHV2R1g0cDBFb2hPNmRNWVJEZmd1R0ZicHBVbFRRVGJiMjlxUmFXbmxoM0VnNnlRbzg2aUdxbkZTNUU3TXpQYkRxdU9JdWZqRzUwcmpBT0pUb3JXTUc0Uk4wMV9PaGR6OE9EVG1ma3RuamlRSzFHYV9fVWZzT0VZVkdTdUJqSm1sTUVVMTdXTDBxcw?oc=5",
+      "date": "2026-06-25",
+      "source": "Mi-3.com.au.",
+      "summary": "Privacy crackdown lands on health-site adtech as OAIC rulings against Monash IVF, Medmate widen risk for pixels, retargeting and matching; Meta and TikTok highlighted  Mi-3.com.au.",
+      "jurisdiction": "au",
+      "region": "APAC"
+    },
+    {
       "title": "Notes from the Asia-Pacific region: Breach could spark shift in New Zealand privacy law",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOW81Tzd5VjRGZ3dzRU9qWUpOclR6RWhWVFJLcm53SUFoWHVzZUtocGxjanQ4NWFkd3N6NHRpbFhhU0tkRVNpV0lSY1VNOURBZ1ZoVEt3dDA5RFlHMVdLSHZ5d3k4N0xIdFE5VzBqX1FfSWw4LVhZSFY0b1NISjA1NS1xS2ZoVXNFcFRydHJlOGdDS2NCdHVZS3otQXVpZ1Jxd2g4YndrQTV3UGVEaF84?oc=5",
       "date": "2026-06-25",
@@ -550,15 +541,6 @@
       "summary": "Brussels, 24 June – The EDPB has launched a dedicated contact form for stakeholders to report possible inconsistencies in how the GDPR is interpreted across Europe. This initiative reflects the commitments set out in the EDPB Helsinki Statement on enhanced clarity, support and engagement, aimed at strengthening the dialogue with stakeholders and ensuring consistent GDPR enforcement across Europe.T",
       "jurisdiction": "eu",
       "region": "EMEA"
-    },
-    {
-      "title": "Bithumb fined 210M won for user data transfer violations",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BU2JMSEw5d29URTg0M1JFR0I2eWh4Sm51M2toVzBoT3RvMkMxTVhlZ192eEgzVXJsZFFwSjJrWWFUUURvLTYxQlBKcFFjMktrQl9PWUVkek5yWTV5MjhrTnVkWEExUjlhTmpiaTJyWWVva2VTdmxGcm1WMA?oc=5",
-      "date": "2026-06-24",
-      "source": "Crypto Briefing",
-      "summary": "Bithumb fined 210M won for user data transfer violations  Crypto Briefing",
-      "jurisdiction": "kr",
-      "region": "APAC"
     },
     {
       "title": "Health firms tracked patients’ searches without consent, watchdog finds",
@@ -611,7 +593,7 @@
       "date": "2026-06-22",
       "source": "Kennedys Law LLP",
       "summary": "GDPR vs Saudi PDPL: convergence, divergence, and practical lessons  Kennedys Law LLP",
-      "jurisdiction": "sa",
+      "jurisdiction": "ae",
       "region": "EMEA"
     },
     {
@@ -665,15 +647,6 @@
       "date": "2026-06-20",
       "source": "Vanguard News",
       "summary": "NDPC seeks clarification from INEC over alleged data breach  Vanguard News",
-      "jurisdiction": "ng",
-      "region": "EMEA"
-    },
-    {
-      "title": "NDPC to review data protection law for AI, emerging technologies regulation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX29YZkpveF9jTGVfV0Z3eUNnUWdzaTRHbFhBdWQ5SXowZVMxdjhMUTJra3JwY0M5TnFTdFhTS3d2VHMtWEdkYmFxaXRFNUtVOUF0c2xyYno1NEZPQWtsQVJhaXhpWVZGMV9sd3RDWlRoZTNBSzVNZ0hCU3hpTlRaU1hIalgtcDJqT0l5azBFcDhUNExKeFJOQ3NXUk5YZVR4?oc=5",
-      "date": "2026-06-20",
-      "source": "TheCable",
-      "summary": "NDPC to review data protection law for AI, emerging technologies regulation  TheCable",
       "jurisdiction": "ng",
       "region": "EMEA"
     },
@@ -771,9 +744,18 @@
       "title": "DIFC announces consultation of amended DIFC Data Protection regulations",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVTR2SWpHZ3E1TElOYk5vWWFvaEtnd01vV3JtTWRCV2dvX3NGOXpyUjZtVTBVMGhWb0NTXy0wamNvNGt5Rkt3SFhYSzV4bWc3YmhOa1U4dUFmOVoyS2tpTXBpajBvMmt5bWFnbVByTWU1alVwcVc5dmxHSElldkJMdkYxXzM5RzJtMkNWYzN5bFNUcDBuQ19uX2lVQmdEU0xJSDRvc05oOVNmUjg0NFRZNS1MNWxqTVlwTzlSNjduRHFfVEFkcTlyVng4NW5TYUk?oc=5",
       "date": "2026-06-18",
-      "source": "zawya.com",
-      "summary": "DIFC announces consultation of amended DIFC Data Protection regulations  zawya.com",
+      "source": "ZAWYA",
+      "summary": "DIFC announces consultation of amended DIFC Data Protection regulations  ZAWYA",
       "jurisdiction": "ae",
+      "region": "EMEA"
+    },
+    {
+      "title": "NDPC moves to tighten data protection rules for hospitality, telecoms",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1VxZ2JQUVdZY0l4OFNJaENTMWplZzZ2dVlYcDBNRWNtei1OLXBZNlljYlhCQk44eXZwNUxlWTVtRFlYcTVUZk0yVkR0Y2FEalV5YmIzRTFtdndoejROVjc4ZTh1RktpeFBFRkw1NGZxSUhzRmxCYlN0RDJteVM1OGZUb1pXWHROQWdSQWtBUjd6UjRDTnp0WmJB?oc=5",
+      "date": "2026-06-18",
+      "source": "The Guardian Nigeria News",
+      "summary": "NDPC moves to tighten data protection rules for hospitality, telecoms  The Guardian Nigeria News",
+      "jurisdiction": "ng",
       "region": "EMEA"
     },
     {
@@ -948,6 +930,15 @@
       "region": "EMEA"
     },
     {
+      "title": "NIMC partners NDPC on data protection certification training for staff",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGswYWtpc3dEd1QwaWN2dWVCVmJ4eTVXRmxib1MzQl9ZNzU1UVhrNGpEZjM1Vm1CQ2pfZG9GVzdUWlNDU1V0SUhlazRwY01jaXVBQmZidGJxWVZXeGxxREw2MXZUbzFIVFBYejZueHJ1b3Nfd05qQnJIakNRTTdULTBZeTNkYlJjLW5sd0hYdXhESEZRa0g4aXBB?oc=5",
+      "date": "2026-06-12",
+      "source": "Peoples Gazette Nigeria",
+      "summary": "NIMC partners NDPC on data protection certification training for staff  Peoples Gazette Nigeria",
+      "jurisdiction": "ng",
+      "region": "EMEA"
+    },
+    {
       "title": "Unpacking Kenya’s Data Marketplace Proposal: Privacy, Innovation and Public Trust",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWRtVlFXTW5HNUsxeEl0ckxRVEI0TGlBMXRFLUxyQV92bk9XUW9vNmF0RTkxVmxON0oyelAyZDhtazZJOWYwenE1b0dtWUY2YS00M1lyOVkyUFNrYk8wZl9rdHhieldxRDNKNDVUbnFvbmlzd1NTM2ViaF82aV9xVEZFZkJ3ZzgtNGZsVnRtajg5M1B1T0QxbVA0WXZiOUlndXc?oc=5",
       "date": "2026-06-12",
@@ -1026,60 +1017,6 @@
       "source": "Penningtons Manches Cooper",
       "summary": "UK data protection law changes – requirements to address  Penningtons Manches Cooper",
       "jurisdiction": "uk",
-      "region": "EMEA"
-    },
-    {
-      "title": "EDPB meets with EU Commissioner McGrath and adopts common data breach notification template",
-      "url": "https://www.edpb.europa.eu/news/edpb-meets-with-eu-commissioner-mcgrath-and-adopts-common-data-breach-notification-template_en",
-      "date": "2026-06-10",
-      "source": "EDPB News",
-      "summary": "Brussels, 10 June – During its latest plenary, the EDPB met with Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection. In addition, the Board has adopted a common data breach notification template.The Board held a meeting with Commissioner McGrath, engaging in a fruitful discussion about common priorities and ongoing work on areas of mutual interest.The Dig",
-      "jurisdiction": "eu",
-      "region": "EMEA"
-    },
-    {
-      "title": "Reaffirming our commitment to data privacy: Takeaways from this year’s Privacy Awareness Week",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQekNIeVJDdkZNb1VZWFlLR3ZhSE9aa2RhQW1yVXItMWl0eXo1TWlnX0gzSVRpUkhhczVKSFVZT0FoMEJpMDhXVk5ia1BuRUk5VVVlaHltaUJLRFlvZnJCOE80M3BxRmc0YV9qaGZpWUplSUdvMW9SSWtLT0NmS09meHRZWDBlYUJ4RDg1M3pzanRDeHRRNlFGekdVcEMtTDN1cXV4T0lYOUhPZjVWQW1uMGt5aW56V2ZncGd0c1BQSlF5YUlKcmR3MHZGVUk4N2oyWU9NcWNYV05NRGMtOXBNVmNtRm0xSnB3LURfbDVlTXZsWS1fTUtHaGd3QW8yMzlwd0g0ZA?oc=5",
-      "date": "2026-06-10",
-      "source": "Grant Thornton Philippines",
-      "summary": "Reaffirming our commitment to data privacy: Takeaways from this year’s Privacy Awareness Week  Grant Thornton Philippines",
-      "jurisdiction": "ph",
-      "region": "APAC"
-    },
-    {
-      "title": "Reaffirming our commitment to data privacy",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmxfT19UdFhJNVc3YUc5MVlhcnZjLVI1dGQwTlZaVTdmbjlET09BeWx3N0pGbC0zU08tUHR5MjZvYm1KdWNlZXBXYXNfeWhVR2toM0RlTzg4MTA3bjZEaVlGbUF2YmpMQXhxc1hrUG9yd0NrLWgtbER6Zm9sY0dMc09fWGhfbzZKNGg1R09GWFAxbWlyUVhDQnh3OXh5WUnSAaQBQVVfeXFMTlNPM1pFQjZ0WjhFbFJjZjJzLXBJSE5COVY4YkhobjI1Y3VFV2RqNFhDRUJMa2dSVm55MGcyT0RkYWs1VHptalBtYTA0bWxWWS11RmlBUGl1MWFLemZDeDFfV0pFU3BBc3p5OVB4NFA2T3cxLThwSGd4UkZWUUtqMG1MWElxZEV1aENBYzZKZEpYRU9WRi1Tc096QkQwRkV4Y3ZVeUI?oc=5",
-      "date": "2026-06-10",
-      "source": "The Manila Times",
-      "summary": "Reaffirming our commitment to data privacy  The Manila Times",
-      "jurisdiction": "ph",
-      "region": "APAC"
-    },
-    {
-      "title": "Data protection complaints in the employment context and DSARs – Q&A",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQW9VOE1KVTZYa1l5bTNlRGE2QUZYQXZLSG1IcWt2MWRZajgzbHE2eE5PRjRTS0hWMkxPa3ZQbzh4SnRHbERxX2I3S2xYOFRvVzZ2RF9HdEpNYzRlSGs4SUtic3E0Tjc1cWlXdlNVWmpsSTVVbURkS0RSckxQWDcyNDB2VGxPa2xYbHdSajkwVDBkRFViWExZ?oc=5",
-      "date": "2026-06-10",
-      "source": "Lewis Silkin",
-      "summary": "Data protection complaints in the employment context and DSARs – Q&A  Lewis Silkin",
-      "jurisdiction": "uk",
-      "region": "EMEA"
-    },
-    {
-      "title": "NCSA highlights key role of PDPPD in safeguarding privacy rights",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUctcHNaNHF4Qzh1NFBNYXVqSW1FRl9fZmVMNGZzajNUT1hwa3JreEZ0QzlIQXVFMUZQdWc0YkI2N2ZWQ3M0T2tlZ3gtZ2hZZ0pkMmExRFg0amloRUJKUGtCOXRheXZianJCZDFQTTAwckpPQ2RCbXZ6NDYyQmlrcUlITzVtUkxRN3NqR2MzOXJrQW9BckFDc0hZUTlzamVQUmI2eDFaTi1YR3VRZ3RLZUNNYw?oc=5",
-      "date": "2026-06-10",
-      "source": "The Peninsula Qatar",
-      "summary": "NCSA highlights key role of PDPPD in safeguarding privacy rights  The Peninsula Qatar",
-      "jurisdiction": "qa",
-      "region": "EMEA"
-    },
-    {
-      "title": "Nigerian Data Protection Commission starts scheme to check Meta privacy safeguarding",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGpHNkM4cDIyU2FGcE8xbVdfTDdIZ0l4S1dRdXdSNmdQdHV5NER0amtHME8tSThNYTR2TktuSG5WZktKZkNNaWVUNDRFemFELVBhRFV6VUJzbWN3NjVoQzlqWklKVXBpQWs4bV9WdnZIakhzY2g3R1R1M2k2VWxMdFJqcklkUC1FcDhrQWlSY0FOWVV0eC16TXVnMVFWSC0xOGJoaXI5dmhJdXV1VzdxV3I1RzF4NjFjVHl6VW9MZnpaR3RMOVE?oc=5",
-      "date": "2026-06-10",
-      "source": "Telecompaper",
-      "summary": "Nigerian Data Protection Commission starts scheme to check Meta privacy safeguarding  Telecompaper",
-      "jurisdiction": "ng",
       "region": "EMEA"
     }
   ]
