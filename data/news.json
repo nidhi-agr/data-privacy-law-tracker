@@ -1,40 +1,58 @@
 {
-  "generated_at": "2026-08-14T04:20:13+00:00",
+  "generated_at": "2026-08-15T03:08:20+00:00",
   "window_days": 30,
   "items": [
+    {
+      "title": "PPP lawmaker sends letters to US House members over Coupang data breach",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2w2OXRKZVhIUlVLcVNQWlM4SWVPOTJXZjY5MmYweW1uQWVFNE0zdnRvUDNuSEN4ZWhtSE01ZU9QMm8zQ2hZbHVJUnV3eFpxR2tLNkpVOENYb3ZTdmZxNElTbUdpMnIwQTVWZW1OVU40cmMyczFaMGdna19uOWVnM2N1dndCVUhyOGlGYl9VbnpKMk1qbTZsWGc0bEMwOE5Kb1JDNzhMWmJUdHpxcWNoN3lYWHQ0MFFDcG0teVVzVEhUemY3R3dfNtIBzgFBVV95cUxOZ3RKOVZoai1DSGdrdGRWZ183T2p2c3k0V0JkaXNLRnBmemlseE16T0ZlZVl0U29QbS1aa0E4YlFnbGZPZ2h5X0sybUJKa0hHUjVONGpOYXFVSlpQSDRPQk9PclVDcHNESC1HSEo3dnV1ZHIwVWpvU05HbXE1UVFfYnJ0bngxT0tNUnVuQ3I3azFKcmI3R21MVk5fMWNPMmNTZVlZRlo5eHEzTUdSV0JxT21NRDBEMjBWY18yMFVkaWtyQTc3Qjl3LUx1T1R0dw?oc=5",
+      "date": "2026-08-14",
+      "source": "The Korea Times",
+      "summary": "PPP lawmaker sends letters to US House members over Coupang data breach  The Korea Times",
+      "jurisdiction": "kr",
+      "region": "APAC"
+    },
+    {
+      "title": "PH privacy commission to probe Facebook after data scandal",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEFFT1FlWDVPYjlGZ3h4VkNoUWZ5YlR6alVDamh6WnBoWFQ1NHBzcmNKY2EyNWktSGtuZnlDXzRvSkZwYUV3MWNVZXJnUFNHMjhyM2JOejVZcmVpUGZhUExzU1NuNVRwWmoyckFzUnNqNm5iNkQyMjdycHRpQ0xlUXFiVFlaT3U3MWl0cE04a1VyTDIxY1VJUTFkNzFYb1hBbUlzS3dOYnA5NUU4UlAzTG5EZ19iY0dxUk1R?oc=5",
+      "date": "2026-08-14",
+      "source": "Rappler",
+      "summary": "PH privacy commission to probe Facebook after data scandal  Rappler",
+      "jurisdiction": "ph",
+      "region": "APAC"
+    },
+    {
+      "title": "NDPC, SEC Strengthen Collaboration on Data Protection and Investor Privacy",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUU1sYW1TOHNiVUhKVV9IT1VObTdYRTFwYzJPY0V3a3FXMk9PalNXZ0FQVDlLQlpHUWhzRVluU0hVQkV0QzJ2YlU0WkJ5by1YTTJOZnR1ZTFHQmtxdnUzc0Z4dnQwalZUUVIwNTNOZzA2WHljMG91TEt0bEtSOXJqdnMzcnJfZzhfX2otLUJlWUJFN2V2a20zM25STWg?oc=5",
+      "date": "2026-08-14",
+      "source": "Techeconomy",
+      "summary": "NDPC, SEC Strengthen Collaboration on Data Protection and Investor Privacy  Techeconomy",
+      "jurisdiction": "ng",
+      "region": "EMEA"
+    },
     {
       "title": "China Publishes Official Q&A on Administrative Policies for Cross-Border Data Transfers",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMjZkZEF0X200all5eTBwRjE1UFBGZi1tZldFRWtibVZoS3VqQVgtWXpRT0QxREl3MGJvWEk1S3BHVGlOc0swbFNsX1g0NnAwb0RJMHJIYVpaRWpwZGlXaVh4R0lZVV9EM1RzRTlhWFpRTDdRZ1N2Q0NDb0xWeE5YeUl3dGtGeFFxNVo2dHZGZDdPcVg1UWgtQUViejlnMF9fWWZOV0NYeGxDWm5HMWN3NTFkeVlQREVITzNZZ0NpOURybF9ITUlmaGhEcFZYdm9MTmN1ZEV5R1c5eGt1Ymc?oc=5",
       "date": "2026-08-13",
-      "source": "hunton.com",
-      "summary": "China Publishes Official Q&A on Administrative Policies for Cross-Border Data Transfers  hunton.com",
+      "source": "Hunton Andrews Kurth LLP",
+      "summary": "China Publishes Official Q&A on Administrative Policies for Cross-Border Data Transfers  Hunton Andrews Kurth LLP",
       "jurisdiction": "cn",
       "region": "APAC"
     },
     {
       "title": "China cracks down on personal data crimes",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS3M5eXp6NVFrOXpoc2hSZEozTWthQ3luSDJyMHlFVUROVGZSekFnQ2RvMHhqcUdRZlJ6V2VFclZ1NXhnVzcyZTczYzNNTWh4MjdPT2lyQTVMNXNNTWtFZWdwbnRZdmlRTmE0eVJaNlhvaWxUbTh0OTd6ckFha0J1UFVn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkUDlCSlR1T1Y4ejZHd3ZyRXV5SVJTTmpCU25QRXdYeDR6RXJnd1ZQY0VINHVPSXVLRHBERFphRGZHT0taVDVHcVJRUUpuQ2pqc3dZTkFXb0Z1N0QtT0d1Q1pxaUFfem5QNkc1TnpzSmdTZTl5Rkx6bUdWbWltQQ?oc=5",
       "date": "2026-08-13",
-      "source": "China Daily Global Edition",
-      "summary": "China cracks down on personal data crimes  China Daily Global Edition",
+      "source": "China Daily",
+      "summary": "China cracks down on personal data crimes  China Daily",
       "jurisdiction": "cn",
-      "region": "APAC"
-    },
-    {
-      "title": "𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒: 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐂𝐎𝐌𝐄𝐋𝐄𝐂 𝐃𝐚𝐭𝐚 𝐏𝐫𝐢𝐯𝐚𝐜𝐲 𝐇𝐚𝐧𝐝𝐛𝐨𝐨𝐤 The Commission on Elections launched the Data Privacy Handbook, yesterday, August 11, 2026 at the Manila Cathedral, Intramuros, Manila. \"[Ang COMELEC Data Privacy",
-      "url": "https://news.google.com/rss/articles/CBMilwdBVV95cUxQdkY4dWNoYTVURmh2S0I2Rk16ekNKcElocWhESDhsWjlSSmJBUGlrR0hkazBSTHRBSS1DbHNTQUN4U1JhWUVSa09aUFZQN19uYnFQTm92S1Rzcll3cHVkWElCM1U4dW9HZGhwRC15dWdwdnpnbWotQjdySFliX0tJRFBDeEFIOEF6cS1SMTJrTzJ5SXdoOUZZZFRnQWtza2t5cE81LVU2Z2V0Q3l0a2F1ZXpDV1pGR096NTJpZlBBZ0hSZlB0Ym42eUNhVzZLVmpydWNNdnh5ZHFEdUdNbERKWWNObWoxVUZldGZOZWpIMndvNWJwVTBSaGtOMWozTzVkVVFoNUFnV29jbzU5YlFCamFDQ2NBc3Nob2l4cjZRQ21NUVNWNnZDSjk2Sy1RRzh4aURldjZJbFR4amdZbVEzekswQUJsWVVvWXNubjQtVUtZUGZJN0ZzZXZBZzdtSld0TldzWmpaVGszcHRyWDU2aFBOWVdsR1g3X1lvbGJkcER6cmVoRUFSWUt0V0ZGa3hpMlg0WnU3dlZWY3AwdGZISXNpSGZCdXdSbHhlOEZrZ1M3N3NJUEdHVDNqbjRndXkwdnBQc2dObmZIcmtTQ3lZdlVoLU5DNmpKUWRIcHpWNWtuT1lMU09hNGxkZDVEMElWVXRPczcxTDFfSGR3YjllMTMzMTRna3pqYVNMbkQ4OTdJMHhPcEJyQ0hVd2laRVIxUzViQ2tDRThyeGVwM0VFOWVjcVdlRC0zNUphanB0azFjdmZ4WHM0dlFvWkFOZEVxQ1Buc1NmMHpVekJ0dkg3aTRwMnl6cnlHRnZhZzJaYUdCUUM0RF9XS29zMGRmeFFqNHZ2bklYZjlFT2Vzam41cVNkWjBCVlE1WGh2NHpmb3RRT1F4YktfUEFjanpGeElBQ0ptT1Y5bU1UR3QzaFJ1Uk9BV2NmanpEVjU4c0Jqemlrc0N5NG9uN1F1LWpsNVMxWmlFcDRPV0hmaENBbnhBZkxMcllLZzZWUGJfNl9ZWjkwLXdIaDY3WUEyV0ZYRDR3M0xWV0UxcEQ4NWJoVkR4MXlfTHNOSmt0YUk4dmZXQmo4SFZRM3pPdVBlYVRzUjkwVjFCakxCM2pCNVlQdHRjMzRsT203dVJ2SWNGWEFlUGhSYUxXTUxZV3EtVkRMczVtNHF1emtZZ0t0bXVfMmtXUFd4bUYtYkxLRnpBOHh5amhmZ0xTNWtB?oc=5",
-      "date": "2026-08-13",
-      "source": "facebook.com",
-      "summary": "𝐈𝐍 𝐏𝐇𝐎𝐓𝐎𝐒: 𝐋𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐂𝐎𝐌𝐄𝐋𝐄𝐂 𝐃𝐚𝐭𝐚 𝐏𝐫𝐢𝐯𝐚𝐜𝐲 𝐇𝐚𝐧𝐝𝐛𝐨𝐨𝐤 The Commission on Elections launched the Data Privacy Handbook, yesterday, August 11, 2026 at the Manila Cathedral, Intramuros, Manila. \"[Ang COMELEC Data Privacy  facebook.com",
-      "jurisdiction": "ph",
       "region": "APAC"
     },
     {
       "title": "French CNIL Publishes Note on Agentic AI and Data Protection",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXhiR2NvcEFKS0pyajJ4TXl1SzRFY0pNdFUtdWdGZVZlRW1yZWFPSnFXRFlpcmU3YTJ2YTV0UkllbldqdWU4cTc0ZFhkaWVFeFpFSnlGT3d5VnBfdXBEZzE0bWM3alR0Um15THZOTmlYX0llRUV5bWMwRi1zYkFKNElSX1RSVzdmVGhEWDF3YWpvQ1JhV2ZBY2NKdERGcUt0cHZEUHFhVG56NkUyMmZJb0lrNGc5UQ?oc=5",
       "date": "2026-08-13",
-      "source": "Inside Privacy",
-      "summary": "French CNIL Publishes Note on Agentic AI and Data Protection  Inside Privacy",
+      "source": "insideprivacy.com",
+      "summary": "French CNIL Publishes Note on Agentic AI and Data Protection  insideprivacy.com",
       "jurisdiction": "eu",
       "region": "EMEA"
     },
@@ -51,8 +69,8 @@
       "title": "Deep Dive | How Egyptians’ personal data were misused by mobile operators",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFIwNzV6QnE3V0VITmFUMHYzaTVtMnhPR0lWdFZnWWNYYi1wWERHc0lZUnhwbmJqclQwTEw1OVU2RC16QmZjUF9vQ3U1SnJvQmlRWFRiWVRXZ3REWWJIQmowbVBzVHZ6V3MzdjVHTjJpRWlYa1BmVFR2M1ZlcGNBaEx5WkZNTGI4eXNBb1lQbmhpYVJNY2l0dlhTVEloUXlfQVo3VWJUNWJ5aUhTNWt1OVhMNA?oc=5",
       "date": "2026-08-13",
-      "source": "Egypt Today",
-      "summary": "Deep Dive | How Egyptians’ personal data were misused by mobile operators  Egypt Today",
+      "source": "egypttoday.com",
+      "summary": "Deep Dive | How Egyptians’ personal data were misused by mobile operators  egypttoday.com",
       "jurisdiction": "eg",
       "region": "EMEA"
     },
@@ -84,11 +102,20 @@
       "region": "APAC"
     },
     {
+      "title": "Could Coupang’s Record Privacy Fine Become a Trigger for U.S.-Korea Trade Frictions?",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBveTZSRm9KU3UyX191dFVJOGV6c1d2cl92S0RwYUhOT0hYQUp0Wnd4SmF0SjVtRXNlbFIwMXNIeGdYaUJfMDN1VUdkengxZHRUUEVyZGRHRQ?oc=5",
+      "date": "2026-08-12",
+      "source": "economy.ac",
+      "summary": "Could Coupang’s Record Privacy Fine Become a Trigger for U.S.-Korea Trade Frictions?  economy.ac",
+      "jurisdiction": "kr",
+      "region": "APAC"
+    },
+    {
       "title": "Thailand pushes mandatory MFA after major credential leak",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzZVbVBvdEhJeVBBRlB1MUp1NDhKUFVyQ00xLTlyMUJyUUUtMkdpQWpnaUFoVk9kQWxEbV9ObFc3SkxqY21Ka3JZa2Rub1B0UGhfOHBTT1hoMEU4X1VLZ0ktRXp6cElGckQ0NUJha0FBX3JUUFYtdEgyUnZpMzhmS2hGOUhBbTM1bm1tYWZYTUkxbkU5Qk5BS0I4a0Y?oc=5",
       "date": "2026-08-12",
-      "source": "biometricupdate.com",
-      "summary": "Thailand pushes mandatory MFA after major credential leak  biometricupdate.com",
+      "source": "Biometric Update",
+      "summary": "Thailand pushes mandatory MFA after major credential leak  Biometric Update",
       "jurisdiction": "th",
       "region": "APAC"
     },
@@ -138,11 +165,11 @@
       "region": "APAC"
     },
     {
-      "title": "COMELEC launches Data Privacy Handbook",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IRkNlemRLU2hYQWlTQVRwYVBHVWFWNDJHN2hRelplcmJUOWFRNDBUZzJhVzNVa0lkaV9xRTQtSWEyb2xxVHJ5RTlIZVVjNElpUjQ1ejNjTzlGNFZaRmpVNXRDOXB4T2gtcWFoRFBEU3l5WE95dWVWdXd1VGY?oc=5",
+      "title": "Commission warns unauthorized AI 'deepfakes' of real people may be violation of data privacy",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeHBQSHBJX0hIcG9XTmxudU5BR21BdXNfcG42ZXY4QWZzdXJuUGtIamV2ZnB5NmJXaUg2VG13RVpZdjExVkVEN3dSTHhBQ3hSZHljXzZSTktHb2ZrQ3pHSjZpejZ3bXFCdUpaWGVkcjRfQWo5Q1NRVFJlVy1MbWVlTUZTTm1tQ3pRSTBjQks3R0lyU2dWU1NuY0dQLXVMWGRPdkdQNW5jc2xSQ3J6S2ZKcDU2XzItQ1pTMjlpaXdBRTlMMUNObTBYZWRzTHdvQ01oYzJTSzFMa2JOWkxPa1E?oc=5",
       "date": "2026-08-11",
-      "source": "Daily Tribune",
-      "summary": "COMELEC launches Data Privacy Handbook  Daily Tribune",
+      "source": "ABS-CBN",
+      "summary": "Commission warns unauthorized AI 'deepfakes' of real people may be violation of data privacy  ABS-CBN",
       "jurisdiction": "ph",
       "region": "APAC"
     },
@@ -174,20 +201,11 @@
       "region": "EMEA"
     },
     {
-      "title": "NDPC Probes UNILAG, Lotus Bank, Hackerbella Over Alleged Data Breaches",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGZLRVpXMnBHc0VjTDUydlNldzJyWlN6MTY4SkJDdk45Zlp1eXF1c3dPcElQT2JJZzZ0dmN3c0dXQnZkRGJEeUtBbkZvWDJnNjIzSTg2cTktSUhZWWUzMVA3dXJHSjBkYWp4ekxiam5VSVhWOThfbXV5UmxpN01FUTNWREViR0h1b0dPazZMNW1DRks2eWhz?oc=5",
-      "date": "2026-08-11",
-      "source": "TVC News",
-      "summary": "NDPC Probes UNILAG, Lotus Bank, Hackerbella Over Alleged Data Breaches  TVC News",
-      "jurisdiction": "ng",
-      "region": "EMEA"
-    },
-    {
       "title": "Kenya's Cybersecurity Gaps and Cost of Data Protection Failure.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzR4b0lWRVhGTUtQSUh1NXR6S3VrdTBTbXBWa3d5OExLWENtUjZKYk5Mb0hoVS1UZEE2djd0cndKQlZsYzdoQm9fZEZjT2lmZ1c4LVdZUzhyNWRTb2ptZFRFX3ZsS1pDR1RjdkxBVGpFUkw0OG1SNFNDSjBkZVNmT2o3ZUxaQ1BFSnhiVGRLSFJTUWlqbVU1V1hkdGd1U3JKMEJiNW5Nbw?oc=5",
       "date": "2026-08-11",
-      "source": "Amnesty Kenya",
-      "summary": "Kenya's Cybersecurity Gaps and Cost of Data Protection Failure.  Amnesty Kenya",
+      "source": "amnestykenya.org",
+      "summary": "Kenya's Cybersecurity Gaps and Cost of Data Protection Failure.  amnestykenya.org",
       "jurisdiction": "ke",
       "region": "EMEA"
     },
@@ -210,6 +228,15 @@
       "region": "APAC"
     },
     {
+      "title": "China targets large personal-data handlers with tougher privacy rules",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjY4XzlHc1o2ZEl2b3VDYlNMVkRqaURCVU5Yb3FOUHNvNmVRa3JEa1RhbW1PUGFnQnlENnlaQ2psTjdISFBOdktQbzBzZzFaQTJDblBqZ1NBS0RyVjN5T1YwRGxNNzJvUWRCUWJwREROSmJyNlZFYnNqbGRuRWhqQVRsS29UVmxPYURHX2Rza0tGaVdDQWxmUUpsUWp5RGIyNG1LNVdsZk1Fb2l6VHNEZ0dR0gFaQVVfeXFMTk93bUM2UzN4YTBFbVh0bTAyODlGVTNmSlBHVXBJRkJRaUFaNU01cGVmU3IxQVBZR2lpTnJKb2dqWW1WQ2lsZnE3T2JmTVhveU5IZUZ6OXVVc2Fn?oc=5",
+      "date": "2026-08-10",
+      "source": "MLex",
+      "summary": "China targets large personal-data handlers with tougher privacy rules  MLex",
+      "jurisdiction": "cn",
+      "region": "APAC"
+    },
+    {
       "title": "Philippines Replaces Blanket PIA Rule: AI, Biometric Processing Faces New Scrutiny",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUxVbklqTGNla2twcjJTMkFmLS1lN3VhQVFfdUtFanVTWkJHZkNhbTJDQ0NXWUNPNFREa0w3VGEtZ0ljS01DcWJuclVSekVPeF95bU1BOVAwZko5dzVhaEZLSkVaR2FfZHMzcmFIa3d0Rm9wUEo5NlBFdWFuamE4MmJ4SF9MWnJ6dFpoUkRvckx3R1hLblU5ZzhTVGRuMm5FMW9HMHVtcm1nRGxsWFNEUjhjSGdUUDQxSHM5a3hSdzNXZzFoV2M3QmZIbkpGYXVV?oc=5",
       "date": "2026-08-10",
@@ -228,15 +255,6 @@
       "region": "APAC"
     },
     {
-      "title": "Fingerprints and Fraud: How Biometrics Are Rewriting Ghana’s Crime and Corporate Security Playbook",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXdmM29VSWpsUVVQd0ZJNERucVQyYWF2S2ViM1BncmJxXy1Cc2xCaFI1cWN1NGoxLTdNSWRjVXdpYkdiN0pTWTV5QUd1ZkotcElQRldaa2dOYzdTZ0xBbmxDVWpCbGJJa2ZWZkc5Nzl6QXo5bWloZktjQURkbW5rRjk2OE1leHY3NnRLSlZFclB6TjBDTFRIRFJZRdIBmgFBVV95cUxNdFdTZDZ0NWRvQ0Y4R2xJZmtybkFtT1dZX2tPcW1JTTBObUJFNTc5TDJ3QjdlQ0daZzhHSkR6eGtwanIwVW1Qa2VRekg3RW1IbENGcXdDRkRhZTB0NFNKa0ZDS3Y3S1d2WGprUkoxem9rZzlZcXZvTUNFRDZnU19uV0t6MGNpNi1RTEo0X2VBR0h3eEdTdHR4bTRB?oc=5",
-      "date": "2026-08-10",
-      "source": "Modern Ghana",
-      "summary": "Fingerprints and Fraud: How Biometrics Are Rewriting Ghana’s Crime and Corporate Security Playbook  Modern Ghana",
-      "jurisdiction": "gh",
-      "region": "EMEA"
-    },
-    {
       "title": "DPA issues new circular ahead of personal data protection law",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nTEJqYUc4VXJrVXB4azVqRVN4NFFEVHVDNmZqQWFUa2wwWVprZWJEUHQ3M0VnWFlsS2hIaHphUU0zYkJrakJfcllvTnJzVW12UDFhMjhYdWdaZUZVSFI4Rg?oc=5",
       "date": "2026-08-08",
@@ -244,6 +262,15 @@
       "summary": "DPA issues new circular ahead of personal data protection law  Ada Derana",
       "jurisdiction": "tw",
       "region": "APAC"
+    },
+    {
+      "title": "Fingerprints and Fraud: How Biometrics Are Rewriting Ghana’s Crime and Corporate Security Playbook",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXdmM29VSWpsUVVQd0ZJNERucVQyYWF2S2ViM1BncmJxXy1Cc2xCaFI1cWN1NGoxLTdNSWRjVXdpYkdiN0pTWTV5QUd1ZkotcElQRldaa2dOYzdTZ0xBbmxDVWpCbGJJa2ZWZkc5Nzl6QXo5bWloZktjQURkbW5rRjk2OE1leHY3NnRLSlZFclB6TjBDTFRIRFJZRdIBmgFBVV95cUxNdFdTZDZ0NWRvQ0Y4R2xJZmtybkFtT1dZX2tPcW1JTTBObUJFNTc5TDJ3QjdlQ0daZzhHSkR6eGtwanIwVW1Qa2VRekg3RW1IbENGcXdDRkRhZTB0NFNKa0ZDS3Y3S1d2WGprUkoxem9rZzlZcXZvTUNFRDZnU19uV0t6MGNpNi1RTEo0X2VBR0h3eEdTdHR4bTRB?oc=5",
+      "date": "2026-08-08",
+      "source": "Modern Ghana",
+      "summary": "Fingerprints and Fraud: How Biometrics Are Rewriting Ghana’s Crime and Corporate Security Playbook  Modern Ghana",
+      "jurisdiction": "gh",
+      "region": "EMEA"
     },
     {
       "title": "Ghana business leaders discuss AI, data protection and employee privacy in digital workplace",
@@ -282,15 +309,6 @@
       "region": "APAC"
     },
     {
-      "title": "Kmart $99 camera glasses expose NZ privacy law gap",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjN1dzZfLU14Z2d2dnhkWFowTEFEeUZSby1tZDd1aVM3QUc3MTlGYTlIODI0N25VcmpUWlBFYTYxV2U1NTZwWWtzZzEzNlBPSFpqbkhsZW1sY21rZ3VpY0xnQ3BzZVFWNG4xaW1BaWFNcTlfR1EzNlBzN2tVUHVWUGRNZw?oc=5",
-      "date": "2026-08-07",
-      "source": "B2B News",
-      "summary": "Kmart $99 camera glasses expose NZ privacy law gap  B2B News",
-      "jurisdiction": "nz",
-      "region": "APAC"
-    },
-    {
       "title": "Philippine Central Bank Mandates Biometric Checks It Warned Are Cybercrime Risk",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHlxcTBBTXlkNmM3dWZmWXJUX3VTS3VXajZvSG8wX3JndlpzeWlCblFVWmhFUWZBcmxJZU1JRzVObF83YUFfdHhaMjg5V0U1V1I1LVhMWF82VHJoSVVUem5BNHhDNHk3dkxyM3JBeFE2MmU0TDNJMFowZjB4Qi04RkR1SlVENTlrSm9pMEIyVndCSFRkSVdXMncwVkxCUzZvNzlCZHItS1FRdW9JWkZfb0YyOU9DNTlyYkx3ZjU0Z1ZDd2p5a09fV2t0SHVzOW8?oc=5",
       "date": "2026-08-07",
@@ -300,12 +318,12 @@
       "region": "APAC"
     },
     {
-      "title": "Neurodata on the regulatory radar: what the ICO's citizens' jury means for data protection professionals",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZThYTWg1d2plM1k2ajYzcWdrN3BfSXI0WFJKV1BuNjY0QW9XZHE3Y1ZicGxndEJCZmZJdE5fMTlfb2ZlNzlJWXBWYjh5OE91VlVjYk5nQ1ZJNjJyVi15cXcwQzBndVkySm5KMUp6WndBZFFxOS1tZVB0bTdkTndyRFBoVGRFY3hOczlIdC1UN2tDcjQteU1md1llMlBLQVc4NmlYc1FsNVVYSU9vVHM0bk4tTktSSi1CU2VFbWhhTmZJTEFRR090eFF1QWY4YzQ?oc=5",
+      "title": "CPI | Brussels Tries to Fix the GDPR Without Making It Worse",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclNlQjN0QWxiclVpdWtUYVp1R0tIb2NuczFPa041aExpbjRoNjg4Y1NNcW9ZTlBJN3hSUWlpUjN3N0tXSG9oUlk2M3o3R2JnOHRHM19vN2VKS2NCcjJ5eG5INW9zaDd4ZEF5THo5VmJ6NEt0ODBGMEZ2d3lBRnlibDBocnZONnRSNGNYeWJPSENBdw?oc=5",
       "date": "2026-08-07",
-      "source": "Lewis Silkin",
-      "summary": "Neurodata on the regulatory radar: what the ICO's citizens' jury means for data protection professionals  Lewis Silkin",
-      "jurisdiction": "uk",
+      "source": "PYMNTS.com",
+      "summary": "CPI | Brussels Tries to Fix the GDPR Without Making It Worse  PYMNTS.com",
+      "jurisdiction": "eu",
       "region": "EMEA"
     },
     {
@@ -339,8 +357,8 @@
       "title": "NDPC Claimed FG Ordered MDAs to Obey Data Protection Law. Nigerians Search but Can't Find Order",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXRzdzFObFFySmhONUo3dDJDLVZDUHFSVnFaSmk2RHZ5ZFREcWNzYnNnQ25jUTdCb0VpS3N4ODRvbld1WnNuZjI5VlFKVlBVYmlyWW85TVdlMDktLXhMaVBwSGpvalZENEQ3U2tBRjhpSWFCdlFIdDNrRmlNeXFibm83U0t4blAxNTZXWXVPX0V4UlpBbHpPbFp2Yk1KMTVtdml2czNlb2xRdnZYVWxxSWY2Q2xJZE5y?oc=5",
       "date": "2026-08-07",
-      "source": "FIJ NG",
-      "summary": "NDPC Claimed FG Ordered MDAs to Obey Data Protection Law. Nigerians Search but Can't Find Order  FIJ NG",
+      "source": "fij.ng",
+      "summary": "NDPC Claimed FG Ordered MDAs to Obey Data Protection Law. Nigerians Search but Can't Find Order  fij.ng",
       "jurisdiction": "ng",
       "region": "EMEA"
     },
@@ -381,6 +399,15 @@
       "region": "APAC"
     },
     {
+      "title": "Notes from the Asia-Pacific region: China rolls out new AI governance, data protection measures",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUVkdTEwWjJ4dTE4TWxJbXlUTDR5VmR1VEtHSGE1T3J3VnNCU0pjMUJjRUFnMFFGWTlLSmxEODdsRVNxVjVuUlVuVXg1WGFtX2RubXJSamNxMjRiV0Z5bEdwSzdWRnZiempBTk5paXliZVB6c0RUNTROalpyLTJCUDZEQ0VaeDFWeVpDR2NaUEZXaFNsQklHMllFWmw3MnNCNEZmay1CQzVsNXZiT1AxM01JdXgtSTMx?oc=5",
+      "date": "2026-08-06",
+      "source": "IAPP",
+      "summary": "Notes from the Asia-Pacific region: China rolls out new AI governance, data protection measures  IAPP",
+      "jurisdiction": "cn",
+      "region": "APAC"
+    },
+    {
       "title": "Simplified Personal Information Protection Compliance for Small Companies in China (Part 2)",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0l0bVQ5dGpIM1dRQzR6cFJ3Z01WckpUOGNZVGt5OWpLc1RSRzR4UnpPMXBMQ2VsMlBsYkdzckZJMzQta2pFNTFrUnlyeTN5RjVrSmk4b1c1TF8xNTBWdVQ2RGNxb2gwNXgyT1Fxenc1WEpubTlJRW1nanVRMUE4Q0RsNWE1R1pTMUxndzNHRk5WTWc?oc=5",
       "date": "2026-08-06",
@@ -396,15 +423,6 @@
       "source": "Personnel Today",
       "summary": "ICO finds ‘serious’ flaws in Met Police’s data protection training  Personnel Today",
       "jurisdiction": "uk",
-      "region": "EMEA"
-    },
-    {
-      "title": "Inside Safaricom's Privacy Controls: Who Can See Your Data And How My OneApp Is Secured - NewsTrendsKE",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHlVVzNQZzNjU1RValhHUU1aU05YTzE1dndzd3F1aDRkQTR2OU9IWFhfM3JjMzFmV1hlcV9NZjVyTlEtdTdOcXozRjVEakdqLVl5YWYzeVplenZ3TkFKdHRaWkhwb0FobnpyNGVlZUdLUm00VGhIM0s2eVR3WUdyUmFZSXlYTnJzMjNnLWQwUnp2NVc2ZXY1bmVoVExPSUZwa2ZMd2xKOXp3WUVzbFZaetIBuAFBVV95cUxNbWlNUGpUSTNLWnFtMGhwcVRxRkZsVkFZdGh3c3RKNFdWUFdNRWFvY2FUMlNrOFFKZGJHbHp2Q3ZFSDNyU3FMczZjWkVyb3AtRzE5b0oyalAwUjI0U0VzcXVZaUxhM1haUl9ic3owMXZIcVVmekFUTDBsRGRKak1BLWZ3RE9HYldGQWdScDA1YXcxWmlQcEUxcWg4cFlHemRTR3RWZV9tSUxXUlUydmRfV3huUVpZNGpT?oc=5",
-      "date": "2026-08-06",
-      "source": "newstrends.co.ke",
-      "summary": "Inside Safaricom's Privacy Controls: Who Can See Your Data And How My OneApp Is Secured - NewsTrendsKE  newstrends.co.ke",
-      "jurisdiction": "ke",
       "region": "EMEA"
     },
     {
@@ -426,6 +444,15 @@
       "region": "EMEA"
     },
     {
+      "title": "Met Police ordered to review ‘weak’ data protection policies after significant breaches",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJBLW5uaHdKOEFTblVtdTl4VktuSDFCaHprdU5FaGJVMkpONTJRVTJWTExOSVJPdmdWLUxXZVRpUGplT2ZPRzI2U1FIU2RUSVRseS1LMWo0ZjVQdFFHNmstRjJOd1Jxa0dUN3FnTjVLcDBuQWhuSVBMcmU0V2xnMVE1V1BVRHNwVXh2T2ZpRDZxOXQ1VlZsTnFHYWZNOUlVN3d1TWM0azg3VklFREJ4T3FjUGZ0Z1U?oc=5",
+      "date": "2026-08-05",
+      "source": "Newswav",
+      "summary": "Met Police ordered to review ‘weak’ data protection policies after significant breaches  Newswav",
+      "jurisdiction": "my",
+      "region": "APAC"
+    },
+    {
       "title": "Metropolitan Police Service issued with enforcement notice and reprimand following data protection failures",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdTZwbEVkQUpIb1pnYktKUHg3QVhyVzhyZHQ1MGdlYzkwdlg3V1BNUi1zVWNFRHBUVG13aW5TTHVmTHJlcW9IWFN1NGY1T2x2aV9RZ3kxTVM3NkowcF85d1FBSS1Mb3RpZzlBVm9HQ3NNRzV2MDZZZ3NaRUxkckhjcWJBdUlIaklDd2JncHR5ejlLQUEyaWR3VF95QnFRczlFR3RWVkFqRTdfN094VTdYbW1FRVJha0NNeGdXa1Bxc0xZZjZDaGl2eGFEcy1UTEcwRE8tSjJRaTE1cmt5M0oxOUtDZVNINUlpWFc0b3BWa0ZFM3V1N2E1VHptNGdJR3U1Y2hVZkZpOV8?oc=5",
       "date": "2026-08-05",
@@ -435,12 +462,21 @@
       "region": "EMEA"
     },
     {
-      "title": "Patient Privacy Fears Mount as NHS Leaders Link with Palantir",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLW9fd3FDSVFXdzFOaGdpOEtGOGZvU0NNVWw0VjRENVBYRnZnbTVNYzFOV0owNEtHdC0xSS1aMV9ITUF3TXVnN1NkLUtESFd1VHgyeTJWMTN6LWRqN3k2Z19OMmFrSXJwclRLbHdDbFpSNXcyX1R5WXdqdmhsekpJRmVVZEViQmVFazFVazVwYVVid1JUOWE2ejhMbw?oc=5",
+      "title": "ICO orders MPS to improve data protection after serious disclosure breaches",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM25tSmllYXJfblpFRUJPMG1jT2hiWG5md2MwQUNWRlZTTGt3azFUMlZXS1RVMVAzUXh0OG54cnFQUjdIdHRvdjdnS3VfV1ljeEhIM20wR21DNmFTVmdDTEh3MWh2RDQ5bGtOSnhnaFRLNjRtUDVBRGVwQmE0azBpZ0U0ZVlyRlBtd2I3anE0SS1QRWloYUFCRl83NXNqVEN4bEpkcHotem5nY0J2cHFOc3pR?oc=5",
       "date": "2026-08-05",
-      "source": "streamlinefeed.co.ke",
-      "summary": "Patient Privacy Fears Mount as NHS Leaders Link with Palantir  streamlinefeed.co.ke",
-      "jurisdiction": "ke",
+      "source": "Police Professional",
+      "summary": "ICO orders MPS to improve data protection after serious disclosure breaches  Police Professional",
+      "jurisdiction": "uk",
+      "region": "EMEA"
+    },
+    {
+      "title": "FG steps up data privacy enforcement in MDAs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VR0JSc0hTV0N4QWVPbnZ4TFZUaEtfdDhHYjQwbk5ZSVVjbWlfcXVfWGRZdzZMX3VILWg3Z1c4MWtsNTZPZDZiaVZfUlJ3UWRxbHZReWtIVDBPMEdmWm55T21OeW8yLXQ1MnotbUpCeFPSAXZBVV95cUxNLUpPbDdUelJZb2MxZUp5YkZJN0dwVFdpWjBrY2tBRVZSTGktNEJTOUM5QVl5eHY4UlBiZnJPbjdDSG9rTW9US2c3dlZvQTdrdEs1MzJVUFk2Y2V2UG9RMUZnVHF4ZGViV21QSEdOMEs0UC1XeHdR?oc=5",
+      "date": "2026-08-05",
+      "source": "The Sun Nigeria",
+      "summary": "FG steps up data privacy enforcement in MDAs  The Sun Nigeria",
+      "jurisdiction": "ng",
       "region": "EMEA"
     },
     {
@@ -462,20 +498,20 @@
       "region": "APAC"
     },
     {
-      "title": "EDPB Publishes Draft Guidelines on Anonymisation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFFTcC1YN0o1SkhUWnJGb2xoQTFxcFJZQkptcDJmR0hTdnpySGRZa3FfR3BZM0UycUJ5VVpfUlpCT0wtTnFGdDRGbmg0dHhOTF9BejZuUzd0VTdPZW5CUGJYOF90Q3VrN0d5QkVNQmxLdnZSUXE2aHpoanQ3blJpU3pESy1pYzhRZWNYcG8xUmV6cktHZjFMbWkyVzNjV0U?oc=5",
-      "date": "2026-08-04",
-      "source": "Inside Privacy",
-      "summary": "EDPB Publishes Draft Guidelines on Anonymisation  Inside Privacy",
-      "jurisdiction": "eu",
-      "region": "EMEA"
-    },
-    {
       "title": "European privacy regulators eye Meta's smart glasses",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV04zdmJKNDM0Q0RLXzl1REpwTkMzay0zLXQ2T3p6Z1VRUC10ZFFETEttZmFzYUh1aEFLVXZWTVZ6NmJwRmZyYmJqU0Y0N2xwN1QyT0ZCVGRiVnY1dnJGMTNOcHJCNmgtX2l3Q1BPUG0yQ215YkhWNHpOOHUwOFpBV25LZ0UwU3ZDVWc?oc=5",
       "date": "2026-08-04",
       "source": "euractiv.com",
       "summary": "European privacy regulators eye Meta's smart glasses  euractiv.com",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
+    {
+      "title": "EDPB Publishes Draft Guidelines on Anonymisation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFFTcC1YN0o1SkhUWnJGb2xoQTFxcFJZQkptcDJmR0hTdnpySGRZa3FfR3BZM0UycUJ5VVpfUlpCT0wtTnFGdDRGbmg0dHhOTF9BejZuUzd0VTdPZW5CUGJYOF90Q3VrN0d5QkVNQmxLdnZSUXE2aHpoanQ3blJpU3pESy1pYzhRZWNYcG8xUmV6cktHZjFMbWkyVzNjV0U?oc=5",
+      "date": "2026-08-04",
+      "source": "insideprivacy.com",
+      "summary": "EDPB Publishes Draft Guidelines on Anonymisation  insideprivacy.com",
       "jurisdiction": "eu",
       "region": "EMEA"
     },
@@ -498,6 +534,15 @@
       "region": "EMEA"
     },
     {
+      "title": "Catholic Sisters in Africa Urged to Protect Privacy, Witness Christ in Digital Spaces",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHZkTkUxY3FzUzNOakFzVHAtNW5leVVTXzZlaUhJakNwWV95SC1nUUVtVjZtaVd3bmxTZ0JMR29BVnkycmxwNEUwWXhEZ0RpM2FPV1ZXNHZ3eklNWGFPSE1Hb05TdjI0eDZzVVVwblhDdWVMazhXckRWV0xZT0VMU3BfVy14R1ZoeUxmV0lFUzhWRWdCWFlHWXBaY21vVk1KX0wzbmZpNWhzTjA2QTV2SWpqWGpBdDV0MEttMUNR0gHDAUFVX3lxTE9XVFBWMnZtMkJPdVZZTnlOeEVaVmFTbEE4QWZoQU54Z2dTbk5iUF9QaTdvNmR6ZlRuTklXYlRoT0trMW9VZlN0c1BicVpremVpMy1mOFpHcFZFdVVsZUlfeHpYd084ZHdlb2oyVlhGcW8zSmFWNlk0QV9wR3JncDFvQjBuVUZSMFE0ZDlad1pNTV9jS3VIajBqQ0JUd0dCTWpSSnJrLUpCbW1KNTRua3dKMkZpSW1pNUlOLTJ0QnVfaHE3bw?oc=5",
+      "date": "2026-08-04",
+      "source": "ACI Africa",
+      "summary": "Catholic Sisters in Africa Urged to Protect Privacy, Witness Christ in Digital Spaces  ACI Africa",
+      "jurisdiction": "ke",
+      "region": "EMEA"
+    },
+    {
       "title": "Sakura Mobile Data Breach Exposes Order Data of 44,399 International Travelers",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFppQnFrUnljUUY1T1dvSE9CcVNQdXl0aFdKcUZoVU1QUUVzV3VsdFJRZUJIX1V6azZGeWxsazcwRmFpNUdJTWs2MjZ3b1A1a0NWbGxTMzEta1pzcDVYb2kxMkRIa2tvb3JZSDhKODBJWmIzR19PZVhEOGJiektSODhna3VDTlpkaWIzMW92ZlM4QzJMVlRiQ1Awa0RMWm13Z3pnQXhlQkpWRExESkl3TndqYTNjaXlwZHF2YXN0ajNWekd0ZEhPZGRJSm5icGZIWGx4NUJfVmg?oc=5",
       "date": "2026-08-03",
@@ -514,15 +559,6 @@
       "summary": "Singapore payments code targets hidden fees, fraud and data protection  Tech Edition",
       "jurisdiction": "sg",
       "region": "APAC"
-    },
-    {
-      "title": "EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXllMmJPb0V5aDBnakVqMUVUcl84bnBUMnlxVjFOOVhGU3oyUG1tRkNmUjdKWW43c1huZlE5MlEtWVM1MF9lRGFER254TEQ0Z1k0Q05KTUE5U3Z6N0I1RHBsODZUeXdXVWNsbU5KMHRyZ1pGSFJtS3BWYWVKU2tLUzRaVHljUE5JR3hPLWYzQTZJTkhERTNqbjduTWRuTDRTbHIyRWNvTQ?oc=5",
-      "date": "2026-08-03",
-      "source": "IAPP",
-      "summary": "EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter  IAPP",
-      "jurisdiction": "eu",
-      "region": "EMEA"
     },
     {
       "title": "South Africa’s privacy laws are evolving, but vulnerable people are being left behind",
@@ -579,38 +615,11 @@
       "region": "EMEA"
     },
     {
-      "title": "China proposes significant amendments to the National Standard on Personal Information Protection",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHVQVmR2WHl0SXpMb1dpY3VzeENVXzk3SGVTWkFyZVJNNlFxQUFnV3p5WmVQV19pNDZQX3pVWHVqNlRGSzFjV0lfTGNZZ3BpMzBCZ2xSaHpyMWxlcDBZTkhjMko3bGJSMlNmZUtfS1VCa0NxVU9ISVlMYy1vdWR5bXc2SVR6aGkzRXFPZVRpQlFDcURIa0NQM2JDODRSbTZSQnV1TUhoMVFxSWtBTVZFbU5JbHQ4d25LcVdsTk93?oc=5",
-      "date": "2026-07-30",
-      "source": "IAPP",
-      "summary": "China proposes significant amendments to the National Standard on Personal Information Protection  IAPP",
-      "jurisdiction": "cn",
-      "region": "APAC"
-    },
-    {
       "title": "KT hit with W54b penalty over data breach",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBibXRvcnNfQ0I4WEF2d0xqbTFpT1hhalhZNGdlYllkcDFEeHkwRWtGc1VzZllwS2hQbDAydjlSeTF4anVFOFNJQVZGVG5IUUpLdjBuQVBqQQ?oc=5",
       "date": "2026-07-30",
       "source": "The Korea Herald",
       "summary": "KT hit with W54b penalty over data breach  The Korea Herald",
-      "jurisdiction": "kr",
-      "region": "APAC"
-    },
-    {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk0xdXNZT1V5SXZtMllYVDFlT1dWOS1vcDB4bnVVa0xfcjduMTUwQTRxV1ljX3o2d1I3b3k5bXFiYWpaTFdiRTNrNHJKTnVod3RTV0g1LUxNdjhQcFplUGNWVHUxUENCRWpYWDlOalVjVjZFVnFZQm9UODFsMEtUdnppUlRJd2xrUDVyeV9YbkEwUTJXamZGVFZFYXFva0VRenQwSGxTY0FQZjdVNnpjSVk0SDhIX3fSAbwBQVVfeXFMT25NLWtxWGt2OHJwbmlpUnVjMTh2cm1ud0QzR0s3Tlg3ekxsMEwxLWNnQkp2RDJIVmVpNnJlQ1FFMkhib1JaRTdNZzIyM0lER3ExQjhSY2JIU3FrLWdVN0RwWjgya2JDVWZxb18wdnlONTNwc3lYMkJFU3l6VGZmbFJubzhPTnFQMDV3ZWNySmFTc3dOZ0djOHNna2ZkaWpFN0ZLTzBUVTFNYnp5YTlmNjFDb3lRVWwwRVdGdV8?oc=5",
-      "date": "2026-07-30",
-      "source": "BleepingComputer",
-      "summary": "South Korea fines telco giant KT $39 million for customer data breach  BleepingComputer",
-      "jurisdiction": "kr",
-      "region": "APAC"
-    },
-    {
-      "title": "Kucon and Koscom Sign MOU on Safe Data Utilization Ahead of South Korea's Personal Information Protection Act Revision",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GMG50NzYtMDhxaE9BVzNINmlULVpPeF9NMFNGek5BTWY5ZnE4bzhTeHFaZXh4T1ZIZ0xTaGF5YnRQT3FIVlBIX3NlQ0lTTFZ2SDZncXdHY1ZBYjM3NFQ3Mi1PUkFrYWtnTnIyZHZDUWt5SDVONVE?oc=5",
-      "date": "2026-07-30",
-      "source": "finance.biggo.com",
-      "summary": "Kucon and Koscom Sign MOU on Safe Data Utilization Ahead of South Korea's Personal Information Protection Act Revision  finance.biggo.com",
       "jurisdiction": "kr",
       "region": "APAC"
     },
@@ -624,11 +633,11 @@
       "region": "APAC"
     },
     {
-      "title": "Love, Bonito customers’ personal information possibly exposed in data breach",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUFkbDRFTmVVMF9hdHhYbnhmM0NZa05VSk81cE1ueHJxSkhXLTNBZDhnNmZudnJBd29URW9vb01VbGFLWjNkb0k4Y1dmVi00UDA1S2t6TVFyQ0FxUkFNTmhuY2JRUEpRcE03ai1DUG81S1ZMZ2lXY21ySXZweHU5TFdscmtteV9DOFRV?oc=5",
+      "title": "Love, Bonito alerts customers to data breach",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVJVVDFjajVEczBkTmQtQzBXT1VLRzl2RVBNR2htTjNnaU5XTFI4VVl4R2tZZXJkM1hudEVySUZDcDhhUWFSWnpIdDhvNzBvVmllc1FMQWhFZ0N1VVZybk4wMF83SnMxUG14YlRSM3dQang5LWwzaVFCRTlWak1RRGV5UWpoSF9yVVAwSEJXR0E3U0FnV29wTkVwTTRjRU5ObHlaNnpBd2RCM285UldWVm1RZw?oc=5",
       "date": "2026-07-30",
-      "source": "Yahoo News Singapore",
-      "summary": "Love, Bonito customers’ personal information possibly exposed in data breach  Yahoo News Singapore",
+      "source": "The Straits Times",
+      "summary": "Love, Bonito alerts customers to data breach  The Straits Times",
       "jurisdiction": "sg",
       "region": "APAC"
     },
@@ -663,18 +672,9 @@
       "title": "China’s cyber regulator proposes law to curb AI-driven cyberbullying, including cross-border content",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQmRGRTJjc1hxMHpfeFNJUS1ORDcxcjRvbGZOX3I1MEt0bDFRdGNmVy1EZnI2dUVUQTJEU3NuU3BTcEdhU2VEcHZFcjVTNjZkWDFLa2I5N0laYnZqalg3d3pRdkVnUTRWNEhiTnln?oc=5",
       "date": "2026-07-29",
-      "source": "Межа. Новини України.",
-      "summary": "China’s cyber regulator proposes law to curb AI-driven cyberbullying, including cross-border content  Межа. Новини України.",
+      "source": "mezha.net",
+      "summary": "China’s cyber regulator proposes law to curb AI-driven cyberbullying, including cross-border content  mezha.net",
       "jurisdiction": "cn",
-      "region": "APAC"
-    },
-    {
-      "title": "Could Coupang’s Record Privacy Fine Become a Trigger for U.S.-Korea Trade Frictions?",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBveTZSRm9KU3UyX191dFVJOGV6c1d2cl92S0RwYUhOT0hYQUp0Wnd4SmF0SjVtRXNlbFIwMXNIeGdYaUJfMDN1VUdkengxZHRUUEVyZGRHRQ?oc=5",
-      "date": "2026-07-29",
-      "source": "economy.ac",
-      "summary": "Could Coupang’s Record Privacy Fine Become a Trigger for U.S.-Korea Trade Frictions?  economy.ac",
-      "jurisdiction": "kr",
       "region": "APAC"
     },
     {
@@ -732,6 +732,24 @@
       "region": "EMEA"
     },
     {
+      "title": "[Invest&Law] Pacific Holds Seminar on 'Revised Personal Information Protection Act and AI Data Utilization'",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTcmlaRTllOTRTc0dtSFFPSW9jeGNzdWtqQktRRi1Uc3ZKTlNTMXhzeFA1bzEyNi1qY0twdmhaMGJDSEQtQ0hkYUlDRmZiWm9fNW02TUlub3Y4b1VYWW9xREsxNmQ?oc=5",
+      "date": "2026-07-22",
+      "source": "아시아경제",
+      "summary": "[Invest&Law] Pacific Holds Seminar on 'Revised Personal Information Protection Act and AI Data Utilization'  아시아경제",
+      "jurisdiction": "kr",
+      "region": "APAC"
+    },
+    {
+      "title": "Personal Data Protection Department investigates Maxis over Khairul Aming data leak",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcEtCSVFleFZoc3ptNkI1dU1ndmVHd0QzVFhQY3AyeUpneWZPUVRBTmluTTdOZi1hWjJjYVNhdFoxekp0aE00aTNHd1JKNTNVWHk0TEZwTjBIdGlnNUo2Z1hqWDhzRXQ3Ulhsa1ZRVEdtQVByTEFfU3VKa3BBYk0tUmNZREJ0WFUyZDN5UkUyMTlkNnFJQXBHQ3NpRmRJQ0VxWmNkcU94QlpReVU5TFZ0aGFSX29DbU1ybkllUmNoUXdkQUlEZzhKRHQtZERha0FZVFlDdUZJQXrSAd4BQVVfeXFMTmxOSFg5V3A3dkpFVFJWWUlJaUJvUkNSdWppM2FoZ1JiYmFpd3ZWY2pYY29QcDhLU05GbEVCVk95THFKamFiZ0V1LUhFX2hGYmFpenBBMFVCNVY4b0lwQTZoWm5DQVZJSFRPSXFDSWRDMlY1bVlZclN3ZUpyRm92WWVzN0lwc2tHMG5vd1VsOWtuVFBaVzQtbTI1ZkZsaG5vWnA2aVpndjNXTTJyVW15T3VSMlpvRTNSRGZKWFNQTi1vSDI2NzExM3h6UVhVZi1mWW9peERaRXFENXFJTmx3?oc=5",
+      "date": "2026-07-22",
+      "source": "Malay Mail",
+      "summary": "Personal Data Protection Department investigates Maxis over Khairul Aming data leak  Malay Mail",
+      "jurisdiction": "my",
+      "region": "APAC"
+    },
+    {
       "title": "Khairul Aming's personal data leak prompts data protection probe",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWcyOWYtNW4weFhScllHVEYzOGd0OU1LeW10YkZDUVlpelczWDkweXI4NkdCQTh3YlltLWQ4Qi1sZ19tSEFtU1h6S3NRUENGem50QkRBX1c5U2haNVY5N1kyRDBVMGpQVEtFNDJKOVAtRUJCekU5RGZadVNzd005N1ZwVWExMmFZV0xmRDUyYkV4MGNwcXc3ZHByN0VFb1VzS1oySjZUaHBiT2dxQ1JENUNKN0PSAboBQVVfeXFMTW9UOXE5ZjVEUk04dzdjN3c2N2R2blJXR01jTTlVUDU4M2tSMklTU2sxVVFhdllYQi01b3hreEVCWTMtZFZtdi1qbmMwM1RQODFXZmc5cnZjb0gxMGs5VThURjZfMTZheTBVYUlob05nNXd3RF9ZaFozMjRtamstZzlYX1RpSlRNTDZDSGRrWTRXMy1TMVc2WTViY2Z4QlVyY013eWJUSVVuRmo0T21fa2ZEakE5OTBDR0NB?oc=5",
       "date": "2026-07-22",
@@ -771,8 +789,8 @@
       "title": "Maxis apologises as authorities probe influencer’s personal data leak",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NU0ZwTGdEUXp6NDBoLXh2NW9mODA3VHVhLUVXLTd2ZF9sZ0V1NkwzMGM1OWNpQUZiSXA5b29uUWNUaXdGZW44Si15anV4ZURK?oc=5",
       "date": "2026-07-21",
-      "source": "theedgemalaysia.com",
-      "summary": "Maxis apologises as authorities probe influencer’s personal data leak  theedgemalaysia.com",
+      "source": "The Edge Malaysia",
+      "summary": "Maxis apologises as authorities probe influencer’s personal data leak  The Edge Malaysia",
       "jurisdiction": "my",
       "region": "APAC"
     },
@@ -816,28 +834,19 @@
       "title": "1 The Rapid Evolution of Data Protection Laws - Data Protection Laws and Regulations 2026",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGN1X3RqU1JfRGMzTDdSZnRYMnphOWltMHRnNEdnMzZXU09VODdwYW1oVkUyaTg1SXdvdDRHOGg0ejZmU1ZTNkRSaWJRNzJ6Zm9sQnNRbDFnTl9janl1ZEZ2UTJNY1h3VjJTcm5ITHZ5SkFtLVJRblRUUWhKNnFnbDVqXzZ1UUs4clpqaUhtTFAxTGZ3c29FZXVLMUR5cnhIczJFUXlLSC1Qb0pnQ28wcEk0emY0X2s?oc=5",
       "date": "2026-07-20",
-      "source": "iclg.com",
-      "summary": "1 The Rapid Evolution of Data Protection Laws - Data Protection Laws and Regulations 2026  iclg.com",
+      "source": "ICLG",
+      "summary": "1 The Rapid Evolution of Data Protection Laws - Data Protection Laws and Regulations 2026  ICLG",
       "jurisdiction": "th",
       "region": "APAC"
     },
     {
-      "title": "Go liable for violation of Data Privacy Act?",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm9oWUVFUkFxYkJtXzNGZVQwZzMwRTdwWkFtRFFhN2IyZzhMRUJVb1RacDhaWDdpaFIxNmJlelJBdW9Oc3NjZ19qTF9RQlp3YU0tTDFuVS1FWkdGUEM1TzA4VEk0MkUzOEpOVDFCSGpTZzNHX1FJZGtkVzc1V083V180U0lZUFR0dlNock9HSVnSAZcBQVVfeXFMTm5xSXBJRGRSR2tDc0VLb01ILWszZmo3ZEtiVGZSbGhCNUtPX2hIclRpd2xxcV85Z25CdXowMDZ4c3Rob0VyU0tYcm1aS2NZUnBqdHFObzRoVHR3MlBtT3pKQ2FXV3lXV2s0S1QtN3ZTQkJTMHF1LUcycW1USF85M0luWUlfdWNJUEZieUhwb1djV2xCRHFZQQ?oc=5",
+      "title": "Jupitice launches DPDP Operating System to help Indian Enterprises move from Consent to Compliance Evidence",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajZOdk5LYzhnSTh6UVZDTmhLRmh4N1NVY3laNzN2eVNSUWE5WER3RTFlQkE2ZjJQLVNOdnc1YkxlYmRwRXRobFk4djRsazctM081bE5raWFwZGY3dGstQTdQdEpVeEE5czFhR201Z2lkbGNleXR3RE1vZUZuUkYzX2J1cGtSN3dwTkVuMU9zSm54RUdWWWJXUDg0X3NHSzF5b1d3S3FOSGEwbFA2Z0ZxYy00TEc1OG5GV0ZaZzNRZWNlSURnMUlxYlk1YjRRcHhvcVNfMFFaNA?oc=5",
       "date": "2026-07-18",
-      "source": "Philstar.com",
-      "summary": "Go liable for violation of Data Privacy Act?  Philstar.com",
-      "jurisdiction": "ph",
+      "source": "barandbench.com",
+      "summary": "Jupitice launches DPDP Operating System to help Indian Enterprises move from Consent to Compliance Evidence  barandbench.com",
+      "jurisdiction": "in",
       "region": "APAC"
-    },
-    {
-      "title": "Legal Basis 2.0 unveiled to strengthen data protection compliance in Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWY2MzZqN2lCQk5MQlpMQkU2ZjVSNFJZNTA3QWxCSlg4VTdqdVlGaDh4NGo5WTYtR3QzLWNmSjZKZXdNM0JtYU9RNlZDSE94SWJnNjFqRmsyUmlqX3p1UlhwLUp5UXpQYkJZZWI4RWJvUkpfckc1RFRWQjJoOUlnTlN2SVlZLWo0ckJQWkV4ZkdFZFhXVlo4aFA3Tl9UdlV3UnBBTER2bUhiYkp0NGVZMWFCONIBuAFBVV95cUxNTFdYQ08tT0JKNUFkdk4xYjJfbl85Q3c5ejBvb0VtSWtELTd0bmdKTUE2UzRRVUZWa3RYU0lrQUxYWGx5Q1lsZy0zaHI4QlZGcDJrVVN0OUxxQVJTb2R5eFJCQXdqamVIX29UZDdSZWNwWmQtMnVOcHZJWjVXMHBnZ3JxMjJqY2U2M3c2VnZwOElwbV9wTVIxd0VyeVZRUEFQUWZCYTVOWE5yQUs2dlh6VFU2bndiUWV4?oc=5",
-      "date": "2026-07-18",
-      "source": "Vanguard News",
-      "summary": "Legal Basis 2.0 unveiled to strengthen data protection compliance in Nigeria  Vanguard News",
-      "jurisdiction": "ng",
-      "region": "EMEA"
     },
     {
       "title": "EDPB calls for legal basis for cross-regulatory information sharing",
@@ -882,15 +891,6 @@
       "source": "appinventiv.com",
       "summary": "Enterprise Regulatory Risk Management in Australia: Challenges, Strategies, and Solutions  appinventiv.com",
       "jurisdiction": "au",
-      "region": "APAC"
-    },
-    {
-      "title": "Supporting India's DPDP vision: Turning policy into digital trust | Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3ZNczB2WWNQWjctYWdJbm1Hc1BLOU1jVGlkUzljbDhlbzNqZVM3NTBuTmstQjJGWEtnZ21EOEd2UXBmdW82dmpNWUdMWUk5dlRCWDNPWnZnWnBrM2htU2lodkFzdGJrY1ZxVkFvN0U2QVRoT1llNmVRZURscThDeVBlM2p2TFQzNTdmRm1fdGxRSnB0el9yR21aSm0wVGhsYjVwcXo0S2kwbjcyYVIyUlhvUHNtTV9tS3VuQ244TWNJOS1QSk1vbTVyWDI2NC1JdnJ30gHYAUFVX3lxTE95VEtueFVhdDd5NUtlUTlyWXR4a01keFdFVEVQempxSmZtWXFncGtnc281LURvc3dkbGFHMEU2RUdVdmpfZzhjcVdTeGRaUFRnb01GaWJVemNfZVpzc0VyeUJYUEQydHp5VUNUQnU5dzNndG15SGpRdHNJSGwyaWYwN2hVdkFQblJfZzBzM0RncmNIVWRuQnBYV0Q3TVllaTdoa1QtWmZvRnJTWFA3Q3hncE9HOGg5MzJtc2ZkRjc1QlE1ZmF6TlZuRjdjNEZsV3dnRnpELVc2VQ?oc=5",
-      "date": "2026-07-15",
-      "source": "Hindustan Times",
-      "summary": "Supporting India's DPDP vision: Turning policy into digital trust | Hindustan Times  Hindustan Times",
-      "jurisdiction": "in",
       "region": "APAC"
     }
   ]
