@@ -14,7 +14,7 @@
       "type": "act",
       "status": "in_force",
       "date": "2022-04-01",
-      "official_text_url": "https://www.ppc.go.jp/en/legal/",
+      "official_text_url": "https://www.japaneselawtranslation.go.jp/en/laws/view/4241/en",
       "issuing_authority": "National Diet of Japan",
       "summary": "Comprehensive law covering business operators handling personal information: purpose limitation, consent for sensitive data and third-party provision, individual rights, mandatory breach notification, and pseudonymised/anonymised data categories. Amended text effective April 2022."
     },
@@ -23,7 +23,7 @@
       "type": "rules",
       "status": "in_force",
       "date": "2022-04-01",
-      "official_text_url": "https://www.ppc.go.jp/en/legal/",
+      "official_text_url": "https://www.japaneselawtranslation.go.jp/en/laws/view/2886",
       "issuing_authority": "Personal Information Protection Commission",
       "summary": "PPC rules detailing breach reporting thresholds and timelines, cross-border transfer information requirements, and record-keeping obligations."
     }

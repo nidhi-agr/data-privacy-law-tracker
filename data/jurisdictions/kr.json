@@ -14,7 +14,7 @@
       "type": "act",
       "status": "in_force",
       "date": "2023-09-15",
-      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=personal+information+protection+act",
+      "official_text_url": "https://law.go.kr/LSW/lsInfoP.do?lsiSeq=248613&chrClsCd=010203&urlMode=engLsInfoR&viewCls=engLsInfoR",
       "issuing_authority": "National Assembly of the Republic of Korea",
       "summary": "Comprehensive law with strong consent requirements, sensitive/unique identifier rules, mandatory CPO designation, breach notification, automated-decision rights (2023 amendment), and penalties up to 3% of related turnover."
     },
@@ -23,7 +23,7 @@
       "type": "decree",
       "status": "in_force",
       "date": "2023-09-15",
-      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=enforcement+decree+of+the+personal+information+protection+act",
+      "official_text_url": "https://elaw.klri.re.kr/eng_service/lawView.do?hseq=63755&lang=ENG",
       "issuing_authority": "President of the Republic of Korea (Presidential Decree)",
       "summary": "Implementing decree detailing consent methods, CPO qualification requirements, breach reporting (72 hours), overseas transfer requirements and safety measures."
     },
@@ -32,7 +32,7 @@
       "type": "act",
       "status": "in_force",
       "date": "2020-08-05",
-      "official_text_url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=act+on+promotion+of+information+and+communications+network+utilization",
+      "official_text_url": "https://elaw.klri.re.kr/eng_service/lawView.do?hseq=38422&lang=ENG",
       "issuing_authority": "National Assembly of the Republic of Korea",
       "summary": "Formerly the primary online privacy law; its data provisions were merged into PIPA in 2020, leaving network security and spam rules."
     }

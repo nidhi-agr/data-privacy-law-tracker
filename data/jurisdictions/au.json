@@ -28,13 +28,13 @@
       "summary": "Tranche-1 reform: statutory tort for serious invasions of privacy (from June 2025), criminal doxxing offences, Children's Online Privacy Code mandate, automated-decision transparency (2-year transition), and new mid-tier civil penalties."
     },
     {
-      "title": "Notifiable Data Breaches scheme (Privacy Act Part IIIC)",
-      "type": "regulation",
+      "title": "Privacy Amendment (Notifiable Data Breaches) Act 2017",
+      "type": "act",
       "status": "in_force",
       "date": "2018-02-22",
-      "official_text_url": "https://www.oaic.gov.au/privacy/notifiable-data-breaches",
-      "issuing_authority": "Parliament of Australia / OAIC",
-      "summary": "Mandatory notification to OAIC and affected individuals of eligible data breaches likely to result in serious harm, as soon as practicable after assessment."
+      "official_text_url": "https://www.legislation.gov.au/C2017A00012/asmade",
+      "issuing_authority": "Parliament of Australia",
+      "summary": "Inserted Part IIIC into the Privacy Act 1988, creating the Notifiable Data Breaches scheme: mandatory notification to the OAIC and affected individuals of eligible data breaches likely to result in serious harm, as soon as practicable after assessment."
     }
   ],
   "developments": [
