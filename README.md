@@ -1,6 +1,6 @@
 # Data Privacy Law Tracker — APAC & EMEA
 
-Interactive tracker of data privacy and protection laws across 30 APAC and EMEA jurisdictions with an interactive world map depicting jurisdictions covered and option to toggle between them.
+Interactive tracker of data privacy and protection laws across 26 APAC and EMEA jurisdictions with an interactive world map depicting jurisdictions covered and option to toggle between them.
 
 **Features**
 

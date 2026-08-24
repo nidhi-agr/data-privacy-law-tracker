@@ -30,9 +30,9 @@
   // ISO 3166-1 numeric -> tracker code (world-atlas feature ids)
   const NUMERIC_TO_CODE = {
     356: "in", 156: "cn", 392: "jp", 410: "kr", 702: "sg", 344: "hk", 158: "tw",
-    36: "au", 554: "nz", 360: "id", 764: "th", 704: "vn", 458: "my", 608: "ph",
-    826: "uk", 756: "ch", 792: "tr", 784: "ae", 682: "sa", 634: "qa", 48: "bh",
-    376: "il", 818: "eg", 566: "ng", 404: "ke", 710: "za", 288: "gh", 504: "ma", 643: "ru",
+    36: "au", 554: "nz", 360: "id", 704: "vn", 458: "my", 608: "ph",
+    826: "uk", 756: "ch", 792: "tr", 784: "ae", 634: "qa",
+    376: "il", 566: "ng", 404: "ke", 710: "za", 288: "gh", 504: "ma", 643: "ru",
   };
   // EU member states all resolve to the EU bloc profile
   const EU_NUMERIC = [40, 56, 100, 191, 196, 203, 208, 233, 246, 250, 276, 300, 348,
@@ -40,7 +40,7 @@
   EU_NUMERIC.forEach((n) => (NUMERIC_TO_CODE[n] = "eu"));
 
   // Small jurisdictions invisible at 110m resolution -> clickable dots [lon, lat]
-  const DOT_MARKERS = { sg: [103.82, 1.35], hk: [114.17, 22.3], bh: [50.55, 26.05] };
+  const DOT_MARKERS = { sg: [103.82, 1.35], hk: [114.17, 22.3] };
 
   // ---------- state ----------
   const state = { jurisdictions: [], byCode: {}, news: null, insights: null, world: null };

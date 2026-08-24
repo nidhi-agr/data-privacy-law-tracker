@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-24T03:27:12+00:00",
-  "total_jurisdictions": 30,
+  "generated_at": "2026-08-24T13:27:48+00:00",
+  "total_jurisdictions": 26,
   "status_by_region": {
     "EMEA": {
-      "comprehensive_law_in_force": 16
+      "comprehensive_law_in_force": 13
     },
     "APAC": {
-      "comprehensive_law_in_force": 14
+      "comprehensive_law_in_force": 13
     }
   },
   "status_totals": {
-    "comprehensive_law_in_force": 30
+    "comprehensive_law_in_force": 26
   },
   "instrument_types": {
-    "act": 39,
-    "regulation": 24,
-    "order": 3,
+    "act": 36,
+    "regulation": 19,
     "directive": 1,
+    "order": 2,
     "guideline": 1,
     "rules": 5,
     "decree": 3,
@@ -108,13 +108,6 @@
       "title": "Data Protection Act 2018"
     },
     {
-      "jurisdiction": "Bahrain",
-      "code": "bh",
-      "region": "EMEA",
-      "year": 2019,
-      "title": "Law No. 30 of 2018 with respect to Personal Data Protection"
-    },
-    {
       "jurisdiction": "Kenya",
       "code": "ke",
       "region": "EMEA",
@@ -134,13 +127,6 @@
       "region": "EMEA",
       "year": 2020,
       "title": "DIFC Law No. 5 of 2020 — Data Protection Law"
-    },
-    {
-      "jurisdiction": "Egypt",
-      "code": "eg",
-      "region": "EMEA",
-      "year": 2020,
-      "title": "Law No. 151 of 2020 on the Protection of Personal Data"
     },
     {
       "jurisdiction": "South Korea",
@@ -185,13 +171,6 @@
       "title": "Act on the Protection of Personal Information (APPI), Act No. 57 of 2003"
     },
     {
-      "jurisdiction": "Thailand",
-      "code": "th",
-      "region": "APAC",
-      "year": 2022,
-      "title": "Personal Data Protection Act B.E. 2562 (2019)"
-    },
-    {
       "jurisdiction": "Switzerland",
       "code": "ch",
       "region": "EMEA",
@@ -213,13 +192,6 @@
       "title": "Nigeria Data Protection Act, 2023"
     },
     {
-      "jurisdiction": "Saudi Arabia",
-      "code": "sa",
-      "region": "EMEA",
-      "year": 2023,
-      "title": "Personal Data Protection Law (Royal Decree M/19 of 1443H, as amended by M/148)"
-    },
-    {
       "jurisdiction": "Israel",
       "code": "il",
       "region": "EMEA",
@@ -228,30 +200,29 @@
     }
   ],
   "obligations": {
-    "dpo_required": 20,
-    "breach_notification": 26
+    "dpo_required": 17,
+    "breach_notification": 23
   },
   "news_activity_by_jurisdiction": {
+    "eu": 17,
+    "vn": 2,
+    "ng": 8,
+    "kr": 8,
     "ph": 5,
     "ae": 1,
+    "il": 4,
+    "gh": 5,
     "ke": 4,
-    "gh": 4,
-    "kr": 8,
-    "vn": 1,
     "hk": 5,
-    "id": 2,
-    "th": 1,
-    "eu": 15,
-    "il": 3,
+    "id": 1,
     "in": 8,
-    "uk": 7,
-    "eg": 3,
-    "ng": 8,
     "jp": 3,
     "au": 1,
+    "uk": 7,
     "cn": 2,
     "sg": 3,
-    "za": 2
+    "za": 2,
+    "tw": 1
   },
   "recent_developments": [
     {
@@ -363,15 +334,6 @@
       "region": "APAC"
     },
     {
-      "date": "2025-06-01",
-      "title": "SDAIA expands PDPL guidance suite",
-      "summary": "SDAIA continued releasing guidance (DPO, DPIA, consent, disclosure cases) and signalled the first adequacy/whitelist assessments for cross-border transfers.",
-      "source_url": "https://sdaia.gov.sa/en/",
-      "jurisdiction": "Saudi Arabia",
-      "code": "sa",
-      "region": "EMEA"
-    },
-    {
       "date": "2025-05-30",
       "title": "Turnover-based leak fines take effect",
       "summary": "The new administrative penalty scale for personal data breaches became effective, dramatically raising financial exposure for operators suffering repeat leaks.",
@@ -388,6 +350,15 @@
       "jurisdiction": "Philippines",
       "code": "ph",
       "region": "APAC"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "GDPR-alignment reform bill in preparation",
+      "summary": "The government and CNDP continued work on a draft law replacing 09-08 with a GDPR-style accountability regime, alongside Morocco's Convention 108+ commitments and EU-adequacy ambitions.",
+      "source_url": "https://www.cndp.ma/",
+      "jurisdiction": "Morocco",
+      "code": "ma",
+      "region": "EMEA"
     }
   ]
 }
