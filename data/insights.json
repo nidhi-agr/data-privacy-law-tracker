@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:30:15+00:00",
+  "generated_at": "2026-11-07T08:55:34+00:00",
   "total_jurisdictions": 26,
   "status_by_region": {
     "EMEA": {
@@ -204,29 +204,28 @@
     "breach_notification": 23
   },
   "news_activity_by_jurisdiction": {
-    "id": 7,
     "eu": 16,
-    "cn": 2,
-    "nz": 8,
-    "ke": 6,
     "in": 8,
-    "vn": 5,
-    "ng": 7,
-    "za": 8,
     "sg": 7,
-    "ph": 7,
-    "hk": 5,
-    "kr": 6,
+    "id": 7,
+    "ph": 5,
+    "cn": 2,
+    "nz": 5,
+    "ng": 8,
+    "za": 8,
+    "vn": 3,
+    "ke": 6,
+    "hk": 4,
+    "kr": 4,
     "uk": 8,
-    "tw": 1,
-    "au": 3,
     "jp": 5,
+    "au": 3,
     "my": 2,
-    "gh": 6,
-    "ma": 1,
-    "ae": 2,
+    "ma": 2,
+    "gh": 4,
+    "ae": 1,
     "ch": 2,
-    "il": 3
+    "il": 4
   },
   "recent_developments": [
     {
