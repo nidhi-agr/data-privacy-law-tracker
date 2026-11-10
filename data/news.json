@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-09T09:55:39+00:00",
+  "generated_at": "2026-11-10T09:59:55+00:00",
   "window_days": 30,
   "items": [
+    {
+      "title": "GDPR Changes: What EU Governments Kept and Dropped",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3FBQW5hVUszQVpNbWc3dTEtLVN2cjVCVDdnYVV1dWdyaUVLcHBpVjVNYVNIX1llOUVfS2h3ZUduaUhwaF9uUUZTdUN6MXlXTG1qODNnSzc0cUlySEhZb0plNGJGZnppQUFMaVZJRHF2M0YxWk9RMXdweGtoUHkyYk9RMnV0aXRkX3dacw?oc=5",
+      "date": "2026-11-10",
+      "source": "Technology Org",
+      "summary": "GDPR Changes: What EU Governments Kept and Dropped  Technology Org",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
     {
       "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
       "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
@@ -10,6 +19,24 @@
       "summary": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
       "jurisdiction": "eu",
       "region": "EMEA"
+    },
+    {
+      "title": "SEGA Data Breach: 2.19M Customer Emails Leaked in Arara Vendor Attack",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92VjZFRnRkd282WUpPWFYwdmFibHIyNXRkNHhsVVRMQV9jNmNnYU1McDdVWHF3UUFsYVJOSTByR3BuenIyZXNYWnBxQlBNU0NTbGExZDRFS2J0STJJZlFTWWxzeG9PR0psRFRnOXdoclJaRWJJQmdN?oc=5",
+      "date": "2026-11-09",
+      "source": "Homeland411",
+      "summary": "SEGA Data Breach: 2.19M Customer Emails Leaked in Arara Vendor Attack  Homeland411",
+      "jurisdiction": "jp",
+      "region": "APAC"
+    },
+    {
+      "title": "News - Data breach at reservation partner exposes Singapore Airlines customer data",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWlmQVB3TEg4bEwtQmNXa2dBdjJVU1ppZm1OeU9UMG8yMGc4SEdoZE1hS2dZMlRrZnZlSWdUeVRrLVlyN2U4X3dwdnFmVk5qcFN1NjJ0dkNDMkpIREc5SXg3N3EyZXJoYkN3YUJJRktKZ0gxbXNvTW01X0JNMldoZ2VSY2pxaWlCOExISXFIb3pvN3VKWkZFZkhmVzdWdjJsRUhqeVM3OGRIajgwTGpr?oc=5",
+      "date": "2026-11-09",
+      "source": "teiss",
+      "summary": "News - Data breach at reservation partner exposes Singapore Airlines customer data  teiss",
+      "jurisdiction": "sg",
+      "region": "APAC"
     },
     {
       "title": "M1 reports data breach exposing customer personal information",
@@ -22,11 +49,29 @@
     },
     {
       "title": "Automated decision-making and privacy: what organisations need to do before 10 December 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXdNVEZoWWpMZ0UzdnBYa2JrbTJaZ1djVWxvemxydE1UYUdKT1pOOTI2Qjhsc1h1bHlrMmJwcEhGOE5NRExIQzYyekRZR0xPYWRTLWI3Qm10Y0hwVWF6bjZ1eHhPRTkyOEM5NHFILUMzcjYzeEo1dnA0Z0dpTnMzNWRzT2Y2ME82V1BTUzRQSVpxM2FRSVE3bHRTRU5JLWp0VWZjVzIwT0ZjV2JxcXFHRnZWTTFJZ2drV3VUWWxLN0V4azlLYXU3ZkRZWmh2VkRj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkV5NGFaM3JIMWxzdW9UY0VVNnh4eTJLZDIxaUJwUzI5Q05WSDBEb3BqeGFKQWJaRnIzU2tQbjAxN3ZoYzY0ZHUtSkRxalEtQVJrRDdFRTdDTGprbnJLMHJQN1VweDJMVS0xbmd1dzdPTk5HbjBBbjN1YUE4SGlhaWlQaDJBS1dtVHdGSHA5cGJLLUlQUzUza3ZXRUhDZGFtem1Sbjd5bko5VUgxYndoTkU5NUlUUzlSNDFoOVpwS3l2TDRMa2IwZVF2OA?oc=5",
       "date": "2026-11-09",
       "source": "Lander & Rogers",
       "summary": "Automated decision-making and privacy: what organisations need to do before 10 December 2026  Lander & Rogers",
       "jurisdiction": "au",
+      "region": "APAC"
+    },
+    {
+      "title": "Inside New Zealand’s Telco Data Breaches",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUWxSSkdyNHhucWV6Z0NiT1VFa19MQko4cTRwRTVfaThlNGg2enhhLWlQQjBObnpmaDE1SWdTWHFQZ1ViWFFwLW1oNUJiX3N2Zm4xUW9IVTRZWm1FR2FCeGp0TzFTMmMzYmY4azNB?oc=5",
+      "date": "2026-11-09",
+      "source": "Hackread",
+      "summary": "Inside New Zealand’s Telco Data Breaches  Hackread",
+      "jurisdiction": "nz",
+      "region": "APAC"
+    },
+    {
+      "title": "Fore Coffee reports data breach affecting 5.7 million customer accounts",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0NRT093NWVRLWtqUUtXcGxTQXpGMWptMjNBbFgzclBnOU5EeTlOMmVucnYySUZIWnlRWU9PT20zdmJLQnBqenNKWU1kNXV0SFFoQVVpMEVET2QwWldLeU9lNHlyV0pfZGU3dVUxMDhiZEY2QmhpZnkxZjlpX19LUTdpSVBVV09BeEZOb0V5TUFzNzhZY19pNVlBaGxtWDVfc0g3akNUNU1jdG90RHc?oc=5",
+      "date": "2026-11-09",
+      "source": "Marketing-Interactive",
+      "summary": "Fore Coffee reports data breach affecting 5.7 million customer accounts  Marketing-Interactive",
+      "jurisdiction": "id",
       "region": "APAC"
     },
     {
@@ -36,6 +81,15 @@
       "source": "HapaKenya -",
       "summary": "ODPC drops the hammer on Kenya’s corporate heavyweights for privacy breaches  HapaKenya -",
       "jurisdiction": "ke",
+      "region": "EMEA"
+    },
+    {
+      "title": "Nigeria Data Protection Commission NDPC probes Lotus Bank, University of Lagos UNILAG, Others Over Allege",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEltR0pUY2c2ZDkxU3ZLbFBsMUNhbm4zWW1IbkZRTjc0WHJUTllhS0t5X3dnaW5IUEUyX1BSTmw3Y0JRY0ViTVVLRnRhU05vdXVHdWplMUQxS2Q0Ul9xSVhSc19US1ljT3NLcUlHZlU0bG1tbTlhUW9lVU1mN3IyXzlrelJUNVowNFc5MHRmaEFGV3FLOC1yUm5zdnhFejcxai1TVG1uaWxNSVnSAbABQVVfeXFMTnJzUnRhX3M5dno1Z2pXWlgtY1M0QldrMTNGc0YtVENmV0ktUWVkTUcyNGVBakctMzJjcTFxZi1rWFRtcUYxSWwwdEFsaVgyYlc4SG5pS3hSMzh4c0Y0SFFselpDZW5lcUFwUlUzanJfcmxNLXh0S3FVYVhkY2s2VkIwNkdhZXFQd3h6VEJjZFBESGhmOTBubWt6SV9SbHBNalZldzd2ZHhXUzFmRzNEenI?oc=5",
+      "date": "2026-11-08",
+      "source": "Nigerian Voice",
+      "summary": "Nigeria Data Protection Commission NDPC probes Lotus Bank, University of Lagos UNILAG, Others Over Allege  Nigerian Voice",
+      "jurisdiction": "ng",
       "region": "EMEA"
     },
     {
@@ -81,6 +135,15 @@
       "source": "MLex",
       "summary": "Indonesia's One Data law to enable government data sharing, complement privacy rules  MLex",
       "jurisdiction": "id",
+      "region": "APAC"
+    },
+    {
+      "title": "PH privacy body verifying reported data leaks in gov't agencies MANILA – The National Privacy Commission (NPC) is coordinating directly with government agencies to verify reports of alleged data leaks, saying it has not received personal data breach notifica",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjVLMmdqX3drQm9QaEZ2Wlp1aTlsMERqcFRWMExVVUFLVHpyLXItSGNNdGJDbWZseTQ0b0RHT0t6eUViS0FXcHZHVldxU0dDbG5tS3IyV3ExMTRpMHlRbnd1X0liOFVNMmNkMlkxaFV5VWYwbUJQd3VDejRPeTJRX1N3UE1kMkZpa0NQeHFDUU1ucnhwUTk3Vk4zUGw2bEdGQXowbFRSVEJxZTVPMmRUQmx4MkZObzJZaVB0RHYtQ2pWYlp4VDMwVmd4a1lNTU1wZmV4Ng?oc=5",
+      "date": "2026-11-06",
+      "source": "Facebook",
+      "summary": "PH privacy body verifying reported data leaks in gov't agencies MANILA – The National Privacy Commission (NPC) is coordinating directly with government agencies to verify reports of alleged data leaks, saying it has not received personal data breach notifica  Facebook",
+      "jurisdiction": "ph",
       "region": "APAC"
     },
     {
@@ -156,15 +219,6 @@
       "region": "APAC"
     },
     {
-      "title": "The Minister of Public Security speaks about protecting privacy rights through electronic identification.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWt6R3lSUEMwaXJaYlhfMHlya3I0YmxXekNUUGlaNkJTNlVqSE00bEVhYWdtRE41MFB5cHp1RFowWm9MY2VpZXhyZlQyWHd5RFpaSU1zdkxkdGFsWnRzMTdIZERsQ285eHp1MGxRMl9ZeHU1Q0ZZWUJESzgzSXVPb1Y1VDdqaHEzemJlX0llbnBWU2dsQUlaa05tTFRKR3Qy?oc=5",
-      "date": "2026-11-04",
-      "source": "Vietnam.vn",
-      "summary": "The Minister of Public Security speaks about protecting privacy rights through electronic identification.  Vietnam.vn",
-      "jurisdiction": "vn",
-      "region": "APAC"
-    },
-    {
       "title": "People need to be warned when their personal data is leaked.",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb09oQWpUTW9oT3Z2WVJyU0Y4aGZuTm1ucDRqOXQyZlZ2VnBKM3RUcjdvSGxOVDRfbU5TdTlJbEZIdzlTVEwyRHJMakVXTHhYX016TkdZdEZ2VkxQZlpNenBZajVET1hmaXpUdzFucXF0cmlLNlh2RjRCb0pxSzhwaDZYbEFJUlQ3cXc?oc=5",
       "date": "2026-11-04",
@@ -192,15 +246,6 @@
       "region": "EMEA"
     },
     {
-      "title": "The privacy–personalisation paradox",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUhqcWk1VklETDVHUEwtZHZtX3QzbVFVa2x0QUVMem9fclptalpuVmptTUVDZ3JUel9QOGNVN3Z6Vkx0TjdJckZ6cmpRcEVobXJFV3BOa1F0cTNtdk1xdVB5WUg1T2VEYjJGTUtiaWxyeTE4YUZFbEFmbDlWU2JzTmlieTBrRlI3bTRVeVRZbUV6cncwV185OVNYNDV1QWVJX296RGtCRQ?oc=5",
-      "date": "2026-11-04",
-      "source": "FAnews",
-      "summary": "The privacy–personalisation paradox  FAnews",
-      "jurisdiction": "za",
-      "region": "EMEA"
-    },
-    {
       "title": "From newsroom archives to audience data, the DPDP case could set the template for digital publishing",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMlNYemotOXFEdWcwN2tpeDlKMHF2S2VVY3NVWl8zV1NEOUhaeXlSN0Zrc3FVcGl2M1kydk8talNpaFZ0RGxQcHpQWnUtMEJBeW45b0JQUTBHcGpfb0MtdTFOTDJ2NHI1WS1CVHJ0bk1oRndoZ3RwUUJPUGF2a1ZnQms0b0tFeEg1cXl0d1pMX1NRQVBOclBpTFBRZ3h1TmdyLV83RmVxSVVaRjB6bElGRWRVeE9mbnRGYzgxcExzUW1UQzhpRGlB0gHMAUFVX3lxTE9EQnFtNDNlWU9scDZnT296Y3VjSmZ4NXU5eEkzZ1hKLUxWZ3h6U2l3cnRoWnhOajlDODc1X3NKTXJWc3Y4X091ZUhyY3ZnMG01aV9hVGdtZ2pRejY4ZDhUazN2LS1vWjQxbjV5aTlHbkwxcDVXc2hseHBveU0wN1Y2QUtTTWJYc294RlotbzBJTE1DVWxqM1lpTzlVMHc3LUFDZXBiRlVsRkFqX29COEpkNUVmUGhzcXNaY1lmQUs2R0F3NVkzMTcyYklNZg?oc=5",
       "date": "2026-11-03",
@@ -210,21 +255,12 @@
       "region": "APAC"
     },
     {
-      "title": "MoneySmart data breach hits S’pore, HK users; IC numbers, financial info potentially exposed",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jYWFONkVJSXVtZFduSmUzcXdwZnpOdHBXbVhpNUU2NEVGeFBnclhRUkVsREVSZ054RkVVTWFTQlh1UzVXMXdLMkE2VDdidlBrQm14VURMT2FtUjNvVWYxLWFJWG4zSGtERDdVczRoNElOem11RFJWSXFLQW41UQ?oc=5",
+      "title": "About 46,000 SIA booking records accessed illegally in data breach affecting software provider Amadeus",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTi01LTVEcE9wUEdWMmNrX1htZkRFeVpmVUFXNjJ4U09GaGlGcV9SaXRFc0VNU0pPQkladDJKNDZWc1d6eENiQ01xQmNPd0U4Mnk1Rnd4X19jQm16Z01PNGNlSkZoQzN0MnZDLUVxME01emx6bXJNNENYMkdsZWk0MGlsZWRTWGg2cFhSTmF3MmpFaWQySXJDNURGM0hYX2s2NXdNakhHd1VIMGZPSGN1aXJNVHlmaXJuNFB5bUFYZWZ1XzV2RHF4dWZJQ0F2TlU?oc=5",
       "date": "2026-11-03",
-      "source": "Yahoo News Singapore",
-      "summary": "MoneySmart data breach hits S’pore, HK users; IC numbers, financial info potentially exposed  Yahoo News Singapore",
-      "jurisdiction": "sg",
-      "region": "APAC"
-    },
-    {
-      "title": "'I am deeply sorry': MoneySmart CEO apologises after data breach; affected customers speak out",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGtxSWRWWlZWdVR5NkRoRTdiVnRZZU1ONWxvTmV2QWRSTktjMktkZXl3VWlMWVUtZmlib3lkbUlYUm0tYU5EaVBqVm84Vk54ajZTSDBOTXJoRGo4X1duV0FLelNQV0ZGTVZjVnZ5WFRYZFltNHROem1XWjZpNDcyZU5n?oc=5",
-      "date": "2026-11-03",
-      "source": "AsiaOne.com",
-      "summary": "'I am deeply sorry': MoneySmart CEO apologises after data breach; affected customers speak out  AsiaOne.com",
-      "jurisdiction": "sg",
+      "source": "The Straits Times",
+      "summary": "About 46,000 SIA booking records accessed illegally in data breach affecting software provider Amadeus  The Straits Times",
+      "jurisdiction": "tw",
       "region": "APAC"
     },
     {
@@ -318,6 +354,15 @@
       "region": "APAC"
     },
     {
+      "title": "Protecting Personal Data in the Digital Age: Risks and Best Practices",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRk93bnlDd1dHMkNNZktKME5FX1Npc2lPdEx6YVk5Ulc4bFpwcmFOR3FRdEoyNjd1NFZIWDJfRldPMmhWZmJvOUZ0MlhGdHpnYUItR3FVLWdfZ3N4QkxSdnlsT1BSMzRENW5YR3JZT0E1VGRoYkJ5Nnh1TjZpMU90TWdn?oc=5",
+      "date": "2026-11-02",
+      "source": "JurnalPost",
+      "summary": "Protecting Personal Data in the Digital Age: Risks and Best Practices  JurnalPost",
+      "jurisdiction": "id",
+      "region": "APAC"
+    },
+    {
       "title": "NPC probes data breach",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NZUc3REVMbGJwUkIwT3RzejFobTY4QWE3M1hoVk9VcGpNZGV5b0pFUGZZVDk0TGNNQWZhb2k2cFUwWHlXMTdPRDdxTlBpSjRtbkJuekRSNzhlRHlmbGRXbHFvaGoxeUl5enQyQmZVLWo1SHZGTS05UXRDZWtHdw?oc=5",
       "date": "2026-10-31",
@@ -345,11 +390,11 @@
       "region": "APAC"
     },
     {
-      "title": "Economy Minister encourages small businesses to boost data protection skills",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXg3TmVMbHVhVGdSOEdQb3VfQlZUTEtSQ0NCM25lY0pUYXlDNlo0eEFoZEJhSUxGNWNHeGdNcnQwYVQ0bElUY1FpN2JTZmlyWXAzNHNFM1ppYlk0a0dsWlhfNjRnR0EyUVBIRTNDLWpqYkk5WUxuRTBMYVIzM1FuTEFlbDAwdWFHMmpXZ2lJZ09xM3poMldBRHgxZml2bXZPNng1bzVzcmdLOFo5cmlVZFhjQlR2N2dIak9TeWxyc2MwRDFYaVl2dlM2N0l0NG1OYjVEY3E5bFlVQU50SDQ0?oc=5",
+      "title": "Economy Minister encourages small businesses to boost data protection skills | Information Commissioner's Office",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQkpUMkRIUUg4ZHdWZzJBcGlNcXBMczRaMHBLdWhQRVVNY1hSVC1WQ3BCOWFWSXpSOE44dHV3TmhqdUpRa0ZQQ0Y3WG9VOXdwNExGSW1iRzFYSGVWLV90eFpGM1NGSlN4WmxxM0JxcWRlU1RFWERFaDdZeE8wWUlHazFhVW1EVnVJM2Z3M2ZmN3VuZDNEd3ZMXzk3TVNlWEZEenVrTE1GSkI3cXNGQUhybmpLNlZOSWZwc1BGd2gyQjcyaTlfY3JyYkwzZ2VRblZYaC1kd1hFdEpRcmc?oc=5",
       "date": "2026-10-30",
-      "source": "ICO",
-      "summary": "Economy Minister encourages small businesses to boost data protection skills  ICO",
+      "source": "Wired Gov",
+      "summary": "Economy Minister encourages small businesses to boost data protection skills | Information Commissioner's Office  Wired Gov",
       "jurisdiction": "uk",
       "region": "EMEA"
     },
@@ -597,15 +642,6 @@
       "region": "EMEA"
     },
     {
-      "title": "Protection of personal privacy and rights is central to NDPC’s mandate – Olatunji",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1JjNmw4d3JrUTE1SjU2WXpYbjdOQ09uUmZiRG92MWtHT3RPZjQ5bzlweFd0b2JVMVp1aTJBWVlxVVNndlJDQ3NfVjRzZlV5WmVuQkhTZnJwQ0NhYUoxNlFpU1BKOHdKSDVBZWhidlItQmdHUm5PcS1IZnBaMmZYOUNpQ3ZJWC1BSXpzZjYtVUZaVHZnem5RM3NyeGl2dE4wZ0tKZExKbzJtTHREQ0lMMEtEZW15STB3X0VzY9IBwgFBVV95cUxPaVlZZ0Y2TVRsYVdCelkya2gxWXFoUmdicDFqQUU0YVhXWEZVX1dpdGw3c3lMdXhLY0hldHEwZnc3dGdxc25rMjZVdHE0blFMNVppZWZzZF9UWjNPbWd4b2Z1RFp2bUZPLWtROTlSUW5iN3c5R01DbmQ2TVNkM1BaRV9Sa2ZuMVZWU3pQYTFIMEJ1WHFQclphYVNoYVJ4RWpBNGlfY2sxVWdFYzBPeHlnTm9WV2dCS1pHUG5nTVV4SnN5dw?oc=5",
-      "date": "2026-10-26",
-      "source": "Business News Nigeria",
-      "summary": "Protection of personal privacy and rights is central to NDPC’s mandate – Olatunji  Business News Nigeria",
-      "jurisdiction": "ng",
-      "region": "EMEA"
-    },
-    {
       "title": "NDPC Urges Responsible AI Use, Data Protection",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JMHVaWTREZTloWXZVMHBadFJNdGs5ZWNIWVFDT0lfMGVrOHhEbllpVkV5VEwwbjVVZ2xqdzhyeEJ6RHFHS3RlR0pETk9faGJrWnpMUWRDeUVqUVJXOXF3SmlxUkZTaER3dkRtU21NT1J5SVE?oc=5",
       "date": "2026-10-25",
@@ -625,10 +661,10 @@
     },
     {
       "title": "Personal data of 110,000 members of Alliance Medinet breached; several insurers affected",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0IybWgxS29kN0h2NlA3MkZUMENLT0dfbWRBOTYtd3VUejA5cTQwc0VzM1BVV3pWOGNxclhGRS1QTlk1MHRVeVZNVDU3X21hQk5na1llZF9rcjd0amFrS2d4Mk8weFQ3b242MzU2TERBaFB2MVI0MW9nS0VwaktMRjlNRXdlV2tWTGx1SGZjZGJXWHltdFUwS3ZNX2pqQUMwZm9rQnJOcV9IUnMzeUo1eXFDRmh2b3l2NHhPQ0J2RXJaR3ZQYnR2VmZ2NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VVlMcVpRa1ZOenJLMFI2eHNuYWZiVm9MSnUwcnZQV2ZOSUI1Wkgta1FyS3ZCV2JMSzBkM2FQdG9QckJVSTdaOGRvc0FPdzBLU08wSWtJaUF4d0hfTk9ObE9ic1VHYlVuLVU5eVVGdEgyTkVwWXJmU3N3?oc=5",
       "date": "2026-10-24",
-      "source": "The Straits Times",
-      "summary": "Personal data of 110,000 members of Alliance Medinet breached; several insurers affected  The Straits Times",
+      "source": "Yahoo News Singapore",
+      "summary": "Personal data of 110,000 members of Alliance Medinet breached; several insurers affected  Yahoo News Singapore",
       "jurisdiction": "sg",
       "region": "APAC"
     },
@@ -741,24 +777,6 @@
       "region": "EMEA"
     },
     {
-      "title": "Morocco’s CNDP, NIIAT Partner to Train 20,000 Youth on Data Privacy",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnNwNi1faEhjMXRNZVNoamg2RW0zRUc1RVp5RTdvSm5rMU9acnl5TTExdVh2Z21PSkJJaTJkZ1VWaHp5enlTWnFxT3lDOW05aU5HNGlGX1VuQVE3RGVKSGNPNEhpZU5SLW5WOTJqZk1pOTBSZ1A1RlNReHU5Sm9YR1RHdk11WWJHdk5wMkVIU2N4TFdieEU1SEhDaDhBZDV3YXYyRg?oc=5",
-      "date": "2026-10-22",
-      "source": "Barlaman Today",
-      "summary": "Morocco’s CNDP, NIIAT Partner to Train 20,000 Youth on Data Privacy  Barlaman Today",
-      "jurisdiction": "ma",
-      "region": "EMEA"
-    },
-    {
-      "title": "Data Breach at Burger King Japan Exposes over 11 Million Customer Records",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLThqR1F6Z0hXS0pnSXBEUzZHYXdrREdKVjBsTDFoaEI3QlpOYUsxYk5iTGg4al9FcGUwQkFmT2syaTlRb0lrbk5HTkFfYTl2Q0p0em0yM0NBNmwyZDVMWEtRTjlwMGpwUE1ibDZvTWQ4ZUtSRW1QR0VQQnZfQzVvSWNET2NVNzJQTEhCTGk2U1VicjNpRnRfSlh6V3RkM1ZXSjhCWDBqd3BkOXJYMVg2Q3dxRFV2N09E?oc=5",
-      "date": "2026-10-21",
-      "source": "CPO Magazine",
-      "summary": "Data Breach at Burger King Japan Exposes over 11 Million Customer Records  CPO Magazine",
-      "jurisdiction": "jp",
-      "region": "APAC"
-    },
-    {
       "title": "Recent amendments to PIPA in Korea",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xYkdVQ3ljc0lreUszcGh5M0VVTDlzZHhQSGpVNmNwVVhPdlZLLUhlbnd2QTNfNEQtcGhNdWtxcmt5YjBEdVNtQ0NpQl9acGNVTXM3eWphVFQtcjZwR2g0?oc=5",
       "date": "2026-10-21",
@@ -820,24 +838,6 @@
       "summary": "‘Nothing completely stops, but it'll get more expensive’: Privacy Act overhaul challenges 31 of 32 marketing activities; industry warns loyalty, targeted ads, retail, FTA TV under threat  Mi-3.com.au.",
       "jurisdiction": "au",
       "region": "APAC"
-    },
-    {
-      "title": "New anti-money laundering laws could get your business fined over privacy, too",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0Y1VFZfQzhaZkxXa0pEQ2VqeHVHSWF6UXl5UFhxMENZX3ZRcklCMDRWSy13Z1VBTFExcG1lWF8zUzdCWUZkbUVFc1k0NVBNcjVheWVSSnpoNFYyRmM0U2FyWERxSGVMbUdWZmd5QjBoWmpQRDlaX000S2duUkViRW9WRFBnNGQ1dlRaZEZLQjJnZThqRWVubnZfNHdTenZPbWpnYk1ucktXalN2c3JZ?oc=5",
-      "date": "2026-10-20",
-      "source": "Dynamic Business",
-      "summary": "New anti-money laundering laws could get your business fined over privacy, too  Dynamic Business",
-      "jurisdiction": "nz",
-      "region": "APAC"
-    },
-    {
-      "title": "The future of EU-US data transfers: The Data Privacy Framework can survive after Slaughter",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFJBUWFENnFVMVRpc1AxVlF1WVNiR1NHYzZIUm9ORWQ2VGI3NHZOSW9wTFNET0VlLTdlRXM5MjdGMmxtemVtVERtY3lfODNaZS11alI3MndkbU9CWE9RbFZ1QmFuZDVNaEFOVjNIWmhjNDZRblk3eTFYS1FhdTFzU29hdkd0THpJWmdKLURTaGJfeTE2WGlxS3RvNkNjQVl3aUliZ3B0azcxTm94SXljTERMeXF5ZG1PdWJoWnM3OEFHVnM?oc=5",
-      "date": "2026-10-20",
-      "source": "Hogan Lovells Cadwalader",
-      "summary": "The future of EU-US data transfers: The Data Privacy Framework can survive after Slaughter  Hogan Lovells Cadwalader",
-      "jurisdiction": "eu",
-      "region": "EMEA"
     },
     {
       "title": "BK Japan reports data breach involving 11.18m customer records",
@@ -903,22 +903,22 @@
       "region": "EMEA"
     },
     {
-      "title": "DMA hails ICO action as proof UK GDPR works for AI",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFd1U20xQV9EaHRrSTdGSXM2WEw0WktMQ0c4Z0NTTXhHNHRncTA3Y1BLdEl4SXRPU0ZwdFQzLXNIUGRaanhRNERzU0pXVGpLbzQ1SUJqWHBxc2x0UFdxNm56S1lDbzlhVGxPaHZCZXpxODlPX3dfNmxTN1Q5Y0NORnVFUnBYYXlNWWdXekJneDBLcldTU0E?oc=5",
-      "date": "2026-10-15",
-      "source": "DecisionMarketing",
-      "summary": "DMA hails ICO action as proof UK GDPR works for AI  DecisionMarketing",
-      "jurisdiction": "uk",
+      "title": "A Blockbuster-Era Law Won’t Save Your Privacy",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlN4Vjh3VktsOHBabFBMaWFDN00wSVF2WFZaOGZiRWV4SWpiUjdhMnVhOTdTakRKV3N4SXB6S0VYejJTNmNxSTlwb19hcmdiSTZLMlFMNkJvaFZPcUg0WmVlbmh6WkZvRU9ERnhZM1d4QWhEUjhIb2V1b0NpTnJndmY0VXplQ18zM1VCbTY2bld6TUNSLWFid2JJdUNGZHNnZ3QxcTdFQQ?oc=5",
+      "date": "2026-10-16",
+      "source": "Bloomberg.com",
+      "summary": "A Blockbuster-Era Law Won’t Save Your Privacy  Bloomberg.com",
+      "jurisdiction": "il",
       "region": "EMEA"
     },
     {
-      "title": "Kenya Data Protection Commissioner urges data professionals to prioritise privacy and ethics",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmRSMlJ3dGxROFFTbXZHWXBhNUc4ZUE1R3NVMWpYb18wYVVodXJ2RTAyLTk5WkxSQ2t2cXoxMGtMZXRaYnhRNU56WlM1TDdtMkNmdGVHWkRrSVNXRGpXbXJackhfbHJtcHFLSEtEYkx1M3oxOHUySm5VaGhNUURfNF9Nb1FxUzY3OHhncWU1UnRFem50YmlkNHU0ZUhOaWpYNDdlNmpYVVdiTXJLZ2U5U21tbERwSGZnQU1xZlVJMy1ZdGIxQ2ZyemxOdw?oc=5",
+      "title": "Data Bytes AU: Key Australian privacy updates so far in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE1qQ24xci1lVTJrdzBNbXE1enJXN3U3UXV1dm5nMUdJUW1lVzJsWktrX3RMU2h5eFZlX1lIanJyTm5TUkM3dDE5U3F1VDFEZUp3OHVGVnNkeGhQSXgtdnlEWmJTX2xyUk9tZDNGRUc2QmZDSG1DcEdOWVJkaWhHVEs2czVBaWRjTWN5WV94RVA5czIzM1NpR3VmTEUwSlZIdkpZN296RVVwQ0U?oc=5",
       "date": "2026-10-15",
-      "source": "Tech Review Africa",
-      "summary": "Kenya Data Protection Commissioner urges data professionals to prioritise privacy and ethics  Tech Review Africa",
-      "jurisdiction": "ke",
-      "region": "EMEA"
+      "source": "Ashurst Perkins Coie",
+      "summary": "Data Bytes AU: Key Australian privacy updates so far in 2026  Ashurst Perkins Coie",
+      "jurisdiction": "au",
+      "region": "APAC"
     },
     {
       "title": "Korea Privacy Regulator Admits Security Failures as Banking Breach Tests PIPA Fine Ceiling",
@@ -966,12 +966,12 @@
       "region": "APAC"
     },
     {
-      "title": "Personal Data Protection Department conducts public consultation on Artificial Intelligence and Personal Data Protection Framework",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNemtDN1R0aVlzSHFfZ1Zqai1pZFJCYjBIUHVYV1hfc2ZjLWFoZkctYTk5ZHRtdjJBTU5KaWlIbEgwQktqV05pdEI4N0x0cU50OFE1dkswajJmWERRZGVBcm9uTFB4NS1teUs0ZUxoaV81bTAzd0dvTkxiS240cWpub2xLTjEwUEF1TUFsNjVSeldSc0dQel9sbHVJRFh1S2dUdGwtZHIzbGR6R1lfOHgxQzlnOEM0MFNDeUJKT1YyRnlmUHNFbTF3MF9uX2dIMWZXcGlrN0lTSmZuOXJNQi1HMmZHUm82TF96SUp4a1QtSkc5cm5JNkM4M0RFRGFIUTdla2x4em1UQzV4TXppYXFmcGprZnNQU3F3?oc=5",
+      "title": "National Youth Council mistakenly leaks personal data of 600 SG Youth Forum participants",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM2w2N0EwaXpzWXIwSmpNZGlWVXhnOUQ0ZkJZYXVUOWd3OXJwWUNESVloa2ZRTk9ZdmRHZDFUY1hzZm1SaS1PajBZSlJfbUF2TkVWZE53WGMxUi1GUm9SVGRabXU1YXJDek0xOEpIZnhodUFyNG5YSkhGQzN3TTBBZFpvQVZJR0oyNUhGbFhnbThlRFJlZHdPNGd4MXZjUFJ6UTdDZ0tFaEg1cXdKNzFvRXA5Q0Q3c2xPckxpcVRTTnF3bVNsa3hvRjctVDE2SGxBQ0Q2YWE2RQ?oc=5",
       "date": "2026-10-13",
-      "source": "Rahmat Lim & Partners",
-      "summary": "Personal Data Protection Department conducts public consultation on Artificial Intelligence and Personal Data Protection Framework  Rahmat Lim & Partners",
-      "jurisdiction": "my",
+      "source": "The Straits Times",
+      "summary": "National Youth Council mistakenly leaks personal data of 600 SG Youth Forum participants  The Straits Times",
+      "jurisdiction": "sg",
       "region": "APAC"
     },
     {
@@ -1020,6 +1020,15 @@
       "region": "EMEA"
     },
     {
+      "title": "Gauteng e-Panic Data Breach: DA Demands Answers Over Two-Week Delay To Information Regulator",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTlUTl94SElDSlAzS1hkcWRPTW1LcWhVZXRrakdpYnBWS29hb00xV0ZwTzJZMjVWdXBESGowTlRBRVZDd0lXUkUzWE1NVjJjR2kxU0FlLTZMbUpBdTkyR25VZU94R0J4T1VTd01ndExpMXdRWHFFa0lLcldTRURtTDJrMkdlQmN6SmhDZy1OcTlQdVBIVWhJam4wYzAxc0pXVzZDS2tuR3JGTXp0WVJ6STNMb19QMDF3cXNrMEY5V0laeWhQV3NJSUsxTGXSAdQBQVVfeXFMT21WZzhieTBGaGRqT3Q2WFN2SE5BRjE4TV93WjhsdDBDaGRLZlp6LUNVN1VrQ2xUQ19iN2ZHZV9OQnJ2RlFFZWVmWXo5UUdmR1RCbm1vU2xSMEtZTVpqX1dZbl9jZDNwM2g2MnpKdXh1SUdNdkM5ZDFQWHdRMmdNMktqYTFFT3JmMWxCY1JJelNMbnZyQXptVTFBOXZGTVlZV3hNSmJqNF93Y0RfTG1ZYm5Ib1U3bmt4LXRoTjNIbzF1SnFmdE8weERuS29obFhqWC1QUmo?oc=5",
+      "date": "2026-10-12",
+      "source": "TechFinancials",
+      "summary": "Gauteng e-Panic Data Breach: DA Demands Answers Over Two-Week Delay To Information Regulator  TechFinancials",
+      "jurisdiction": "za",
+      "region": "EMEA"
+    },
+    {
       "title": "Nearly GH¢10m lost to online fraud in six months – Data Protection Commission",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3VtRmpfWUJ5WFNSOG5yazV2aFVLMVoyTVN1UEY1cEdzbGt4bTU1VmlIc2Njc01kTEhBLU04S1k4U3hsVkZHQWxRakp4dVlUanduYUxtc2UxTXBneWpKV3loWUs0Rl9qVzBfdk9ZVG0xcWNPSmlaaGVDUFozeWswLW16NnhHWW9lS1p1bmhMaFNheE9oV2dXakZEZ3NhSDg3Sm16ajMySzBBdTlXYXFuY3U5MWNoU1hDTkR1bEM0S3YxQlRPVTBqVVZmNWV6TTg?oc=5",
       "date": "2026-10-12",
@@ -1029,38 +1038,11 @@
       "region": "EMEA"
     },
     {
-      "title": "Privacy Act reforms propose stronger protections to address AI and surveillance technologies",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2tuOWN0dDdYbE1NX19CMU5vcmdDVGxiNGlGVGRaamc3dEswY0pXVnFjTHlsb050d1I1bHl2azAydWsyMlRuQ0czT0hDdGhBZ01WdWF2VGdkXzNnZ0xkcGE2c3NvRXRTTTBoWW5Sc01CUW41RkppWWRmVXpjLVp4TjJ5NUk0OTRtQ0FRcWl0LVNyX2dRVkl3bzFuVHdhSUFYb2YtekNvUGVlSlEyZWJNUUphSmc2UzlkTy15Wlo1U1A2eEhsaVQ0dzNRN3hwVTJCclNMcy1NN0xMUQ?oc=5",
+      "title": "Justice Ministry Orders Police Investigation Into Potential Privacy Violation of Mali and Liel Yahalom",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnRHpkVjBvYVc5bEp1NHhmT2dGRldxdGZ5NmhncklUdHE1QUw4cUs2RWdTS0ZaRFRTdmcyQ2Q1QzU1eFZBYjlLWFJQVnNpNzF2Y1hITA?oc=5",
       "date": "2026-10-11",
-      "source": "Lindsay Taylor Lawyers",
-      "summary": "Privacy Act reforms propose stronger protections to address AI and surveillance technologies  Lindsay Taylor Lawyers",
-      "jurisdiction": "au",
-      "region": "APAC"
-    },
-    {
-      "title": "Israel privacy watchdog orders police probe into leak of Yahalomi mother, daughter's footage",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9meTJSbnJHa1BYaWZaM3lxNEhWZURTS21LdUVjTGo0SnFTMUxLWlNMTGFCcEhGT09DQk9kSUliT3dHZTJ0LVFua1VXOVgwa3JTZEg3UWZ4M0tDUjhtVjluQ3dwX3NPWlFBOGlUWFpLdm91Zw?oc=5",
-      "date": "2026-10-11",
-      "source": "The Jerusalem Post",
-      "summary": "Israel privacy watchdog orders police probe into leak of Yahalomi mother, daughter's footage  The Jerusalem Post",
-      "jurisdiction": "il",
-      "region": "EMEA"
-    },
-    {
-      "title": "Police Accused of Violating Privacy of Israeli Mother, Daughter Presumed Missing - Israel Crime & Justice",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNejdmVXBweHB4VmZYTTBFNzA0aDI4Z05QOTVMM21aMXFaOG5qMU9lY0dORjE0Smg1ZHVDM2c0NGJ2eGRLUDQyWUpOSG9TTmVyemZHNG1KdFc2azViRXowczZzWTRLUk1BXzRNRjh5TDdzVHRPT25PU25DQlplcWZyTTR0QWJxMVA5d3YxX2Q5YzRrOWF5TnRvRDZYcUJVNXFtTjhid0gtMjYyMUhZNzIwYTlpc3hQYjNia0ZkR0hoMW84VWhIdmptNXppaENCUlpGYTN6d3lqWEt3bzdVTGE4cXNtUTBOd05fTldQdEFBeVZPS29ocGNwSks5d3Z2QTdvUGZ5TUFvc1M4T1BVQUFvS3pqVTF5MzF0QnJ3ckhaazU?oc=5",
-      "date": "2026-10-11",
-      "source": "Haaretz",
-      "summary": "Police Accused of Violating Privacy of Israeli Mother, Daughter Presumed Missing - Israel Crime & Justice  Haaretz",
-      "jurisdiction": "il",
-      "region": "EMEA"
-    },
-    {
-      "title": "Privacy Authority orders probe into Yehalomi sisters leak",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUGotZTE2X1hxMnhxYzJpTi1MRTdadEl0TEQ1WGtLekRkaE9qOGZqazk3cVRUUkpudjdTWFl6MXNBOVBNd0NDTHdJWkZ6d19vMkE?oc=5",
-      "date": "2026-10-11",
-      "source": "JFeed",
-      "summary": "Privacy Authority orders probe into Yehalomi sisters leak  JFeed",
+      "source": "Ynetnews",
+      "summary": "Justice Ministry Orders Police Investigation Into Potential Privacy Violation of Mali and Liel Yahalom  Ynetnews",
       "jurisdiction": "il",
       "region": "EMEA"
     }
