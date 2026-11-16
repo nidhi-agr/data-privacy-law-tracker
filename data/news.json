@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-15T09:36:11+00:00",
+  "generated_at": "2026-11-16T09:53:55+00:00",
   "window_days": 30,
   "items": [
+    {
+      "title": "India opens DPDP consent-manager registration",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW83UHlqWGJXbkVUR3JMX19kZWRiMmI1MVRoaUdBYzBNR0Y4S0JFX2RQZHBhWjJYemZudnpESmJ6RVMtZVJBZHZZa1o1WHJURTdPUUM3VS1FMEtCTXhVdm4zUjJZME56OEhqdUd1d2VBTWdYS1hHZ0NXWTZNYWRkYw?oc=5",
+      "date": "2026-11-16",
+      "source": "CASRAI",
+      "summary": "India opens DPDP consent-manager registration  CASRAI",
+      "jurisdiction": "in",
+      "region": "APAC"
+    },
+    {
+      "title": "No clear link between recent data breaches involving well-known organisations in S'pore: PDPC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbkx2bXBvUFU5Zi1FRFF2YnFtdndJYURxQ1B4M0llMTY2LVM2TGFWSFVWSHJjdTMwM2VuUXJNVGs2eDJmU2xDLUN6SUVJRmE1blBaWHlyak5oX3M?oc=5",
+      "date": "2026-11-16",
+      "source": "Mothership",
+      "summary": "No clear link between recent data breaches involving well-known organisations in S'pore: PDPC  Mothership",
+      "jurisdiction": "sg",
+      "region": "APAC"
+    },
     {
       "title": "India opens consent manager registration with a ₹2 crore net worth floor",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDVMcEh6ZUxMbWstc3lDdThSZXl5bm5WdDlmUTg4OEo4amtMQ1lBNDV2NlRzM3N5TlF3T0lHYmhfdE9LajlaM2xWWThuaWotZVY3YXJuV0FMaWNmWmZ0Zy1mV29xa3pkc0ZwN0JMYjE0aHluRWVtSDlUU193VEhwY3RvSWMxV1NzdFh4WWk4U1pNaUU?oc=5",
@@ -10,6 +28,15 @@
       "summary": "India opens consent manager registration with a ₹2 crore net worth floor  PPC Land",
       "jurisdiction": "id",
       "region": "APAC"
+    },
+    {
+      "title": "High Court questions ODPC's authority to award compensation for data privacy violations",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BdEFxbnZJbEdHZXlZQzRodkFKMFNRUUNDQTNFdnNrVnVWUWM2VlJtOUdwdVBFM3ZZc3lFR09vZEhnLW93b2lOankzT1hoQ3NxLUtIZUJNMG11cjZRT3l0YTNRQTlkOThqUmlGdTI4NDc?oc=5",
+      "date": "2026-11-15",
+      "source": "TechTrendsKE",
+      "summary": "High Court questions ODPC's authority to award compensation for data privacy violations  TechTrendsKE",
+      "jurisdiction": "ke",
+      "region": "EMEA"
     },
     {
       "title": "Digital Personal Data Protection Act, 2023 (DPDP Act): Your Data, Your Privacy — Or The State’s Surveillance?",
@@ -36,6 +63,15 @@
       "source": "MediaNews4U",
       "summary": "Ransomware Without Data Theft Could Trigger DPDP Breach Reporting: K7 CyberSecurity White Paper Flags Enterprise Risks  MediaNews4U",
       "jurisdiction": "in",
+      "region": "APAC"
+    },
+    {
+      "title": "South Korea adds passkeys to updated personal data security guidance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0xsMHJhTHZ3UFhwTVZ5MmxpalhHQ0syZklQanU3X2s3Y3NzNERUZEltVVAzTWpEdXVGcUJjUHNydnNfMllIZG1QV2ZKYUNvRUtmX2hUU29vaDRfNjVQbnZsb0Q1UnU0a1NrMzhIOTV6eURScUl5dHE3U2taU1IwRXlZRUJid2ptRXZ3U0dfNWtFYlJpTFJ3dm9rS0pLd0xOclJEQWRzNHlZSEk?oc=5",
+      "date": "2026-11-13",
+      "source": "Biometric Update",
+      "summary": "South Korea adds passkeys to updated personal data security guidance  Biometric Update",
+      "jurisdiction": "kr",
       "region": "APAC"
     },
     {
@@ -76,11 +112,11 @@
     },
     {
       "title": "Local clothing brand Our Second Nature hit by data breach; customer details exposed",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUdhazFyRXlUN2o5SzJDTFU0bHdJekdVUjdzTW9LbUZrN2NidlVZbEdyMjloTTFsMm1BTGJ2QngtTC1LNTRWWEo1OE9lRGpWUk91a1oxbUhVbmc1cW0xYjExSk02NHBYREFUVlBPTkNoRTFtYm9WVU5oYVIwNzNPRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaVMtcGloTVRuWDNCc0VTUF8yeERjYTIyazZ5Y09lbG5VMXdfX1ZCMHVKWmprNUlFNVJUVzRHUXBhTXh5Z1ZLVFhSNjI0Tm9UdHZDWUVOTlo1aTNvVmM0V1hyakowVWt5RWZpeFFPbzhzTFIxN1NkajlRRm1zbTdvS0F1X0wwdzM4TEVjaHJIeTZ2T2U3ZjRfSGZ6emVCajV1dVJoYXRIQ1djaTJPOURYNmVXM1JBa2gzWGhHaThMNlFYeTYwNWw3OXRjZzhYcWZJdGVzR1dOUWdSUQ?oc=5",
       "date": "2026-11-13",
-      "source": "Yahoo News Singapore",
-      "summary": "Local clothing brand Our Second Nature hit by data breach; customer details exposed  Yahoo News Singapore",
-      "jurisdiction": "tw",
+      "source": "The Straits Times",
+      "summary": "Local clothing brand Our Second Nature hit by data breach; customer details exposed  The Straits Times",
+      "jurisdiction": "sg",
       "region": "APAC"
     },
     {
@@ -111,6 +147,15 @@
       "region": "EMEA"
     },
     {
+      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
+      "date": "2026-11-12",
+      "source": "RSS - Actualités CNIL",
+      "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
+    {
       "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
       "url": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
       "date": "2026-11-12",
@@ -118,24 +163,6 @@
       "summary": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
       "jurisdiction": "eu",
       "region": "EMEA"
-    },
-    {
-      "title": "Turning DPDP Compliance into a Security-Led Capability: A Blueprint for Enterprise Readiness",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNclMxV2s2X2NHemdoTjd4RnVfWmlFU1RlZlVjYXVTTm9FMjczM1BjMzItX0lleHdUNVAxWWstd2QyS043cTF4MzNNZW9lVGJTSTRhT3lJWkdyQUR0TnRSZTFvSF9SVDdaUzB4ZXV3bEs1VWdnQm92ZEt0NEtwYUI5OWhjVHFwdlZoTFBRVndxMzZ5b1RGam9sT0JTa1JiOXFfYWVYWFJWMkNTTnhhbC1oOWtoU2JZN3JlYzBWYm5tZDRnMjdXWXc?oc=5",
-      "date": "2026-11-12",
-      "source": "CXOToday.com",
-      "summary": "Turning DPDP Compliance into a Security-Led Capability: A Blueprint for Enterprise Readiness  CXOToday.com",
-      "jurisdiction": "in",
-      "region": "APAC"
-    },
-    {
-      "title": "South Korea: PIPC penalizes eight budget phone operators KRW 171.3 million for PIPA violations",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzZZZ1phX0VEamNOekFUeVlscDlBclI5Sm9qQkp4d3FYZC1WRy1hVXhlTEpVelpKbjlTNmNuclkwcW5lajU0ZXQ5b3RCTnB6OVFhWVJoVEZsdjlGU3JzMENUalRMaXY0SWhLaGE0LW1PYjNMVDk4T2Q1bjJ2YmhsSEs5WHRnUQ?oc=5",
-      "date": "2026-11-12",
-      "source": "DataGuidance",
-      "summary": "South Korea: PIPC penalizes eight budget phone operators KRW 171.3 million for PIPA violations  DataGuidance",
-      "jurisdiction": "kr",
-      "region": "APAC"
     },
     {
       "title": "Dementia Singapore's CARA app users' personal data potentially exposed in cyber incident",
@@ -152,15 +179,6 @@
       "date": "2026-11-11",
       "source": "Malay Mail",
       "summary": "Cyberattack on Singapore school meal app exposes children’s personal data across four schools  Malay Mail",
-      "jurisdiction": "sg",
-      "region": "APAC"
-    },
-    {
-      "title": "Personal data of Dementia Singapore’s app users potentially exposed; unauthorised notifications sent",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWhNZ2NyaDlxS3FzOFd4eUdKa2ZyYmZOZWE4eFF6elU4LVIzNkhEenFGc0NsUEM2dEFwSGNILVJFUzZWZHl3SFpuVjQ5WUR4djNHaU5pSEwydzVzZExQdXk1YWE1NW1qSlRuMUFkbjBVVWtzdUpzSHhlUEtRN3I1b1VjZnd3N2w2bGEzM2pqb2dZaEhxVUl3S1RLQlA3TU1TS1dSbm5kLTZVdWhHR1VYOU04eXRwZ1pjNmwyWHBIek9WRHZTM1JNYV9qbXRGczdO?oc=5",
-      "date": "2026-11-11",
-      "source": "The Straits Times",
-      "summary": "Personal data of Dementia Singapore’s app users potentially exposed; unauthorised notifications sent  The Straits Times",
       "jurisdiction": "sg",
       "region": "APAC"
     },
@@ -183,20 +201,20 @@
       "region": "APAC"
     },
     {
+      "title": "Personal data of Dementia Singapore’s app users potentially exposed; unauthorised notifications sent",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3ZBM0VtOHdwUG5mRFQxLXRTNHZqOXI3NnZ6YWY5dlZrUHl0UmJZMnJaazNKTXc4em11eEp4Vk91cnFqS0U5LTV1VU8xeUVTUXlURzFoMWJIOHRWV1hxRGRDN3Bfd0tkQ3BaTHpDOXcyaUJuMzd4U3JjWXVDOUk5cmIwZw?oc=5",
+      "date": "2026-11-11",
+      "source": "Yahoo News Singapore",
+      "summary": "Personal data of Dementia Singapore’s app users potentially exposed; unauthorised notifications sent  Yahoo News Singapore",
+      "jurisdiction": "tw",
+      "region": "APAC"
+    },
+    {
       "title": "Personal data of Dementia Singapore’s app users potentially compromised in cybersecurity incident",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWpuMDBOMEliYkwydnJCZDBna3prcGh2N0ZaWDJkVnRFUlJHQ0NLWURKdDdPWGRlbUFPSHRnV1ZRQjhVQXh5UjI5ZWtZa1gwVjZyNnZFWmx6aUg2T2JpZjhrTGJGYldEOWJ3SFFCWEFueFppYk5DUUlnVUlPajVPdGcxQjcwRlQwYXY4amljUWx5SUFjSThTX1RiTHpKMzhzYjRjdHdYUDNNR2JIZFY5dGNJOWJyNGI2aXJSQ0VqMm9kMUt1ZFRHZmZiNzZfTmc0Q0VNUWVJZUhrWFJQSXo0?oc=5",
       "date": "2026-11-11",
       "source": "The Straits Times",
       "summary": "Personal data of Dementia Singapore’s app users potentially compromised in cybersecurity incident  The Straits Times",
-      "jurisdiction": "tw",
-      "region": "APAC"
-    },
-    {
-      "title": "Fullerton Health server hit by cyberattack; personal data of migrant workers affected",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNE9xRmQ4OHFoQUNZUmphTEZ2QXpuZHpBZFNJeDAxbUV2emVpd0pmWW9iMFV6YnZRd21oeE9ITURJTGtLZ1hBRWZGQ3BwT1pKVC1LVFU3eHA3a3c4Rmw3UmE5VTFyVV8yRlZlTkZYeEx2cGc5c0FYSmlDUUU4OXJpMEk2b2N5Rzl6eWt1MDl5TFRDN2hQWGQ1UTc4dlc1Tm1nbWVKbDFDVGZ2MG1EeVF6THp6ZWRIYndhTzhZakh1Y3JDMTFxUG9Vdk1VQ0t1Z1QxeXVfWHRic2R4MXho?oc=5",
-      "date": "2026-11-11",
-      "source": "The Straits Times",
-      "summary": "Fullerton Health server hit by cyberattack; personal data of migrant workers affected  The Straits Times",
       "jurisdiction": "tw",
       "region": "APAC"
     },
@@ -219,6 +237,15 @@
       "region": "APAC"
     },
     {
+      "title": "NPC confirms data breach in 10 government agencies",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGtMRG9Wa05za2FKR2hjM3p4ZzZnME82MXNtV280YnozMkFTZlA4MHVtTDRjeTlOMnVjbVl0Q01jWXVGTVZyZEdVb2djeE1NMWZBeURaMVlHSU1VTnItU1lHWURON2JZc0s3eWNMclUxSmxLbk9PSTZDVGs4NFNCQ2sxMWdnQzdBc3RYSG9UVWZ0RFVMT25aQm9EZnpBdk1URGN30gGqAUFVX3lxTE9LUDhQU0dmMzBjenc3MWJzbWVId3V0M2d6NmU3Qmt3WVRuRWRwaG5YWjdRcU9IZUowLXFOY3RmUThQQllVM3hEY1FYdWtaeWhYakZiQlJLU1VzanFvQkZBVjVjNG14bkNfLU81SjNXZ0NoeGI0bEF5WnZha3hGRWZNMnZnTHZiWFFWLVJvZnBtdFotWWlFWW4waWFPWklRRTdyd3JLMTlQUk1R?oc=5",
+      "date": "2026-11-11",
+      "source": "Philstar.com",
+      "summary": "NPC confirms data breach in 10 government agencies  Philstar.com",
+      "jurisdiction": "ph",
+      "region": "APAC"
+    },
+    {
       "title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
       "url": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
       "date": "2026-11-10",
@@ -234,15 +261,6 @@
       "source": "cfo.economictimes.indiatimes.com",
       "summary": "DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears  cfo.economictimes.indiatimes.com",
       "jurisdiction": "in",
-      "region": "APAC"
-    },
-    {
-      "title": "Philippine privacy regulator reviews data breaches reported by 10 agencies",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81YTNBbHQ1NWotSURQR2h4VlA1Zk11bGlObmkzSXludVZ3RkFUMmtwVkJqZnFJUU9QRjl3bFJjMGZzZ2N0cjhkYjE4aTFOQlgyU0tPT1RqNnJVQdIBWkFVX3lxTE81YTNBbHQ1NWotSURQR2h4VlA1Zk11bGlObmkzSXludVZ3RkFUMmtwVkJqZnFJUU9QRjl3bFJjMGZzZ2N0cjhkYjE4aTFOQlgyU0tPT1RqNnJVQQ?oc=5",
-      "date": "2026-11-10",
-      "source": "MLex",
-      "summary": "Philippine privacy regulator reviews data breaches reported by 10 agencies  MLex",
-      "jurisdiction": "ph",
       "region": "APAC"
     },
     {
@@ -318,15 +336,6 @@
       "region": "EMEA"
     },
     {
-      "title": "NDPC pushes data protection as business priority",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mdzgxMENub2IyZm1KSFNiWHd1ZTQ3WUFyWmlXajBvOVYzeDZTWDFkeVNKMWEzTWRKTFhxRmFRcjh6ekRrOU5HYXVSVm9HcWJkSUJsSFlaM0FpRFczSW5JMHI2SkFmUGtPaEJ4WVI2cnd3UGVMWUIwUg?oc=5",
-      "date": "2026-11-09",
-      "source": "Punch Newspapers",
-      "summary": "NDPC pushes data protection as business priority  Punch Newspapers",
-      "jurisdiction": "ng",
-      "region": "EMEA"
-    },
-    {
       "title": "ODPC drops the hammer on Kenya’s corporate heavyweights for privacy breaches",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHdEbG9pS0NEMHIwR1BOWF92UlE4dkdQbFNPeVpEcEJ1elI3NW90d1FLNEZER1J0T18yX3JSd211Q0Ezb05nX3ZpLWp4YktrQzUyY1RHU2NfaFE1OUt0bHk1VWxEZUJZNVdZLTN5V1ZqTUhwYWxhWjFqb3ItaDlCbVBmRl9wX1Y5UTZ4VENLbnd4clphZnotUEMyRUFXMEZIcWs2VTdld19HV0tzX0E?oc=5",
       "date": "2026-11-09",
@@ -343,15 +352,6 @@
       "summary": "Nigeria Data Protection Commission NDPC probes Lotus Bank, University of Lagos UNILAG, Others Over Allege  Nigerian Voice",
       "jurisdiction": "ng",
       "region": "EMEA"
-    },
-    {
-      "title": "Doctor Anywhere, with over three million users in South-east Asia, reports personal data leak in Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWnpLSlpHVkNsMXdwTmY3R00yMGY1b2VveTY5VzdMZk5MNGNrQUNDSGZkSXkyazM4eGhJcmhnZy03QkR3Y25WcmMwUVF0Z0ZuWndQWFNUX012cS1KWmNlSV9kM3VqR3czUGlBcTZXWEw3Y1VlZjVjT1RTMWNZS25DQWtJUVQyYjhNUkNBc2NPVXh3Ni1GcTEtRUY0UGlxakRXZnhaQ2wzc29qYlNOckx4cmtWZTVURzhRczJXVmZ3aHpEYVU3TWhHSVBfRFk0OUt2MldWZkNqREdBX0tpOFdlc1BsNEtSTzR3OWNaNDI2R3V0ZVd6a0N4QUd6MNIB-wFBVV95cUxOWnpLSlpHVkNsMXdwTmY3R00yMGY1b2VveTY5VzdMZk5MNGNrQUNDSGZkSXkyazM4eGhJcmhnZy03QkR3Y25WcmMwUVF0Z0ZuWndQWFNUX012cS1KWmNlSV9kM3VqR3czUGlBcTZXWEw3Y1VlZjVjT1RTMWNZS25DQWtJUVQyYjhNUkNBc2NPVXh3Ni1GcTEtRUY0UGlxakRXZnhaQ2wzc29qYlNOckx4cmtWZTVURzhRczJXVmZ3aHpEYVU3TWhHSVBfRFk0OUt2MldWZkNqREdBX0tpOFdlc1BsNEtSTzR3OWNaNDI2R3V0ZVd6a0N4QUd6MA?oc=5",
-      "date": "2026-11-07",
-      "source": "Malay Mail",
-      "summary": "Doctor Anywhere, with over three million users in South-east Asia, reports personal data leak in Singapore  Malay Mail",
-      "jurisdiction": "sg",
-      "region": "APAC"
     },
     {
       "title": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
@@ -399,20 +399,20 @@
       "region": "EMEA"
     },
     {
-      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
-      "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
-      "date": "2026-11-05",
-      "source": "RSS - Actualités CNIL",
-      "summary": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
-      "jurisdiction": "eu",
-      "region": "EMEA"
-    },
-    {
       "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
       "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
       "date": "2026-11-05",
       "source": "RSS - Actualités CNIL",
       "summary": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
+      "jurisdiction": "eu",
+      "region": "EMEA"
+    },
+    {
+      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
+      "date": "2026-11-05",
+      "source": "RSS - Actualités CNIL",
+      "summary": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
       "jurisdiction": "eu",
       "region": "EMEA"
     },
@@ -435,13 +435,13 @@
       "region": "APAC"
     },
     {
-      "title": "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
-      "url": "https://www.cnil.fr/fr/cepd-privacy-for-kids",
+      "title": "SPP cracks down on personal data crimes",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wd05BaU9jdEdfS3FRdnBnVnphOXA4NjNGaHBHOTF2dGtVdE0wY2dWMVVEc0E1NFpQX0ZqMG5UMFVuanROeTE3aXYtSVdHNi1VZkthYXRKYnlyZw?oc=5",
       "date": "2026-11-04",
-      "source": "RSS - Actualités CNIL",
-      "summary": "Le Comité européen de la protection des données (CEPD), en lien avec différentes autorités de protection de données, dont la CNIL, lance sa plateforme Privacy for kids dédiée à l’éducation au numérique.",
-      "jurisdiction": "eu",
-      "region": "EMEA"
+      "source": "chinadailyhk",
+      "summary": "SPP cracks down on personal data crimes  chinadailyhk",
+      "jurisdiction": "cn",
+      "region": "APAC"
     },
     {
       "title": "People need to be warned when their personal data is leaked.",
@@ -597,15 +597,6 @@
       "region": "EMEA"
     },
     {
-      "title": "R500 000 fine reinforces the consequences of failing to act on POPIA breaches",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2I2amgzQnBqVDVxR0x0NGZ0N3YzaGtHTkhERlhqNU95UEdvTXdSajRYZFJvYi14OWQwTUxud3JTU1ZiVXNFcGtzVThmamZ3Z0Fod1ZwWE16NDFXSjNMazNQX2ROWTkwR2VxZXFXR09LWEhTbWpMcF8xUkI0R3c1aUVwcEdTejNzNUZqNWt2MzRDREhLMGN3ZHAyTF9Lb1JHaUhDcFF1eHdEUzhPeG5oaDZvYlp2QWZBYmE2WnZGYw?oc=5",
-      "date": "2026-10-30",
-      "source": "Polity.org.za",
-      "summary": "R500 000 fine reinforces the consequences of failing to act on POPIA breaches  Polity.org.za",
-      "jurisdiction": "za",
-      "region": "EMEA"
-    },
-    {
       "title": "China looks to bring AI agents into the digital identity rulebook",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFdzV1NKSGl4NG5VOVgyOFFOQmx5dlVLd2pBdDZfa2JsMGEyeEc4Q2hnQml2cWZ2ZlhILUJLYzUwUU10U0RMREJDeEdjSjNNSGV3ZTE0cUdEQklPU0YyT2p2UlBQOTBDYnpTeWlRek1CanM1S1kxVkVVZ2xDRFJjUXdQYmpyRElhenZ3UVdHOXFIZnhweUVJd1k4cGFwTXJBWVFwZm1nUQ?oc=5",
       "date": "2026-10-29",
@@ -640,6 +631,15 @@
       "summary": "Indonesia tenders 4PB of storage for national biometric ID infrastructure  Biometric Update",
       "jurisdiction": "id",
       "region": "APAC"
+    },
+    {
+      "title": "Data breach: NDPC probes 240 cases, flags 1,900 organisations",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTl1blpBYk14NUhlVmhMWUpGVzdJTUFfd2tMNldjZzhoV1dNMlpqcENKLUNXamE3emJiNU96Q0E4ajNTZ3EtUkkya2Y3UW5wYmFScENqbE5TbzhIQU1xV0Q4MWF5N0E3c3h5Z2t0a2owdmtBMF9VYVM0VlQzTk1YVXNCVkNDdw?oc=5",
+      "date": "2026-10-29",
+      "source": "Punch Newspapers",
+      "summary": "Data breach: NDPC probes 240 cases, flags 1,900 organisations  Punch Newspapers",
+      "jurisdiction": "ng",
+      "region": "EMEA"
     },
     {
       "title": "Kenya’s Data Protection Commissioner engages EU call centre operators on BPO Investment",
@@ -678,6 +678,15 @@
       "region": "APAC"
     },
     {
+      "title": "Getting privacy ready",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TV2NGZVZuU01pUVp3angzUXpYWmYwV2p1Q3hXQUpEa3pOY3dlbm1xanhPY21zZ0VtdmRkYm9HXzd2RkxYVk13bUNlczkwc0VtY3ZtYmR4RHBEZEJ2V2h3ZFhlZzRMeHpUNlBlc29YUkdIQU1ZTE40Wmt4LXhzTEk?oc=5",
+      "date": "2026-10-28",
+      "source": "Government News",
+      "summary": "Getting privacy ready  Government News",
+      "jurisdiction": "au",
+      "region": "APAC"
+    },
+    {
       "title": "Fisher & Paykel Healthcare cyber breach exposes personal data",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWxCb0xkMmxmR2NYNHd3Q0NLaWRGeTJLa0RkbGc2YmVSVEZMVVI1bDVlTnlBeGFaZ09wQnBNVkFoVV9FM2JmeU55WHBoa2xxLUNfRm1qYWYzVWMwaGpTRU1mS05FLXgzbUVJcmppY1FIZzdBREg4TlliazR6eUluUVV2Uy1kUXNCWEVabWY5WQ?oc=5",
       "date": "2026-10-28",
@@ -703,15 +712,6 @@
       "summary": "FNB fined R1 million for POPIA breach after sensitive customer information was exposed  IOL",
       "jurisdiction": "za",
       "region": "EMEA"
-    },
-    {
-      "title": "South Korea: PIPA's new framework for using personal information in AI development",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV08wR2xaM2FxdUMyaHdLcDA3cWc5QndzMGJtTTdadTBzclJGUGdWeW5ZZVJvRlpsd1J0T294TnJwdjhOa3pqSXJKekctSFhFY19oRXFpNG02cjEzSzhuSGl2SWNZV3M4c0pNbEFHc2xsdElHT0xkV25laHM2dTFyM3VzandjMlJ5dUVB?oc=5",
-      "date": "2026-10-27",
-      "source": "DataGuidance",
-      "summary": "South Korea: PIPA's new framework for using personal information in AI development  DataGuidance",
-      "jurisdiction": "kr",
-      "region": "APAC"
     },
     {
       "title": "Australian privacy overhaul would widen gap with NZ law, experts warn",
@@ -755,6 +755,15 @@
       "date": "2026-10-27",
       "source": "TechCentral",
       "summary": "Regulator hits FNB with R1-million Popia fine  TechCentral",
+      "jurisdiction": "za",
+      "region": "EMEA"
+    },
+    {
+      "title": "FNB issued with R1m fine for POPIA violation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWtzT0Y4RDBTNDhoRTFabHdBcjVqVWQxN3RhMHBqYTVtRHpXa2pPZlVlUU5CVDd2U2FyMmsyREZPSlJuVmQySXIyZmREa3F0ZVhmWHhpb2h5amJVNXk1MkVqcWp0UVVPMHQ3Ylg4RDMwMU02RXM2cHY4UGJPT1dnUS1zeGdsUzlGblRhWnlLbFlOX0xHTEcteA?oc=5",
+      "date": "2026-10-27",
+      "source": "ITWeb",
+      "summary": "FNB issued with R1m fine for POPIA violation  ITWeb",
       "jurisdiction": "za",
       "region": "EMEA"
     },
@@ -975,6 +984,15 @@
       "region": "APAC"
     },
     {
+      "title": "How AI is reshaping privacy access requests",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1KQkhwejV1TXAtUGEzd2ZFeWROZFJxM0VXOW4yMjdoRklzLXF0RFEwa0VIVGQ1dkVrdElGalVyaHBLaFZQZVFyMk1UTmhyU3ZZbmhfemlyRDkzYWMtOWtXdlhaSjdNd2NqcTNMb3I5UEhaODJVZ2hXd0xpT0ZQREFpNFc?oc=5",
+      "date": "2026-10-19",
+      "source": "Newsroom",
+      "summary": "How AI is reshaping privacy access requests  Newsroom",
+      "jurisdiction": "nz",
+      "region": "APAC"
+    },
+    {
       "title": "Saudi consultation proposes data protection reform",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3VzT1d5TkhmcHRyRnc4cnhWOUctYXhJc0lfR0hGaU9Va0RwSFNYczdlOGdUdjJVYnlkTHpLRWtTMmM5YTBydGZWU3ZYeV9rNklnT2tvNVlIT2ttN3VtRVo2MEVSR0kxbnZ5ZGxPZG80UW55dUhCTXQ1UTg0UmR1cWR4YUNQVy0zRzl5NERxRF8xbm50UVk1Qzhha1JOdw?oc=5",
       "date": "2026-10-19",
@@ -982,6 +1000,15 @@
       "summary": "Saudi consultation proposes data protection reform  Pinsent Masons",
       "jurisdiction": "ae",
       "region": "EMEA"
+    },
+    {
+      "title": "Korea’s new personal data rules impose new duties on CEOs, harsher penalties",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRlBsUHdRU1A3MHNGOEhkU3RRaEpkaXFscjNBa2ZlOUpUM04zcEtBUDJNTGRFOWhkVlpueWx1bW5Xck8yYnNrdENtYjUzLVY2bU52YnZBTnR3NUZNV3lzTV9WN0F6czVlem9lZmhzbFdIUUpjc0x2OWFyeXU3SDNnMy1LQWtyTlgzMkd0V0ZQWmt2Tnp6ZkNNaWF5a0NwY1QyQS1mcWJIUGhvRU16WUp4dmdaNU9XYzRTWDZiNHE3ZmRidw?oc=5",
+      "date": "2026-10-18",
+      "source": "| Asian Legal Business",
+      "summary": "Korea’s new personal data rules impose new duties on CEOs, harsher penalties  | Asian Legal Business",
+      "jurisdiction": "kr",
+      "region": "APAC"
     }
   ]
 }
